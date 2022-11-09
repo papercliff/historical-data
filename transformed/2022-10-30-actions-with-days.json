@@ -1,0 +1,2752 @@
+[
+  {
+    "action": "change-day",
+    "new_day": "Sun 30\nOct 2022"
+  },
+  {
+    "id": "halloween",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "bolsonaro",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "seoul",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "crowd",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "pelosi",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "collapses",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "suspension",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "seoul",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "seoul",
+    "action": "add-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "seoul",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapses",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "pelosi",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "lula",
+    "target": "polls",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "polls",
+    "action": "remove-edge"
+  },
+  {
+    "id": "polls",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "seoul",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dead",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "musk",
+    "target": "pelosi",
+    "action": "remove-edge"
+  },
+  {
+    "id": "pelosi",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pelosi",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "pelosi",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "bridge",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspension",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "id": "covid",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "workers",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "covid",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "covid",
+    "target": "workers",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "pelosi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "seoul",
+    "action": "remove-edge"
+  },
+  {
+    "source": "seoul",
+    "target": "crowd",
+    "action": "remove-edge"
+  },
+  {
+    "id": "workers",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "pelosi",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "seoul",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "suspension",
+    "target": "collapses",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "collapses",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "id": "president",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "collapses",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "elon",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "india",
+    "target": "suspension",
+    "action": "remove-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "suspension",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "suspension",
+    "action": "remove-edge"
+  },
+  {
+    "id": "suspension",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "id": "president",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 31\nOct 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "id": "president",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "election",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "election",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "election",
+    "action": "remove-edge"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "id": "elon",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "india",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "india",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "collapse",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kyiv",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "india",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "collapse",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "collapse",
+    "target": "india",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "india",
+    "action": "remove-edge"
+  },
+  {
+    "id": "india",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "remove-edge"
+  },
+  {
+    "id": "grain",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "citizenship",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russian",
+    "target": "citizenship",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "citizenship",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "halloween",
+    "target": "korea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "crowd",
+    "action": "remove-edge"
+  },
+  {
+    "source": "halloween",
+    "target": "crowd",
+    "action": "remove-edge"
+  },
+  {
+    "id": "crowd",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "halloween",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "lula",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lula",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "brazil",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "bolsonaro",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "halloween",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "halloween",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "citizenship",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "citizenship",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "collapse",
+    "action": "remove-edge"
+  },
+  {
+    "id": "citizenship",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "id": "bolsonaro",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "id": "polls",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "election",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "bridge",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 01\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "halloween",
+    "action": "remove-edge"
+  },
+  {
+    "id": "halloween",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bridge",
+    "target": "collapse",
+    "action": "remove-edge"
+  },
+  {
+    "id": "collapse",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "bridge",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "exit",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "netanyahu",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "exit",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "exit",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "polls",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "id": "israeli",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "id": "fires",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "id": "korean",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "exit",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "polls",
+    "target": "israel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "id": "lions",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zoo",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "lions",
+    "target": "zoo",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "israeli",
+    "target": "exit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "brazil",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "bolsonaro",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "polls",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "exit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "polls",
+    "target": "exit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "exit",
+    "action": "remove-edge"
+  },
+  {
+    "id": "exit",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "israeli",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "brazil",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "bolsonaro",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "netanyahu",
+    "target": "polls",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "polls",
+    "action": "remove-edge"
+  },
+  {
+    "id": "polls",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 02\nNov 2022"
+  },
+  {
+    "source": "lions",
+    "target": "zoo",
+    "action": "remove-edge"
+  },
+  {
+    "id": "zoo",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "lions",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "missile",
+    "target": "korean",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "korean",
+    "action": "remove-edge"
+  },
+  {
+    "id": "korean",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "launches",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "id": "biden",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "fires",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "id": "launches",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "netanyahu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "israel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "israel",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "netanyahu",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "launches",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fires",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "pakistan",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "imran",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "imran",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "id": "shot",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "imran",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "remove-edge"
+  },
+  {
+    "id": "grain",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "icbm",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "icbm",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "icbm",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "icbm",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "midterms",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "election",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "midterms",
+    "action": "add-edge"
+  },
+  {
+    "source": "democracy",
+    "target": "midterms",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "id": "launches",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fires",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 03\nNov 2022"
+  },
+  {
+    "source": "democracy",
+    "target": "midterms",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "midterms",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "democracy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "id": "midterms",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "japan",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "democracy",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "icbm",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fires",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "icbm",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "icbm",
+    "action": "remove-edge"
+  },
+  {
+    "id": "icbm",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "id": "china",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "china",
+    "target": "germany",
+    "action": "remove-edge"
+  },
+  {
+    "id": "germany",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "imran",
+    "target": "wounded",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "wounded",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "wounded",
+    "action": "remove-edge"
+  },
+  {
+    "id": "wounded",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "id": "nuclear",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "pakistan",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "imran",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "id": "shot",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "id": "iran",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "election",
+    "target": "netanyahu",
+    "action": "remove-edge"
+  },
+  {
+    "id": "netanyahu",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "election",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "iran",
+    "target": "embassy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "embassy",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kherson",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 04\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "musk",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kherson",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "remove-edge"
+  },
+  {
+    "id": "imran",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "id": "drones",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "khan",
+    "target": "pakistan",
+    "action": "remove-edge"
+  },
+  {
+    "id": "pakistan",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "khan",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "activists",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 05\nNov 2022"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missiles",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 2,
+    "action": "remove-node"
+  }
+]
