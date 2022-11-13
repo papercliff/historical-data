@@ -1,0 +1,2247 @@
+[
+  {
+    "action": "change-day",
+    "new_day": "Sun 06\nNov 2022"
+  },
+  {
+    "id": "lake",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "victoria",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tanzania",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "lake",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "victoria",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "victoria",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "victoria",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "victoria",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "source": "tanzania",
+    "target": "victoria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tanzania",
+    "target": "crashes",
+    "action": "remove-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "source": "plane",
+    "target": "tanzania",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "tanzania",
+    "action": "remove-edge"
+  },
+  {
+    "source": "victoria",
+    "target": "crashes",
+    "action": "remove-edge"
+  },
+  {
+    "id": "tanzania",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "source": "plane",
+    "target": "crashes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "crashes",
+    "action": "remove-edge"
+  },
+  {
+    "id": "crashes",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "source": "plane",
+    "target": "victoria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "victoria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "plane",
+    "action": "remove-edge"
+  },
+  {
+    "id": "victoria",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "plane",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "lake",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "id": "climate",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "interfering",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "elections",
+    "target": "interfering",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "interfering",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "cop27",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "id": "korea",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "tests",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Mon 07\nNov 2022"
+  },
+  {
+    "id": "midterms",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "midterms",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "midterms",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "source": "midterms",
+    "target": "trump",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "trump",
+    "action": "remove-edge"
+  },
+  {
+    "source": "midterms",
+    "target": "biden",
+    "action": "remove-edge"
+  },
+  {
+    "id": "trump",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "midterms",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "source": "missile",
+    "target": "tests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "tests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "tests",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "source": "cop27",
+    "target": "summit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "summit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "remove-edge"
+  },
+  {
+    "id": "summit",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "source": "putin",
+    "target": "interfering",
+    "action": "remove-edge"
+  },
+  {
+    "source": "elections",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "elections",
+    "target": "interfering",
+    "action": "remove-edge"
+  },
+  {
+    "id": "interfering",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "elections",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "id": "trump",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "announcement",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "big",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "announcement",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "announcement",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Tue 08\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "source": "trump",
+    "target": "big",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "announcement",
+    "action": "remove-edge"
+  },
+  {
+    "source": "announcement",
+    "target": "big",
+    "action": "remove-edge"
+  },
+  {
+    "id": "big",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "announcement",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "id": "royal",
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "princess",
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "royal",
+    "target": "princess",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "id": "russian",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "penal",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "brittney",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "griner",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "penal",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "penal",
+    "action": "add-edge"
+  },
+  {
+    "source": "penal",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "source": "brittney",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "source": "royal",
+    "target": "princess",
+    "action": "remove-edge"
+  },
+  {
+    "id": "princess",
+    "cluster": 14,
+    "action": "remove-node"
+  },
+  {
+    "id": "royal",
+    "cluster": 14,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "id": "king",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "eggs",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "charles",
+    "target": "eggs",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "eggs",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "remove-edge"
+  },
+  {
+    "id": "talks",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "id": "musk",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "tesla",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "stock",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "stock",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "tesla",
+    "action": "add-edge"
+  },
+  {
+    "source": "tesla",
+    "target": "stock",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "source": "tesla",
+    "target": "stock",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "stock",
+    "action": "remove-edge"
+  },
+  {
+    "id": "stock",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "troops",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Wed 09\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "musk",
+    "target": "tesla",
+    "action": "remove-edge"
+  },
+  {
+    "id": "tesla",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "putin",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "vladimir",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "florida",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nicole",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hurricane",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "florida",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "nicole",
+    "action": "add-edge"
+  },
+  {
+    "source": "nicole",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "g20",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "g20",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "g20",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "russian",
+    "target": "griner",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "penal",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "brittney",
+    "action": "remove-edge"
+  },
+  {
+    "source": "king",
+    "target": "eggs",
+    "action": "remove-edge"
+  },
+  {
+    "source": "charles",
+    "target": "eggs",
+    "action": "remove-edge"
+  },
+  {
+    "id": "eggs",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "remove-edge"
+  },
+  {
+    "source": "griner",
+    "target": "penal",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brittney",
+    "target": "penal",
+    "action": "remove-edge"
+  },
+  {
+    "source": "griner",
+    "target": "brittney",
+    "action": "remove-edge"
+  },
+  {
+    "id": "king",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "penal",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "brittney",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "griner",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "charles",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "troops",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "troops",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "troops",
+    "action": "remove-edge"
+  },
+  {
+    "id": "troops",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "g20",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "g20",
+    "target": "vladimir",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "id": "pay",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jones",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "pay",
+    "target": "jones",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Thu 10\nNov 2022"
+  },
+  {
+    "source": "xi",
+    "target": "taiwan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "taiwan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "id": "taiwan",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "xi",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "police",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "brussels",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "officer",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "summit",
+    "target": "vladimir",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "vladimir",
+    "action": "remove-edge"
+  },
+  {
+    "id": "vladimir",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "women",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "putin",
+    "target": "summit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "summit",
+    "target": "g20",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "g20",
+    "action": "remove-edge"
+  },
+  {
+    "id": "g20",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "id": "alex",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "alex",
+    "target": "jones",
+    "action": "add-edge"
+  },
+  {
+    "source": "pay",
+    "target": "alex",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "nicole",
+    "target": "hurricane",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nicole",
+    "target": "florida",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "florida",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "remove-edge"
+  },
+  {
+    "id": "taliban",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "florida",
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "hurricane",
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "nicole",
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "women",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "id": "twitter",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tsunami",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "tonga",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tonga",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "tonga",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "pay",
+    "target": "jones",
+    "action": "remove-edge"
+  },
+  {
+    "source": "alex",
+    "target": "jones",
+    "action": "remove-edge"
+  },
+  {
+    "id": "jones",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "russia",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "musk",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "xi",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "id": "meet",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "xi",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "retreat",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "pay",
+    "target": "alex",
+    "action": "remove-edge"
+  },
+  {
+    "id": "alex",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "pay",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "officer",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brussels",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "id": "killed",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "police",
+    "target": "brussels",
+    "action": "remove-edge"
+  },
+  {
+    "source": "officer",
+    "target": "brussels",
+    "action": "remove-edge"
+  },
+  {
+    "id": "brussels",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "officer",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "police",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Fri 11\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "id": "senate",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "arizona",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "kelly",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "arizona",
+    "target": "kelly",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "arizona",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "kelly",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "id": "covid",
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "cruise",
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "covid",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "source": "tonga",
+    "target": "tsunami",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tsunami",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tonga",
+    "action": "remove-edge"
+  },
+  {
+    "id": "tsunami",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "tonga",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "earthquake",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "source": "russian",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "retreat",
+    "action": "remove-edge"
+  },
+  {
+    "id": "retreat",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "democrats",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "kherson",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "democrats",
+    "target": "arizona",
+    "action": "add-edge"
+  },
+  {
+    "source": "democrats",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  },
+  {
+    "action": "change-day",
+    "new_day": "Sat 12\nNov 2022"
+  }
+]
