@@ -1,0 +1,1392 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "billion",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "population",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "g20",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "arizona",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "governor",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "positive",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "tests",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "egyptian",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hunger",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "hobbs",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "abu",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "poland",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "billion",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "billion",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "positive",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "positive",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "g20",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "g20",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "hobbs",
+    "action": "add-edge"
+  },
+  {
+    "source": "governor",
+    "target": "hobbs",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "g20",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "abu",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "hunger",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "g20",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "israel",
+    "target": "abu",
+    "action": "remove-edge"
+  },
+  {
+    "id": "abu",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "biden",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "abu",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "israel",
+    "target": "abu",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "governor",
+    "target": "hobbs",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "hobbs",
+    "action": "remove-edge"
+  },
+  {
+    "id": "hobbs",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "2024",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bid",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "2024",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "2024",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "2024",
+    "target": "bid",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "bid",
+    "action": "add-edge"
+  },
+  {
+    "source": "2024",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "arizona",
+    "target": "governor",
+    "action": "remove-edge"
+  },
+  {
+    "id": "governor",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "arizona",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "source": "bid",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "leaders",
+    "action": "remove-edge"
+  },
+  {
+    "source": "g20",
+    "target": "leaders",
+    "action": "remove-edge"
+  },
+  {
+    "id": "leaders",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "source": "president",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "g20",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "israel",
+    "target": "abu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "id": "abu",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "zelensky",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "nasa",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "moon",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "artemis",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "nasa",
+    "target": "moon",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "moon",
+    "action": "add-edge"
+  },
+  {
+    "source": "nasa",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "artemis",
+    "action": "add-edge"
+  },
+  {
+    "source": "nasa",
+    "target": "artemis",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "artemis",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "west",
+    "target": "palestinian",
+    "action": "remove-edge"
+  },
+  {
+    "id": "palestinian",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "west",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "emergency",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "nato",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "positive",
+    "target": "tests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "positive",
+    "action": "remove-edge"
+  },
+  {
+    "id": "positive",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "presidential",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "oman",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "2024",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "oman",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "oman",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "id": "tanker",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "drone",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "oman",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "tests",
+    "action": "remove-edge"
+  },
+  {
+    "id": "tests",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "zelensky",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukrainian",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "blast",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "missile",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "israel",
+    "target": "probe",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hunger",
+    "target": "egyptian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hunger",
+    "target": "activist",
+    "action": "remove-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "activist",
+    "action": "remove-edge"
+  },
+  {
+    "id": "probe",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "israel",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "activist",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "egyptian",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "hunger",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "polish",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "id": "charges",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kevin",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "charges",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "id": "launches",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spacey",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "charges",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "2024",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "donald",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "g20",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "g20",
+    "action": "remove-edge"
+  },
+  {
+    "id": "g20",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "world",
+    "target": "population",
+    "action": "remove-edge"
+  },
+  {
+    "source": "world",
+    "target": "billion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "billion",
+    "target": "population",
+    "action": "remove-edge"
+  },
+  {
+    "id": "population",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "billion",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "world",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "oman",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "id": "climate",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "climate",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "donald",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "summit",
+    "target": "lula",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "lula",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lula",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "run",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "2024",
+    "target": "run",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "run",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "g20",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "accident",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "missile",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "g20",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "g20",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "strike",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nato",
+    "target": "strike",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nato",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "musk",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "polish",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "polish",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "run",
+    "action": "remove-edge"
+  },
+  {
+    "source": "2024",
+    "target": "run",
+    "action": "remove-edge"
+  },
+  {
+    "source": "spacey",
+    "target": "charges",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "charges",
+    "action": "remove-edge"
+  },
+  {
+    "id": "charges",
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "elon",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "run",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "polish",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "source": "nato",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "source": "nato",
+    "target": "emergency",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "poland",
+    "target": "accident",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "accident",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "poland",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "accident",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "missiles",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "source": "nato",
+    "target": "blast",
+    "action": "add-edge"
+  }
+]
