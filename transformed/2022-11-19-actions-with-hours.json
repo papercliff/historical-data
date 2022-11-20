@@ -1,0 +1,1727 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "korea",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "explosives",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "stadiums",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nord",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "khashoggi",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "cup",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "holmes",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "counsel",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "ballistic",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "immunity",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "theranos",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sabotage",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "fraud",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pipelines",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "elizabeth",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "range",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "party",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "khomeini",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "alcohol",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "birthday",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pipeline",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "traces",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "nord",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "beer",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "stadiums",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "khashoggi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "khashoggi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "theranos",
+    "action": "add-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "alcohol",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "alcohol",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "pipelines",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "pipelines",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "traces",
+    "action": "add-edge"
+  },
+  {
+    "source": "pipelines",
+    "target": "traces",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "pipelines",
+    "action": "add-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "elizabeth",
+    "action": "add-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "elizabeth",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "elizabeth",
+    "action": "add-edge"
+  },
+  {
+    "source": "beer",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "immunity",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "immunity",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "traces",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "traces",
+    "action": "add-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "beer",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "khomeini",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "counsel",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "khomeini",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "gaza",
+    "target": "birthday",
+    "action": "remove-edge"
+  },
+  {
+    "source": "party",
+    "target": "birthday",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kills",
+    "target": "birthday",
+    "action": "remove-edge"
+  },
+  {
+    "id": "birthday",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "kim",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "lawsuit",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "immune",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "khashoggi",
+    "target": "immune",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "immune",
+    "action": "add-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "immune",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "fires",
+    "target": "ballistic",
+    "action": "remove-edge"
+  },
+  {
+    "source": "party",
+    "target": "gaza",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kills",
+    "target": "gaza",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "ballistic",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ballistic",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "gaza",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "fires",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "sentenced",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "range",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "range",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "korea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "killing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prince",
+    "target": "killing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "source": "beer",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ban",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "range",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "killing",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "prince",
+    "target": "immune",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "immune",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "immune",
+    "action": "remove-edge"
+  },
+  {
+    "id": "immune",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "daughter",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "kim",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "saudi",
+    "target": "biden",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "khashoggi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "leader",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "putin",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "daughter",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "leader",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strikes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strikes",
+    "action": "remove-edge"
+  },
+  {
+    "id": "strikes",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "leader",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "saudi",
+    "target": "lawsuit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "lawsuit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "sabotage",
+    "action": "remove-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "cup",
+    "action": "remove-edge"
+  },
+  {
+    "source": "beer",
+    "target": "cup",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lawsuit",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "cup",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "saudi",
+    "target": "prince",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prince",
+    "target": "khashoggi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nord",
+    "target": "traces",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "traces",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pipelines",
+    "target": "traces",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "traces",
+    "action": "remove-edge"
+  },
+  {
+    "id": "traces",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "prince",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "cup",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "lawsuit",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "beer",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "sweden",
+    "target": "pipeline",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nord",
+    "target": "pipeline",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nord",
+    "target": "pipelines",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "immunity",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "immunity",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "lawsuit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "khashoggi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khashoggi",
+    "target": "lawsuit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "pipelines",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "pipelines",
+    "action": "remove-edge"
+  },
+  {
+    "source": "party",
+    "target": "kills",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "sabotage",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nord",
+    "target": "sabotage",
+    "action": "remove-edge"
+  },
+  {
+    "id": "immunity",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "pipelines",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "lawsuit",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "kills",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "pipeline",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "party",
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "khashoggi",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "sabotage",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "saudi",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "power",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "cop27",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "iran",
+    "target": "protesters",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "khomeini",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "cup",
+    "action": "remove-edge"
+  },
+  {
+    "source": "cup",
+    "target": "beer",
+    "action": "remove-edge"
+  },
+  {
+    "id": "iran",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "cup",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "alcohol",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "alcohol",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "stadiums",
+    "action": "remove-edge"
+  },
+  {
+    "source": "stadiums",
+    "target": "beer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "remove-edge"
+  },
+  {
+    "id": "power",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "alcohol",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "stadiums",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "plane",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "plane",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "nord",
+    "target": "sweden",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "sweden",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "nord",
+    "action": "remove-edge"
+  },
+  {
+    "id": "sweden",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "nord",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "explosives",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "remove-edge"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "cop27",
+    "target": "talks",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "talks",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "remove-edge"
+  },
+  {
+    "id": "talks",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "rishi",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "sunak",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "protesters",
+    "target": "khomeini",
+    "action": "remove-edge"
+  },
+  {
+    "id": "khomeini",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "protesters",
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "qatar",
+    "target": "beer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "beer",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "counsel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "counsel",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "korea",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "theranos",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "source": "plane",
+    "target": "airport",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fraud",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "airport",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "plane",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "korea",
+    "target": "jong",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prison",
+    "target": "sentenced",
+    "action": "remove-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "prison",
+    "action": "remove-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "elizabeth",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "elizabeth",
+    "action": "remove-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "elizabeth",
+    "action": "remove-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "sentenced",
+    "action": "remove-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "theranos",
+    "action": "remove-edge"
+  },
+  {
+    "source": "holmes",
+    "target": "sentenced",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elizabeth",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "sentenced",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "theranos",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "prison",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "holmes",
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "musk",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 8,
+    "action": "remove-node"
+  }
+]
