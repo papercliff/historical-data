@@ -1,0 +1,1362 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nightclub",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "colorado",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "fund",
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "loss",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "shelling",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "istanbul",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "iraq",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "zaporizhzhia",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "damage",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "nightclub",
+    "target": "colorado",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "colorado",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "nightclub",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "istanbul",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "fund",
+    "action": "add-edge"
+  },
+  {
+    "source": "cop27",
+    "target": "fund",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "colorado",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "istanbul",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "loss",
+    "target": "damage",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "damage",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "loss",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "donald",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "id": "donald",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "bombing",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "18",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "colorado",
+    "target": "18",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "18",
+    "action": "add-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "18",
+    "action": "add-edge"
+  },
+  {
+    "source": "istanbul",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "cop27",
+    "target": "fund",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "fund",
+    "action": "remove-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop27",
+    "action": "remove-edge"
+  },
+  {
+    "source": "summit",
+    "target": "loss",
+    "action": "remove-edge"
+  },
+  {
+    "source": "loss",
+    "target": "damage",
+    "action": "remove-edge"
+  },
+  {
+    "id": "loss",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "fund",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "cop27",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "climate",
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "loss",
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "damage",
+    "target": "loss",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "loss",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "id": "zealand",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "gay",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "age",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "voting",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "age",
+    "target": "voting",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "age",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "voting",
+    "action": "add-edge"
+  },
+  {
+    "source": "18",
+    "target": "voting",
+    "action": "add-edge"
+  },
+  {
+    "source": "18",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "18",
+    "target": "age",
+    "action": "add-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "gay",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gay",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "death",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "colorado",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "syria",
+    "target": "bombing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "bombing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "istanbul",
+    "target": "bombing",
+    "action": "remove-edge"
+  },
+  {
+    "id": "bombing",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "java",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "indonesia",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "java",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "java",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "java",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "colorado",
+    "target": "18",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "18",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "18",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "death",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "death",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gay",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "gay",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "death",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "gay",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "kurdish",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "disney",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bob",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "disney",
+    "target": "bob",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "kurdish",
+    "action": "add-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "kurdish",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "summit",
+    "target": "loss",
+    "action": "remove-edge"
+  },
+  {
+    "source": "summit",
+    "target": "damage",
+    "action": "remove-edge"
+  },
+  {
+    "source": "loss",
+    "target": "damage",
+    "action": "remove-edge"
+  },
+  {
+    "id": "damage",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "loss",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "summit",
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "winter",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "winter",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "ukrainian",
+    "target": "shelling",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "ukrainian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "shelling",
+    "action": "remove-edge"
+  },
+  {
+    "source": "syria",
+    "target": "istanbul",
+    "action": "remove-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "istanbul",
+    "action": "remove-edge"
+  },
+  {
+    "id": "istanbul",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "shelling",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukrainian",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fifa",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "teams",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "armbands",
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "fifa",
+    "target": "armbands",
+    "action": "add-edge"
+  },
+  {
+    "source": "teams",
+    "target": "armbands",
+    "action": "add-edge"
+  },
+  {
+    "source": "fifa",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "zaporizhzhia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "zaporizhzhia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "ukraine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killed",
+    "target": "shooting",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killed",
+    "target": "nightclub",
+    "action": "remove-edge"
+  },
+  {
+    "id": "zaporizhzhia",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "killed",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "nuclear",
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "moon",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nasa",
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "iger",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "bob",
+    "target": "iger",
+    "action": "add-edge"
+  },
+  {
+    "source": "disney",
+    "target": "iger",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "nasa",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "turkey",
+    "target": "syria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "iraq",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "syria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "nightclub",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "colorado",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nightclub",
+    "target": "colorado",
+    "action": "remove-edge"
+  },
+  {
+    "id": "colorado",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "syria",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "nightclub",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "turkey",
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "shooting",
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zaporizhzhia",
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "david",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "jason",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "rangers",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "disney",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "iger",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "bob",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "david",
+    "target": "jason",
+    "action": "add-edge"
+  },
+  {
+    "source": "david",
+    "target": "rangers",
+    "action": "add-edge"
+  },
+  {
+    "source": "jason",
+    "target": "rangers",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "id": "anthem",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "dies",
+    "target": "jason",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "rangers",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "anthem",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "dies",
+    "target": "rangers",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dies",
+    "target": "jason",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dies",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "earthquake",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "twitter",
+    "target": "trump",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "trump",
+    "action": "remove-edge"
+  },
+  {
+    "source": "jason",
+    "target": "rangers",
+    "action": "remove-edge"
+  },
+  {
+    "source": "david",
+    "target": "rangers",
+    "action": "remove-edge"
+  },
+  {
+    "source": "david",
+    "target": "jason",
+    "action": "remove-edge"
+  },
+  {
+    "id": "rangers",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "jason",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "david",
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "kills",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "indonesia",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "id": "crashes",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "apple",
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "crashes",
+    "target": "apple",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "apple",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "sing",
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "anthem",
+    "target": "sing",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "sing",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "shooting",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "worst",
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "kyiv",
+    "target": "worst",
+    "action": "add-edge"
+  },
+  {
+    "source": "winter",
+    "target": "worst",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
