@@ -1,0 +1,5639 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "indonesia",
+    "weight": 25,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 24,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "islands",
+    "weight": 16,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 15,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "solomon",
+    "weight": 14,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 13,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 10,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "messi",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "arabia",
+    "target": "argentina",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "argentina",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "islands",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "solomon",
+    "action": "add-edge"
+  },
+  {
+    "source": "islands",
+    "target": "solomon",
+    "action": "add-edge"
+  },
+  {
+    "source": "islands",
+    "target": "tsunami",
+    "action": "add-edge"
+  },
+  {
+    "source": "solomon",
+    "target": "tsunami",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "uranium",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tsunami",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "united",
+    "target": "manchester",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "messi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "messi",
+    "action": "add-edge"
+  },
+  {
+    "source": "daughter",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "messi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "islands",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "solomon",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "indonesia",
+    "weight": 25,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "islands",
+    "weight": 16,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 15,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "solomon",
+    "weight": 14,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 13,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 10,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warning",
+    "weight": 8,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "source": "islands",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "solomon",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "quake",
+    "target": "solomon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "islands",
+    "target": "quake",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "messi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "messi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "messi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tsunami",
+    "action": "remove-edge"
+  },
+  {
+    "source": "solomon",
+    "target": "warning",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "warning",
+    "action": "remove-edge"
+  },
+  {
+    "source": "islands",
+    "target": "warning",
+    "action": "remove-edge"
+  },
+  {
+    "id": "messi",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "warning",
+    "weight": 8,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "islands",
+    "weight": 16,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 15,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "solomon",
+    "weight": 14,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 14,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 10,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "solomon",
+    "target": "tsunami",
+    "action": "remove-edge"
+  },
+  {
+    "source": "islands",
+    "target": "tsunami",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hong",
+    "target": "guilty",
+    "action": "remove-edge"
+  },
+  {
+    "source": "islands",
+    "target": "solomon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "solomon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "islands",
+    "action": "remove-edge"
+  },
+  {
+    "id": "guilty",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 8,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "solomon",
+    "weight": 9,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "islands",
+    "weight": 11,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 25,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 13,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 13,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 12,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "purity",
+    "action": "add-edge"
+  },
+  {
+    "source": "uranium",
+    "target": "purity",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "indonesia",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 22,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 14,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 12,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "uranium",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "turkey",
+    "target": "syria",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "turkey",
+    "action": "remove-edge"
+  },
+  {
+    "id": "turkey",
+    "weight": 12,
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 15,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "daughter",
+    "target": "kim",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kim",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 25,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 15,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 10,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "bus",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "walmart",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "united",
+    "target": "manchester",
+    "action": "remove-edge"
+  },
+  {
+    "id": "manchester",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "united",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 25,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 22,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 16,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 10,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "uranium",
+    "target": "purity",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "purity",
+    "action": "remove-edge"
+  },
+  {
+    "id": "purity",
+    "weight": 8,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 25,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 22,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "shooting",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "source": "walmart",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "indonesia",
+    "weight": 24,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 22,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 15,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "store",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "charity",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "leadership",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "shooting",
+    "target": "store",
+    "action": "add-edge"
+  },
+  {
+    "source": "walmart",
+    "target": "store",
+    "action": "add-edge"
+  },
+  {
+    "source": "charity",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "walmart",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "indonesia",
+    "target": "magnitude",
+    "action": "remove-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "magnitude",
+    "action": "remove-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "earthquake",
+    "action": "remove-edge"
+  },
+  {
+    "source": "charity",
+    "target": "leadership",
+    "action": "remove-edge"
+  },
+  {
+    "id": "leadership",
+    "weight": 8,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "charity",
+    "weight": 8,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 11,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 20,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 23,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 11,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "store",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "court",
+    "target": "independence",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "quake",
+    "target": "toll",
+    "action": "remove-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "toll",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "syria",
+    "action": "remove-edge"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "toll",
+    "weight": 9,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 19,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "store",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "independence",
+    "target": "referendum",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "scotland",
+    "action": "add-edge"
+  },
+  {
+    "source": "referendum",
+    "target": "scotland",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "walmart",
+    "target": "store",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "store",
+    "action": "remove-edge"
+  },
+  {
+    "source": "king",
+    "target": "visit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "charles",
+    "target": "visit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "store",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "remove-node"
+  },
+  {
+    "id": "king",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 16,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "twin",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "plan",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "jerusalem",
+    "target": "blasts",
+    "action": "add-edge"
+  },
+  {
+    "source": "blasts",
+    "target": "twin",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "twin",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "scottish",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "vote",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "scottish",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 15,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "people",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "russian",
+    "target": "newborn",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "newborn",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "virginia",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "walmart",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 14,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 13,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "court",
+    "target": "bid",
+    "action": "add-edge"
+  },
+  {
+    "source": "scottish",
+    "target": "bid",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "bid",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 13,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 13,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 0,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "indonesia",
+    "target": "quake",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "saudi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 10,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "quake",
+    "weight": 10,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 0,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 11,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 10,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "nuclear",
+    "target": "uranium",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "uranium",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "source": "scottish",
+    "target": "bid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "independence",
+    "target": "bid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "bid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "supreme",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "id": "supreme",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "bid",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 10,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "congress",
+    "weight": 10,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "brazil",
+    "target": "votes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "votes",
+    "action": "remove-edge"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "court",
+    "target": "tax",
+    "action": "remove-edge"
+  },
+  {
+    "source": "election",
+    "target": "brazil",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "remove-edge"
+  },
+  {
+    "id": "brazil",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "tax",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "independence",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "blasts",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "newborn",
+    "weight": 14,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walmart",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "twin",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "scotland",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
