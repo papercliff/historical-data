@@ -1,0 +1,5453 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 21,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 21,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "italian",
+    "weight": 21,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "power",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "island",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "italian",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "dozen",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dozen",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "italian",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "italian",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "cara",
+    "target": "fame",
+    "action": "add-edge"
+  },
+  {
+    "source": "cara",
+    "target": "irene",
+    "action": "add-edge"
+  },
+  {
+    "source": "fame",
+    "target": "irene",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "restore",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "restore",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "restore",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "restore",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "dozen",
+    "action": "add-edge"
+  },
+  {
+    "source": "italian",
+    "target": "dozen",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "praises",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "force",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "force",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "praises",
+    "target": "force",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "praises",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "lockdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "xinjiang",
+    "target": "lockdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "xinjiang",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "quit",
+    "action": "add-edge"
+  },
+  {
+    "source": "lockdown",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "xinjiang",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "quit",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "trump",
+    "weight": 12,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "id": "twitter",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "musk",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 6,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "khan",
+    "target": "assemblies",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "assemblies",
+    "action": "add-edge"
+  },
+  {
+    "source": "quit",
+    "target": "assemblies",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 6,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 9,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kherson",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "dies",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "water",
+    "target": "restore",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "restore",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "restore",
+    "action": "remove-edge"
+  },
+  {
+    "source": "power",
+    "target": "restore",
+    "action": "remove-edge"
+  },
+  {
+    "id": "restore",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "lockdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "protests",
+    "target": "erupt",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "erupt",
+    "action": "remove-edge"
+  },
+  {
+    "id": "erupt",
+    "weight": 6,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "iran",
+    "target": "force",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "praises",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "praises",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "force",
+    "action": "remove-edge"
+  },
+  {
+    "source": "praises",
+    "target": "force",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "source": "power",
+    "target": "water",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "water",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "water",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "id": "force",
+    "weight": 6,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "praises",
+    "weight": 7,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "water",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "weight": 15,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 13,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 6,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "xinjiang",
+    "target": "restrictions",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lockdown",
+    "target": "restrictions",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "xinjiang",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lockdown",
+    "target": "xinjiang",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "lockdown",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "lockdown",
+    "action": "remove-edge"
+  },
+  {
+    "source": "italian",
+    "target": "dozen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "irene",
+    "target": "fame",
+    "action": "remove-edge"
+  },
+  {
+    "source": "cara",
+    "target": "fame",
+    "action": "remove-edge"
+  },
+  {
+    "id": "restrictions",
+    "weight": 6,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "fame",
+    "weight": 6,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "xinjiang",
+    "weight": 7,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "lockdown",
+    "weight": 8,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 24,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 18,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 13,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cara",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "irene",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "warfare",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "shelling",
+    "target": "warfare",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warfare",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "missing",
+    "target": "dozen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dozen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "island",
+    "target": "dozen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "cara",
+    "target": "irene",
+    "action": "remove-edge"
+  },
+  {
+    "id": "irene",
+    "weight": 6,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "dozen",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "cara",
+    "weight": 6,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 15,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "warfare",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "covid",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "dies",
+    "target": "vladimir",
+    "action": "remove-edge"
+  },
+  {
+    "id": "vladimir",
+    "weight": 6,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 15,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "warfare",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "italian",
+    "target": "ischia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "italian",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "island",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 15,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "warfare",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "quit",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "emblem",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "emblem",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "landslide",
+    "target": "ischia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "island",
+    "target": "ischia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "quit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "quit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "assemblies",
+    "target": "quit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warfare",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shelling",
+    "target": "warfare",
+    "action": "remove-edge"
+  },
+  {
+    "source": "island",
+    "target": "missing",
+    "action": "remove-edge"
+  },
+  {
+    "id": "quit",
+    "weight": 6,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "warfare",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 15,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "imran",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "erupt",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "erupt",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "assemblies",
+    "action": "remove-edge"
+  },
+  {
+    "source": "khan",
+    "target": "assemblies",
+    "action": "remove-edge"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "assemblies",
+    "weight": 6,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 7,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 15,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "khan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "belgium",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgium",
+    "target": "morocco",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "remove-edge"
+  },
+  {
+    "id": "khan",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 16,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "belgium",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "brussels",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 16,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "riots",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "italy",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "island",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "ischia",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 17,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "italy",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 7,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "riots",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "cameroon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "funeral",
+    "target": "cameroon",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "cameroon",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "cameroon",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 17,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "italy",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 12,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "riots",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "cameroon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "somali",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "al",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "shabab",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "hotel",
+    "target": "al",
+    "action": "add-edge"
+  },
+  {
+    "source": "somali",
+    "target": "al",
+    "action": "add-edge"
+  },
+  {
+    "source": "hotel",
+    "target": "somali",
+    "action": "add-edge"
+  },
+  {
+    "source": "al",
+    "target": "shabab",
+    "action": "add-edge"
+  },
+  {
+    "source": "somali",
+    "target": "shabab",
+    "action": "add-edge"
+  },
+  {
+    "source": "hotel",
+    "target": "shabab",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kim",
+    "weight": 16,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "italy",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belgium",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jong",
+    "weight": 11,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 10,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 10,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "flag",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "ischia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "riots",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "somali",
+    "weight": 7,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "cameroon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 7,
+    "cluster": 13,
+    "action": "update-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "al",
+    "weight": 6,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "id": "shabab",
+    "weight": 6,
+    "cluster": 12,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
