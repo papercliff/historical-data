@@ -1,0 +1,3695 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "william",
+    "weight": 14,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "racism",
+    "weight": 9,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "bombs",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "kate",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "kate",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "kate",
+    "target": "racism",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "racism",
+    "action": "add-edge"
+  },
+  {
+    "source": "bombs",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "letter",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "william",
+    "target": "racism",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kate",
+    "target": "racism",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "racism",
+    "weight": 9,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "kate",
+    "target": "boston",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "boston",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "william",
+    "target": "boston",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kate",
+    "target": "boston",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "boston",
+    "weight": 8,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "source": "biden",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "letter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "spain",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bombs",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "000",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "000",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "000",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nato",
+    "action": "remove-edge"
+  },
+  {
+    "id": "nato",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "embassy",
+    "target": "letter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bombs",
+    "target": "embassy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "embassy",
+    "weight": 14,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "spain",
+    "target": "letter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "spain",
+    "target": "bombs",
+    "action": "remove-edge"
+  },
+  {
+    "id": "spain",
+    "weight": 16,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "letter",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "ukrainian",
+    "target": "embassies",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "bombs",
+    "target": "letter",
+    "action": "remove-edge"
+  },
+  {
+    "id": "letter",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 12,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "embassies",
+    "target": "eyes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "eyes",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "policy",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "william",
+    "target": "prince",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kate",
+    "target": "william",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kate",
+    "target": "prince",
+    "action": "remove-edge"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "william",
+    "weight": 10,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "kate",
+    "weight": 10,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cap",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "eu",
+    "target": "cap",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "cap",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "zero",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "zero",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "price",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "cap",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "macron",
+    "action": "remove-edge"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "price",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "source": "russian",
+    "target": "cap",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "macron",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "price",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "barrel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "cap",
+    "target": "barrel",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "barrel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "macron",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "macron",
+    "action": "remove-edge"
+  },
+  {
+    "id": "macron",
+    "weight": 13,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "biden",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "price",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barrel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "talks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "000",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "eyes",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "price",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barrel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "passport",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "snowden",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "oath",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "passport",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "snowden",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "passport",
+    "target": "snowden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "passport",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "snowden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "price",
+    "target": "barrel",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "barrel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
