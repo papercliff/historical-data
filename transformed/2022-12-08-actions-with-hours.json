@@ -1,0 +1,6359 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 34,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 18,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "warnock",
+    "weight": 17,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 16,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 12,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "walker",
+    "weight": 12,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "peru",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "warnock",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "warnock",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "walker",
+    "action": "add-edge"
+  },
+  {
+    "source": "warnock",
+    "target": "walker",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "dissolves",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "dissolves",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "dissolves",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "execution",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "execution",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "dissolve",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "dissolve",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "dissolve",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "zero",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "zero",
+    "action": "add-edge"
+  },
+  {
+    "source": "runoff",
+    "target": "walker",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "warnock",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "person",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "person",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "magazine",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "magazine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "person",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "senate",
+    "weight": 18,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "warnock",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 16,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "walker",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "peru",
+    "target": "ousted",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "ousted",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warnock",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "senate",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 16,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "walker",
+    "weight": 12,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "prison",
+    "target": "theranos",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "warnock",
+    "target": "senate",
+    "action": "remove-edge"
+  },
+  {
+    "source": "senate",
+    "target": "runoff",
+    "action": "remove-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "senate",
+    "action": "remove-edge"
+  },
+  {
+    "source": "runoff",
+    "target": "walker",
+    "action": "remove-edge"
+  },
+  {
+    "source": "warnock",
+    "target": "walker",
+    "action": "remove-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "walker",
+    "action": "remove-edge"
+  },
+  {
+    "source": "warnock",
+    "target": "runoff",
+    "action": "remove-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "runoff",
+    "action": "remove-edge"
+  },
+  {
+    "id": "walker",
+    "weight": 12,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 12,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "senate",
+    "weight": 17,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "warnock",
+    "weight": 17,
+    "cluster": 1,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "dissolve",
+    "target": "ousted",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "warnock",
+    "target": "georgia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "execution",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 13,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "warnock",
+    "weight": 14,
+    "cluster": 1,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 40,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "arabia",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "restrictions",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "restrictions",
+    "action": "remove-edge"
+  },
+  {
+    "id": "restrictions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 39,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "balwani",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "balwani",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "balwani",
+    "action": "add-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "saudi",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "id": "xi",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 37,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zero",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "meghan",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "zero",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "zero",
+    "action": "remove-edge"
+  },
+  {
+    "id": "zero",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 36,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "netflix",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "netflix",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "source": "iran",
+    "target": "execution",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "execution",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "execution",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "execution",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "netflix",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "person",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 21,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "execution",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "person",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "protests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "prison",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prison",
+    "target": "balwani",
+    "action": "remove-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "person",
+    "action": "remove-edge"
+  },
+  {
+    "source": "year",
+    "target": "person",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "id": "xi",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "person",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "griner",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "freed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "griner",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "brittney",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "griner",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "brittney",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "griner",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "execution",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "year",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 12,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "swap",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "arrests",
+    "target": "plot",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "plot",
+    "action": "add-edge"
+  },
+  {
+    "source": "brittney",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "griner",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "year",
+    "action": "remove-edge"
+  },
+  {
+    "source": "year",
+    "target": "magazine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "magazine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "german",
+    "target": "plot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "plot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netflix",
+    "target": "documentary",
+    "action": "remove-edge"
+  },
+  {
+    "source": "execution",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "documentary",
+    "action": "remove-edge"
+  },
+  {
+    "source": "harry",
+    "target": "documentary",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "public",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "plot",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "magazine",
+    "weight": 13,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "year",
+    "weight": 14,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "brittney",
+    "target": "viktor",
+    "action": "add-edge"
+  },
+  {
+    "source": "griner",
+    "target": "viktor",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "germany",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "plot",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "castillo",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "harry",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "netflix",
+    "target": "documentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "plot",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "plot",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "castillo",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "castillo",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "plot",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "coup",
+    "target": "germany",
+    "action": "remove-edge"
+  },
+  {
+    "source": "germany",
+    "target": "arrests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "dissolves",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "dissolves",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "dissolves",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dissolves",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "germany",
+    "weight": 18,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "castillo",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "execution",
+    "target": "taliban",
+    "action": "remove-edge"
+  },
+  {
+    "source": "execution",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "castillo",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "castillo",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "warns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "nuclear",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "crisis",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "crisis",
+    "action": "remove-edge"
+  },
+  {
+    "id": "warns",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "castillo",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "public",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 12,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 17,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "harry",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "netflix",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "ousted",
+    "target": "dissolve",
+    "action": "remove-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "dissolve",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "dissolve",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "dissolve",
+    "action": "remove-edge"
+  },
+  {
+    "id": "arabia",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "dissolve",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "merchant",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "death",
+    "target": "merchant",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "viktor",
+    "action": "add-edge"
+  },
+  {
+    "source": "viktor",
+    "target": "merchant",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "id": "protests",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "merchant",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "release",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "brittney",
+    "target": "release",
+    "action": "add-edge"
+  },
+  {
+    "source": "griner",
+    "target": "release",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "theranos",
+    "target": "sentenced",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "balwani",
+    "action": "remove-edge"
+  },
+  {
+    "id": "sentenced",
+    "weight": 10,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "protests",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "merchant",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "release",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "president",
+    "target": "arrested",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "arrested",
+    "action": "remove-edge"
+  },
+  {
+    "source": "theranos",
+    "target": "balwani",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "id": "balwani",
+    "weight": 10,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "theranos",
+    "weight": 12,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "merchant",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "release",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "griner",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brittney",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 21,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "swap",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "execution",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "netflix",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "viktor",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "executes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "merchant",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "freed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "release",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "royals",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "documentary",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "coup",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "plot",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
