@@ -1,0 +1,4520 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 18,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "lai",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prize",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "wahl",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "partnership",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "lai",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "lai",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "dresden",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "dresden",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "jersey",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "jersey",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "prize",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prize",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "cabinet",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "jersey",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "wahl",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "wahl",
+    "action": "add-edge"
+  },
+  {
+    "source": "dresden",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "lai",
+    "target": "fraud",
+    "action": "add-edge"
+  },
+  {
+    "source": "wahl",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "jersey",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "lai",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "partnership",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "partnership",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "partnership",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "partnership",
+    "action": "remove-edge"
+  },
+  {
+    "id": "partnership",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "wahl",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prize",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "wahl",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "lai",
+    "target": "jailed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "wahl",
+    "target": "journalist",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "wahl",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dies",
+    "target": "wahl",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kong",
+    "target": "jailed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hong",
+    "target": "jailed",
+    "action": "remove-edge"
+  },
+  {
+    "id": "jailed",
+    "weight": 6,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "wahl",
+    "weight": 12,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "lai",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "jersey",
+    "target": "island",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "island",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nobel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "journalist",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "dies",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dies",
+    "target": "journalist",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kong",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hong",
+    "target": "fraud",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fraud",
+    "weight": 7,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "island",
+    "weight": 7,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 13,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hong",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kong",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lai",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "kong",
+    "target": "lai",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hong",
+    "target": "lai",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lai",
+    "weight": 7,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "kong",
+    "weight": 7,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "hong",
+    "weight": 7,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "destroyed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "destroyed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dresden",
+    "target": "police",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "police",
+    "action": "remove-edge"
+  },
+  {
+    "source": "german",
+    "target": "police",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "id": "destroyed",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "police",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 14,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "dresden",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "hostage",
+    "target": "german",
+    "action": "remove-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "dresden",
+    "action": "remove-edge"
+  },
+  {
+    "source": "german",
+    "target": "dresden",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "peace",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dresden",
+    "weight": 6,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "peace",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "custody",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ruins",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "lockerbie",
+    "target": "custody",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "custody",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "lockerbie",
+    "action": "add-edge"
+  },
+  {
+    "source": "custody",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "lockerbie",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "custody",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "source": "lockerbie",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "scottish",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "ruins",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ruins",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "dead",
+    "target": "missing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prize",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "invasion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "id": "invasion",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ruins",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 7,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 7,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 6,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "jersey",
+    "target": "missing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "missing",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missing",
+    "weight": 6,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ruins",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 7,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 6,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "lockerbie",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 7,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ruins",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prize",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 6,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "mexico",
+    "target": "shakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "southern",
+    "action": "add-edge"
+  },
+  {
+    "source": "shakes",
+    "target": "southern",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "shakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "southern",
+    "action": "add-edge"
+  },
+  {
+    "source": "magnitude",
+    "target": "shakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "magnitude",
+    "target": "southern",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "jersey",
+    "target": "explosion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "jersey",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prize",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nobel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "prize",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ruins",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "ruins",
+    "action": "remove-edge"
+  },
+  {
+    "id": "prize",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 6,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "ruins",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "jersey",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "orion",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "nasa",
+    "target": "capsule",
+    "action": "add-edge"
+  },
+  {
+    "source": "orion",
+    "target": "capsule",
+    "action": "add-edge"
+  },
+  {
+    "source": "nasa",
+    "target": "orion",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "nasa",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "orion",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "capsule",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 24,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "source": "custody",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 27,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "president",
+    "target": "pledge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "corruption",
+    "action": "remove-edge"
+  },
+  {
+    "source": "cabinet",
+    "target": "pledge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "president",
+    "target": "cabinet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "pledge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "pledge",
+    "action": "remove-edge"
+  },
+  {
+    "id": "pledge",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 27,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "moon",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "nasa",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "peru",
+    "target": "corruption",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "cabinet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "cabinet",
+    "action": "remove-edge"
+  },
+  {
+    "id": "cabinet",
+    "weight": 7,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "peru",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 27,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 23,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 28,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 24,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "lockerbie",
+    "weight": 28,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "custody",
+    "weight": 24,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "moon",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nasa",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "orion",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "scottish",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shakes",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "southern",
+    "weight": 6,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "source": "orion",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
