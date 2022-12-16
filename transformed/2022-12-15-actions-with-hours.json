@@ -1,0 +1,4518 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 24,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 22,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 20,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "rights",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "explosions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "explosions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "explosions",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "channel",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "channel",
+    "action": "add-edge"
+  },
+  {
+    "source": "patriot",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "flights",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "flights",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "qatar",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "manchester",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "manchester",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "explosions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "explosions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "boat",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "channel",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "explosions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "protester",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "protester",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "removes",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "removes",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "patriot",
+    "action": "remove-edge"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "explosions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "boat",
+    "target": "english",
+    "action": "add-edge"
+  },
+  {
+    "source": "channel",
+    "target": "english",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "explosions",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "explosions",
+    "action": "remove-edge"
+  },
+  {
+    "id": "explosions",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "swap",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "prisoner",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "swap",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "swap",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "swap",
+    "action": "remove-edge"
+  },
+  {
+    "id": "swap",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "france",
+    "target": "morocco",
+    "action": "remove-edge"
+  },
+  {
+    "id": "france",
+    "weight": 22,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "missile",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "morocco",
+    "target": "flights",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "flights",
+    "action": "remove-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "morocco",
+    "action": "remove-edge"
+  },
+  {
+    "id": "flights",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "morocco",
+    "weight": 18,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 19,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "channel",
+    "target": "english",
+    "action": "remove-edge"
+  },
+  {
+    "source": "boat",
+    "target": "english",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drones",
+    "action": "remove-edge"
+  },
+  {
+    "id": "english",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "drones",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "lebanon",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "boat",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "boat",
+    "target": "migrant",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "boat",
+    "action": "remove-edge"
+  },
+  {
+    "source": "boat",
+    "target": "channel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "boat",
+    "weight": 12,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "channel",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protest",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "dead",
+    "target": "channel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "channel",
+    "target": "migrant",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "protest",
+    "action": "remove-edge"
+  },
+  {
+    "source": "rights",
+    "target": "protest",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protest",
+    "action": "remove-edge"
+  },
+  {
+    "id": "protest",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "channel",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "diplomats",
+    "target": "removes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "removes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "protester",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "protester",
+    "action": "remove-edge"
+  },
+  {
+    "id": "removes",
+    "weight": 9,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "protester",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "manchester",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "irish",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "diplomats",
+    "target": "manchester",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "manchester",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "irish",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killed",
+    "target": "irish",
+    "action": "remove-edge"
+  },
+  {
+    "id": "manchester",
+    "weight": 9,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "irish",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 21,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "christmas",
+    "target": "ceasefire",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "harry",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "prisoner",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prisoner",
+    "action": "remove-edge"
+  },
+  {
+    "id": "prisoner",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rights",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "william",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "peacekeeper",
+    "action": "add-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "peacekeeper",
+    "action": "add-edge"
+  },
+  {
+    "source": "irish",
+    "target": "peacekeeper",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "rights",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "iran",
+    "target": "rights",
+    "action": "remove-edge"
+  },
+  {
+    "id": "rights",
+    "weight": 13,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "iran",
+    "weight": 15,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "diplomats",
+    "action": "remove-edge"
+  },
+  {
+    "source": "government",
+    "target": "protests",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "government",
+    "action": "remove-edge"
+  },
+  {
+    "id": "diplomats",
+    "weight": 13,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "government",
+    "weight": 16,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "children",
+    "action": "remove-edge"
+  },
+  {
+    "id": "children",
+    "weight": 14,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "william",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "irish",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "peacekeeper",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
