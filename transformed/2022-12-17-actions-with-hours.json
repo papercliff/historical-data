@@ -1,0 +1,6062 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "malaysian",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "campsite",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "critical",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "aquarium",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "fish",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "fish",
+    "action": "add-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "bursts",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "bursts",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "fish",
+    "target": "bursts",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "journalists",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "journalists",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "fish",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "malaysia",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "malaysia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "campsite",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysian",
+    "target": "campsite",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "malaysian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "malaysian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "malaysia",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "apartment",
+    "target": "lyon",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "lyon",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "apartment",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "campsite",
+    "action": "add-edge"
+  },
+  {
+    "source": "concert",
+    "target": "crush",
+    "action": "add-edge"
+  },
+  {
+    "source": "concert",
+    "target": "critical",
+    "action": "add-edge"
+  },
+  {
+    "source": "crush",
+    "target": "critical",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "concert",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "london",
+    "target": "crush",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "officer",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspends",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "crush",
+    "target": "critical",
+    "action": "remove-edge"
+  },
+  {
+    "source": "concert",
+    "target": "critical",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missing",
+    "target": "campsite",
+    "action": "remove-edge"
+  },
+  {
+    "source": "malaysian",
+    "target": "campsite",
+    "action": "remove-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "campsite",
+    "action": "remove-edge"
+  },
+  {
+    "id": "critical",
+    "weight": 8,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "campsite",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysian",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "suspends",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missing",
+    "target": "malaysian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "malaysian",
+    "action": "remove-edge"
+  },
+  {
+    "id": "malaysian",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "musk",
+    "target": "suspends",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "suspends",
+    "action": "remove-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "suspends",
+    "action": "remove-edge"
+  },
+  {
+    "id": "suspends",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 12,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "killed",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "police",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "officer",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fuel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "children",
+    "target": "france",
+    "action": "remove-edge"
+  },
+  {
+    "source": "france",
+    "target": "apartment",
+    "action": "remove-edge"
+  },
+  {
+    "source": "children",
+    "target": "lyon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "apartment",
+    "target": "lyon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lyon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "police",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "officer",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "officer",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "police",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killed",
+    "target": "officer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "officer",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killed",
+    "target": "fuel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fuel",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "officer",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "police",
+    "weight": 15,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "children",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "concert",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "london",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "crush",
+    "target": "london",
+    "action": "remove-edge"
+  },
+  {
+    "source": "concert",
+    "target": "london",
+    "action": "remove-edge"
+  },
+  {
+    "source": "concert",
+    "target": "crush",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "malaysia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "children",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "apartment",
+    "action": "remove-edge"
+  },
+  {
+    "source": "children",
+    "target": "apartment",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missing",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "id": "london",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "crush",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "concert",
+    "weight": 11,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "children",
+    "weight": 14,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 28,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 25,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 24,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "berlin",
+    "target": "hotel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fish",
+    "target": "hotel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "hotel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "hotel",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 26,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 23,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 23,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "suspended",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "journalists",
+    "target": "suspended",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "suspended",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "attack",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 23,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 21,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 21,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "suspended",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "japan",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attacks",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "remove-edge"
+  },
+  {
+    "id": "launches",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "japan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 23,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 21,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "suspended",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "missile",
+    "target": "attack",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "remove-edge"
+  },
+  {
+    "id": "attack",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 22,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 21,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "suspended",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "twitter",
+    "target": "suspended",
+    "action": "remove-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "suspended",
+    "action": "remove-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "suspended",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "missile",
+    "weight": 8,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 20,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "russian",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fish",
+    "target": "bursts",
+    "action": "remove-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "bursts",
+    "action": "remove-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "bursts",
+    "action": "remove-edge"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "bursts",
+    "weight": 9,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fish",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "berlin",
+    "target": "fish",
+    "action": "remove-edge"
+  },
+  {
+    "source": "aquarium",
+    "target": "fish",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fish",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "landslide",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslide",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "machu",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "picchu",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "machu",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "machu",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "picchu",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "machu",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "machu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "machu",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "picchu",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "woman",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "concert",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "woman",
+    "target": "concert",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "protests",
+    "target": "tourists",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "picchu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "protests",
+    "target": "machu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "woman",
+    "target": "concert",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "tourists",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "picchu",
+    "target": "tourists",
+    "action": "remove-edge"
+  },
+  {
+    "source": "machu",
+    "target": "tourists",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "concert",
+    "weight": 8,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "woman",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 20,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "machu",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "picchu",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "actress",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "actress",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "actress",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "aquarium",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "picchu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "machu",
+    "target": "picchu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peru",
+    "target": "machu",
+    "action": "remove-edge"
+  },
+  {
+    "id": "picchu",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "machu",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 10,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 11,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "actress",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "mexican",
+    "target": "year",
+    "action": "remove-edge"
+  },
+  {
+    "source": "journalists",
+    "target": "mexican",
+    "action": "remove-edge"
+  },
+  {
+    "id": "mexican",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "actress",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "berlin",
+    "target": "aquarium",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "actress",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 19,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "actress",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "journalists",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "peru",
+    "weight": 17,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "actress",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aquarium",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "rises",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
