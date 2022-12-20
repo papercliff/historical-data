@@ -1,0 +1,5069 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "korea",
+    "weight": 26,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 23,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "messi",
+    "weight": 20,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 20,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "final",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "ballistic",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "messi",
+    "action": "add-edge"
+  },
+  {
+    "source": "messi",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "lionel",
+    "action": "add-edge"
+  },
+  {
+    "source": "messi",
+    "target": "lionel",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "blasphemous",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "priest",
+    "action": "add-edge"
+  },
+  {
+    "source": "blasphemous",
+    "target": "priest",
+    "action": "add-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "lionel",
+    "action": "add-edge"
+  },
+  {
+    "source": "messi",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "korea",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "launches",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "launches",
+    "action": "remove-edge"
+  },
+  {
+    "id": "launches",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "blasphemous",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "priest",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "missiles",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "japan",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "navy",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "ballistic",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fires",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 11,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "test",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "test",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "sinks",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "sinks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "sinks",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "russia",
+    "weight": 12,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "israel",
+    "target": "palestinian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "france",
+    "target": "palestinian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "france",
+    "target": "israel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "palestinian",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "israel",
+    "weight": 10,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "attack",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "source": "kyiv",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "rwanda",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "priest",
+    "target": "vatican",
+    "action": "remove-edge"
+  },
+  {
+    "source": "blasphemous",
+    "target": "vatican",
+    "action": "remove-edge"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "priest",
+    "target": "abortion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "blasphemous",
+    "target": "abortion",
+    "action": "remove-edge"
+  },
+  {
+    "id": "abortion",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "asylum",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "seekers",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "priest",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "kyiv",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "warship",
+    "target": "sinks",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "blasphemous",
+    "target": "priest",
+    "action": "remove-edge"
+  },
+  {
+    "id": "priest",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "blasphemous",
+    "weight": 9,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "court",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cap",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "eu",
+    "target": "cap",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "cap",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "messi",
+    "target": "final",
+    "action": "remove-edge"
+  },
+  {
+    "source": "france",
+    "target": "lionel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "messi",
+    "target": "lionel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "lionel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "lionel",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "final",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "france",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "messi",
+    "target": "france",
+    "action": "remove-edge"
+  },
+  {
+    "source": "final",
+    "target": "france",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "france",
+    "action": "remove-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "final",
+    "action": "remove-edge"
+  },
+  {
+    "id": "france",
+    "weight": 14,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "final",
+    "weight": 15,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "messi",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "eu",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "argentina",
+    "target": "messi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "test",
+    "action": "remove-edge"
+  },
+  {
+    "source": "spy",
+    "target": "test",
+    "action": "remove-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "test",
+    "action": "remove-edge"
+  },
+  {
+    "id": "test",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "messi",
+    "weight": 16,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 23,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "lukashenko",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "lukashenko",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "lukashenko",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "lukashenko",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lukashenko",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "belarus",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "eu",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thai",
+    "weight": 19,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 18,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "warship",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sinks",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "vote",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "cap",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ship",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "spy",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "lukashenko",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "plan",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
