@@ -1,0 +1,7437 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "convicts",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "university",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "taliban",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "universities",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "universities",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "convicts",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "convicts",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "pipeline",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "universities",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "education",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "murders",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "murders",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "convicts",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "city",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "city",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "murders",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "convicts",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "girls",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "girls",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "education",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "americans",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "convicts",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "returns",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "tax",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "convicts",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "zelensky",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belarus",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "remove-edge"
+  },
+  {
+    "source": "military",
+    "target": "korea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "convicts",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "korea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "convicts",
+    "action": "remove-edge"
+  },
+  {
+    "source": "german",
+    "target": "convicts",
+    "action": "remove-edge"
+  },
+  {
+    "id": "convicts",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 12,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "weight": 13,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "girls",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 29,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 30,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "washington",
+    "weight": 17,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "committee",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "committee",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 30,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "guilty",
+    "target": "murders",
+    "action": "remove-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "murders",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "murders",
+    "action": "remove-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "guilty",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "guilty",
+    "action": "remove-edge"
+  },
+  {
+    "id": "murders",
+    "weight": 9,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "public",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "votes",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "secretary",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "returns",
+    "target": "public",
+    "action": "remove-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "german",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "secretary",
+    "action": "remove-edge"
+  },
+  {
+    "id": "public",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 14,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 27,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "girls",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "city",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "city",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "court",
+    "action": "remove-edge"
+  },
+  {
+    "source": "court",
+    "target": "german",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "german",
+    "action": "remove-edge"
+  },
+  {
+    "id": "german",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "city",
+    "weight": 11,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "court",
+    "weight": 16,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 17,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "warning",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "university",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "explosion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pipeline",
+    "target": "explosion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "gas",
+    "target": "explosion",
+    "action": "remove-edge"
+  },
+  {
+    "id": "explosion",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "warning",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "war",
+    "target": "warning",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warning",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "remove-edge"
+  },
+  {
+    "id": "warning",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "pipeline",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "remove-edge"
+  },
+  {
+    "source": "gas",
+    "target": "pipeline",
+    "action": "remove-edge"
+  },
+  {
+    "id": "deaths",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "dead",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "iran",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 13,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 33,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 30,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "source": "toronto",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 34,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "girls",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "stabbing",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "returns",
+    "target": "panel",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "panel",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "gas",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "education",
+    "action": "remove-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "bans",
+    "action": "remove-edge"
+  },
+  {
+    "id": "gas",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 34,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 34,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 32,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 16,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "university",
+    "target": "education",
+    "action": "remove-edge"
+  },
+  {
+    "source": "universities",
+    "target": "bans",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "bans",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "bans",
+    "action": "remove-edge"
+  },
+  {
+    "id": "bans",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 33,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 31,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 15,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "toronto",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "stabbing",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "americans",
+    "action": "remove-edge"
+  },
+  {
+    "source": "murder",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "americans",
+    "weight": 10,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 31,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 29,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 14,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "killer",
+    "target": "nepal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "sobhraj",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "sobhraj",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "murder",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "murder",
+    "target": "toronto",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "toronto",
+    "action": "remove-edge"
+  },
+  {
+    "id": "stabbing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 30,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "tax",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "returns",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "sobhraj",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "invasion",
+    "action": "remove-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "visit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "visit",
+    "action": "remove-edge"
+  },
+  {
+    "id": "invasion",
+    "weight": 11,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 29,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "visit",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "girls",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "visit",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "washington",
+    "target": "visit",
+    "action": "remove-edge"
+  },
+  {
+    "id": "visit",
+    "weight": 16,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "panel",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "committee",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 10,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "education",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "patriot",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
