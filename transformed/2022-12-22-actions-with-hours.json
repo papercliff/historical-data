@@ -1,0 +1,6974 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 31,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "committee",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "education",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "formed",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "new",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "returns",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "formed",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "formed",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "nepal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "sobhraj",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "sobhraj",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "formed",
+    "target": "new",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "new",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "new",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "girls",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "girls",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "returns",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "washington",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "new",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "formed",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "girls",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "girls",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "returns",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "sobhraj",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "universities",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "patriot",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "education",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "education",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "education",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "education",
+    "action": "remove-edge"
+  },
+  {
+    "source": "votes",
+    "target": "committee",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "committee",
+    "action": "remove-edge"
+  },
+  {
+    "id": "education",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "committee",
+    "weight": 11,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 28,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 25,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "votes",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "teen",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 13,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 12,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankman",
+    "target": "ftx",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "source": "bankman",
+    "target": "ftx",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "returns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "returns",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "murder",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "teen",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "votes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "returns",
+    "target": "votes",
+    "action": "remove-edge"
+  },
+  {
+    "id": "teen",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 12,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 13,
+    "cluster": 2,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 27,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 24,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "trump",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tax",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "returns",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 12,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "trump",
+    "target": "tax",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "donald",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tax",
+    "target": "returns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "murder",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "stabbing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "kremlin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "donald",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 9,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "returns",
+    "weight": 11,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "trump",
+    "weight": 15,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "girls",
+    "weight": 13,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "murder",
+    "weight": 11,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 9,
+    "cluster": 5,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "murder",
+    "target": "toronto",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "toronto",
+    "action": "remove-edge"
+  },
+  {
+    "source": "girls",
+    "target": "murder",
+    "action": "remove-edge"
+  },
+  {
+    "id": "toronto",
+    "weight": 8,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "murder",
+    "weight": 10,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "girls",
+    "weight": 12,
+    "cluster": 5,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 26,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "zelensky",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "source": "washington",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 32,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "source": "biden",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "universities",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "universities",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 31,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 16,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "war",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "zelensky",
+    "target": "aid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "remove-edge"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "arabia",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "washington",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "washington",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "washington",
+    "action": "remove-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "elon",
+    "action": "remove-edge"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "washington",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "meet",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "war",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "saudi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "saudi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "remove-edge"
+  },
+  {
+    "source": "war",
+    "target": "kremlin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "washington",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "washington",
+    "action": "remove-edge"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "meet",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 9,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "washington",
+    "weight": 14,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 20,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 14,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 12,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "israel",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "formed",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "ftx",
+    "target": "bankman",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "twitter",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "musk",
+    "action": "remove-edge"
+  },
+  {
+    "id": "twitter",
+    "weight": 8,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 12,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "bankman",
+    "target": "founder",
+    "action": "add-edge"
+  },
+  {
+    "source": "ftx",
+    "target": "founder",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "nepal",
+    "target": "prison",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "prison",
+    "action": "remove-edge"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 21,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "arabia",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "university",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "biden",
+    "target": "congress",
+    "action": "remove-edge"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 25,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 23,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 16,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "universities",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "warns",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "universities",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "universities",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "id": "universities",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 16,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 13,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "patriot",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ban",
+    "target": "afghan",
+    "action": "remove-edge"
+  },
+  {
+    "id": "afghan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 17,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 16,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "demon",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "demon",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "demon",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "patriot",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "patriot",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missile",
+    "weight": 8,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 13,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 16,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "sobhraj",
+    "target": "serpent",
+    "action": "remove-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "serpent",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "serpent",
+    "action": "remove-edge"
+  },
+  {
+    "id": "serpent",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 9,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "biden",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 13,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 11,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 8,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "carrier",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "aircraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "carrier",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "nepal",
+    "target": "sobhraj",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "sobhraj",
+    "action": "remove-edge"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 27,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 17,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "taliban",
+    "target": "saudi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "arabia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "saudi",
+    "action": "remove-edge"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 17,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "formed",
+    "target": "coalition",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "coalition",
+    "action": "remove-edge"
+  },
+  {
+    "source": "israel",
+    "target": "coalition",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "nepal",
+    "action": "remove-edge"
+  },
+  {
+    "source": "government",
+    "target": "new",
+    "action": "remove-edge"
+  },
+  {
+    "source": "government",
+    "target": "formed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "israel",
+    "target": "new",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "government",
+    "action": "remove-edge"
+  },
+  {
+    "source": "israel",
+    "target": "government",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "israel",
+    "target": "formed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "new",
+    "action": "remove-edge"
+  },
+  {
+    "source": "formed",
+    "target": "new",
+    "action": "remove-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "formed",
+    "action": "remove-edge"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "new",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "killer",
+    "weight": 11,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "formed",
+    "weight": 12,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "government",
+    "weight": 15,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "israel",
+    "weight": 16,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 22,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "arms",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "congress",
+    "target": "zelenskyy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 3,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "biden",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "congress",
+    "weight": 21,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "warns",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 18,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ftx",
+    "weight": 15,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "bankman",
+    "weight": 14,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "university",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 11,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "founder",
+    "weight": 10,
+    "cluster": 2,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 10,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "demon",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arms",
+    "weight": 9,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 8,
+    "cluster": 3,
+    "action": "update-node"
+  },
+  {
+    "id": "sam",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "source": "bankman",
+    "target": "sam",
+    "action": "add-edge"
+  },
+  {
+    "source": "ftx",
+    "target": "sam",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
