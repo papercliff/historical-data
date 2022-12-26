@@ -1,0 +1,8010 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 17,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "crematoriums",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "cases",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "towns",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "groups",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "poor",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "taliban",
+    "target": "ngos",
+    "action": "add-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "shells",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "shells",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "bethlehem",
+    "action": "add-edge"
+  },
+  {
+    "source": "bethlehem",
+    "target": "spirits",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "spirits",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "pandemic",
+    "action": "add-edge"
+  },
+  {
+    "source": "pandemic",
+    "target": "spirits",
+    "action": "add-edge"
+  },
+  {
+    "source": "bethlehem",
+    "target": "pandemic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "kurds",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "kurds",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "poor",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "poor",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "shells",
+    "target": "pummel",
+    "action": "add-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "pummel",
+    "action": "add-edge"
+  },
+  {
+    "source": "shells",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "pummel",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pummel",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "cannon",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "cannon",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "explodes",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "sobhraj",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "sobhraj",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "crematoriums",
+    "action": "add-edge"
+  },
+  {
+    "source": "crematoriums",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "crematoriums",
+    "action": "add-edge"
+  },
+  {
+    "source": "kurds",
+    "target": "groups",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "groups",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "poor",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "nepal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killer",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "serpent",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "season",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "season",
+    "action": "add-edge"
+  },
+  {
+    "source": "explodes",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "nursing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nursing",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "nursing",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "cannon",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "female",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "female",
+    "action": "add-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "employees",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "employees",
+    "action": "add-edge"
+  },
+  {
+    "source": "employees",
+    "target": "female",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "cases",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "cases",
+    "action": "add-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "crematoriums",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "cases",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "towns",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "source": "shooting",
+    "target": "groups",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "crematoriums",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cases",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "towns",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "crematoriums",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "cases",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "towns",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "poor",
+    "target": "jesus",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "jesus",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "jesus",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "jesus",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "covid",
+    "target": "cases",
+    "action": "remove-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "cases",
+    "action": "remove-edge"
+  },
+  {
+    "source": "crematoriums",
+    "target": "towns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "crematoriums",
+    "action": "remove-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "crematoriums",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "towns",
+    "action": "remove-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "towns",
+    "action": "remove-edge"
+  },
+  {
+    "id": "towns",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "cases",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "crematoriums",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kari",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "arizona",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "kari",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "kari",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "kari",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "employees",
+    "target": "female",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "employees",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "employees",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "female",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "female",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "chinese",
+    "action": "remove-edge"
+  },
+  {
+    "id": "female",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 35,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "cannon",
+    "target": "protesting",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "protesting",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "protesting",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "protesting",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "nepal",
+    "target": "serpent",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "serpent",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "nepal",
+    "action": "remove-edge"
+  },
+  {
+    "source": "killer",
+    "target": "sobhraj",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sobhraj",
+    "target": "charles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "sobhraj",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "serpent",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 22,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killer",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "home",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "season",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "christmas",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "killer",
+    "target": "charles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "nursing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dead",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "home",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nursing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "home",
+    "action": "remove-edge"
+  },
+  {
+    "source": "home",
+    "target": "nursing",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "season",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "season",
+    "action": "remove-edge"
+  },
+  {
+    "id": "nursing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "charles",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "season",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "home",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "killer",
+    "weight": 11,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "arizona",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "shooting",
+    "target": "groups",
+    "action": "remove-edge"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "war",
+    "target": "zelensky",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shells",
+    "target": "pummel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "pummel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "pummel",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pummel",
+    "action": "remove-edge"
+  },
+  {
+    "id": "pummel",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "gas",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "explodes",
+    "target": "truck",
+    "action": "remove-edge"
+  },
+  {
+    "source": "gas",
+    "target": "truck",
+    "action": "remove-edge"
+  },
+  {
+    "source": "africa",
+    "target": "truck",
+    "action": "remove-edge"
+  },
+  {
+    "source": "explodes",
+    "target": "gas",
+    "action": "remove-edge"
+  },
+  {
+    "source": "africa",
+    "target": "gas",
+    "action": "remove-edge"
+  },
+  {
+    "id": "truck",
+    "weight": 6,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "gas",
+    "weight": 6,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "groups",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "source": "christmas",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "water",
+    "target": "cannon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "water",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "protesting",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "water",
+    "action": "remove-edge"
+  },
+  {
+    "source": "water",
+    "target": "protesting",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "protesting",
+    "action": "remove-edge"
+  },
+  {
+    "source": "cannon",
+    "target": "protesting",
+    "action": "remove-edge"
+  },
+  {
+    "source": "women",
+    "target": "cannon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "cannon",
+    "action": "remove-edge"
+  },
+  {
+    "source": "paris",
+    "target": "groups",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kurds",
+    "target": "groups",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "pandemic",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pandemic",
+    "target": "spirits",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bethlehem",
+    "target": "pandemic",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "spirits",
+    "action": "remove-edge"
+  },
+  {
+    "source": "bethlehem",
+    "target": "spirits",
+    "action": "remove-edge"
+  },
+  {
+    "id": "protesting",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "groups",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "spirits",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 7,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 37,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 24,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "africa",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pub",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "surge",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "surge",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "surge",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "africa",
+    "target": "explodes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "surge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "surge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "bethlehem",
+    "action": "remove-edge"
+  },
+  {
+    "id": "surge",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 7,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "africa",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "bethlehem",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "icy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "winds",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "ngos",
+    "target": "employees",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "employees",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "ukrainians",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainians",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "icy",
+    "action": "add-edge"
+  },
+  {
+    "source": "icy",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "icy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "employees",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "employees",
+    "action": "remove-edge"
+  },
+  {
+    "id": "employees",
+    "weight": 6,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 23,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "icy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "paris",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "winds",
+    "target": "icy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pope",
+    "target": "icy",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "icy",
+    "action": "remove-edge"
+  },
+  {
+    "id": "icy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "afghanistan",
+    "target": "suspend",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "suspend",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "women",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 16,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "judge",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "river",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "negotiate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "negotiate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "negotiate",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "river",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "wounded",
+    "target": "shells",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "governor",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "governor",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wounded",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "wounded",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kari",
+    "target": "judge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "judge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "judge",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "shells",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "shells",
+    "action": "remove-edge"
+  },
+  {
+    "id": "governor",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "judge",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "shells",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 19,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 36,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 21,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "shooting",
+    "target": "hatred",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "hatred",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "hatred",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ngos",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pope",
+    "target": "jesus",
+    "action": "remove-edge"
+  },
+  {
+    "source": "power",
+    "target": "jesus",
+    "action": "remove-edge"
+  },
+  {
+    "source": "poor",
+    "target": "jesus",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "jesus",
+    "action": "remove-edge"
+  },
+  {
+    "id": "jesus",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ban",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 34,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 20,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "power",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lake",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "poor",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kari",
+    "weight": 6,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "avalanche",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "austria",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "buried",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "avalanche",
+    "target": "austria",
+    "action": "add-edge"
+  },
+  {
+    "source": "austria",
+    "target": "buried",
+    "action": "add-edge"
+  },
+  {
+    "source": "avalanche",
+    "target": "buried",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "power",
+    "target": "poor",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lake",
+    "target": "kari",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "lake",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arizona",
+    "target": "kari",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pope",
+    "target": "poor",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "poor",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pope",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "power",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kari",
+    "weight": 6,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "poor",
+    "weight": 6,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "power",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 19,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "avalanche",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "austria",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "buried",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "avalanche",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "buried",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "avalanche",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "austria",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "buried",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 7,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "austria",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "avalanche",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "shooting",
+    "target": "kurds",
+    "action": "remove-edge"
+  },
+  {
+    "source": "paris",
+    "target": "kurds",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kurds",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 17,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "avalanche",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 12,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "austria",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "buried",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "icy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "christmas",
+    "target": "icy",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "icy",
+    "action": "add-edge"
+  },
+  {
+    "source": "winds",
+    "target": "icy",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "christmas",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "paris",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 18,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "avalanche",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "king",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "charles",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bus",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "francis",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "river",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "austria",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ngos",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pub",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "queen",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "hatred",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missing",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "buried",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "winds",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "negotiate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspend",
+    "weight": 6,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "icy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "aid",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "afghanistan",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
