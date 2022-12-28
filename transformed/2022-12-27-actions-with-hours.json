@@ -1,0 +1,5478 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 31,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 30,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 23,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 20,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "snow",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ships",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "drones",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "shots",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "shots",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "shots",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "warplanes",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "warplanes",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "airbase",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "airbase",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "airbase",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "quarantine",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "quarantine",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "ships",
+    "action": "add-edge"
+  },
+  {
+    "source": "warplanes",
+    "target": "ships",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "snow",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "ships",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "snow",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "february",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "february",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "airspace",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "airspace",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "injured",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "february",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "airspace",
+    "action": "add-edge"
+  },
+  {
+    "source": "shots",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "airbase",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 35,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 31,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 31,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 9,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "kosovo",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "dead",
+    "target": "injured",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "snow",
+    "action": "remove-edge"
+  },
+  {
+    "source": "injured",
+    "target": "dozens",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "japan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "dead",
+    "target": "dozens",
+    "action": "remove-edge"
+  },
+  {
+    "source": "snow",
+    "target": "dozens",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "dozens",
+    "action": "remove-edge"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 31,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "remove-edge"
+  },
+  {
+    "source": "shots",
+    "target": "border",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "border",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drones",
+    "target": "border",
+    "action": "remove-edge"
+  },
+  {
+    "id": "moscow",
+    "weight": 12,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "japan",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "snow",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "injured",
+    "weight": 8,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "drones",
+    "target": "airspace",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "snow",
+    "action": "remove-edge"
+  },
+  {
+    "source": "snow",
+    "target": "injured",
+    "action": "remove-edge"
+  },
+  {
+    "source": "japan",
+    "target": "injured",
+    "action": "remove-edge"
+  },
+  {
+    "id": "injured",
+    "weight": 7,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "snow",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "japan",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 13,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 8,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "drones",
+    "target": "korean",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korean",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korean",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 14,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 14,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "military",
+    "target": "mandatory",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "mandatory",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "korea",
+    "target": "korean",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korean",
+    "target": "airspace",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "airspace",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ban",
+    "target": "women",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "remove-edge"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 9,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "ban",
+    "weight": 9,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 4,
+    "action": "remove-node"
+  },
+  {
+    "id": "korean",
+    "weight": 16,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "shots",
+    "weight": 8,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "shot",
+    "target": "airbase",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drone",
+    "target": "shot",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drones",
+    "target": "shots",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "shots",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fires",
+    "target": "shots",
+    "action": "remove-edge"
+  },
+  {
+    "id": "shots",
+    "weight": 7,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 9,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "lavrov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "lavrov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "airbase",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "airbase",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drone",
+    "target": "airbase",
+    "action": "remove-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drones",
+    "target": "fires",
+    "action": "remove-edge"
+  },
+  {
+    "id": "fires",
+    "weight": 7,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "airbase",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drones",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "military",
+    "target": "compulsory",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "compulsory",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "korea",
+    "target": "drones",
+    "action": "remove-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ukrainian",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 9,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 33,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 32,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 8,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "indonesia",
+    "target": "sea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "sea",
+    "action": "remove-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "sea",
+    "action": "remove-edge"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 11,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 13,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ships",
+    "weight": 9,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "ultimatum",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ultimatum",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "warplanes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "ships",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "warplanes",
+    "action": "remove-edge"
+  },
+  {
+    "source": "warplanes",
+    "target": "ships",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "ships",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "id": "ships",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "warplanes",
+    "weight": 8,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 12,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 9,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "refugees",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "peace",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "summit",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "summit",
+    "target": "february",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "february",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peace",
+    "target": "february",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "remove-edge"
+  },
+  {
+    "source": "peace",
+    "target": "summit",
+    "action": "remove-edge"
+  },
+  {
+    "id": "february",
+    "weight": 7,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "summit",
+    "weight": 8,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "peace",
+    "weight": 13,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 24,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 8,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "taliban",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 10,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bans",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "oil",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "taiwan",
+    "target": "mandatory",
+    "action": "remove-edge"
+  },
+  {
+    "source": "military",
+    "target": "mandatory",
+    "action": "remove-edge"
+  },
+  {
+    "id": "mandatory",
+    "weight": 7,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 30,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "quarantine",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "oil",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "troops",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "compulsory",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 9,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "women",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 9,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "id": "bans",
+    "weight": 8,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ultimatum",
+    "weight": 7,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "sea",
+    "weight": 7,
+    "cluster": 11,
+    "action": "update-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 7,
+    "cluster": 4,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
