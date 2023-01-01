@@ -1,0 +1,4146 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 27,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 25,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "romania",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "tate",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "suu",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "suu",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "suu",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "romania",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "idaho",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 27,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 26,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "fires",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "walters",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "barbara",
+    "target": "walters",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "source": "romania",
+    "target": "detained",
+    "action": "remove-edge"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "barbara",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "walters",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "myanmar",
+    "target": "aung",
+    "action": "remove-edge"
+  },
+  {
+    "source": "suu",
+    "target": "aung",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "aung",
+    "action": "remove-edge"
+  },
+  {
+    "id": "aung",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 32,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "suu",
+    "weight": 13,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "source": "myanmar",
+    "target": "suu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "suu",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "myanmar",
+    "action": "remove-edge"
+  },
+  {
+    "id": "suu",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 12,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 12,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 27,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "source": "andrew",
+    "target": "thunberg",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "romania",
+    "action": "remove-edge"
+  },
+  {
+    "source": "covid",
+    "target": "spain",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "spain",
+    "action": "remove-edge"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "military",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "benedict",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "xvi",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "xvi",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "putin",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tate",
+    "target": "thunberg",
+    "action": "remove-edge"
+  },
+  {
+    "id": "military",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "romania",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "xvi",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "idaho",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "russia",
+    "action": "remove-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "detained",
+    "action": "remove-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "detained",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tate",
+    "target": "detained",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romania",
+    "action": "remove-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "romania",
+    "action": "remove-edge"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "romania",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "covid",
+    "weight": 26,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "china",
+    "target": "putin",
+    "action": "remove-edge"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "pope",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "xvi",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "source": "fires",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "war",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "arrested",
+    "target": "influencer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "remove-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "vatican",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tate",
+    "target": "influencer",
+    "action": "remove-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "influencer",
+    "action": "remove-edge"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 8,
+    "action": "remove-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 12,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 32,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "source": "tate",
+    "target": "arrested",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "andrew",
+    "action": "remove-edge"
+  },
+  {
+    "id": "benedict",
+    "weight": 33,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 33,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xi",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "ukrainian",
+    "target": "families",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "families",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "families",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "source": "russia",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "source": "putin",
+    "target": "xi",
+    "action": "remove-edge"
+  },
+  {
+    "id": "xi",
+    "weight": 14,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 33,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 33,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "fires",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "source": "idaho",
+    "target": "suspect",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "suspect",
+    "action": "remove-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "idaho",
+    "action": "remove-edge"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "idaho",
+    "weight": 13,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 15,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 34,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 34,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "andrew",
+    "target": "trafficking",
+    "action": "remove-edge"
+  },
+  {
+    "id": "benedict",
+    "weight": 35,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 35,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "tate",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "tate",
+    "target": "andrew",
+    "action": "remove-edge"
+  },
+  {
+    "source": "tate",
+    "target": "trafficking",
+    "action": "remove-edge"
+  },
+  {
+    "id": "trafficking",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "tate",
+    "weight": 18,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 35,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 35,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "id": "benedict",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "id": "benedict",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "id": "benedict",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "benedict",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "source": "fires",
+    "target": "missile",
+    "action": "remove-edge"
+  },
+  {
+    "id": "benedict",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 36,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "dies",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "korea",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "fires",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "barbara",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "walters",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "resign",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "families",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "covid",
+    "weight": 18,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
