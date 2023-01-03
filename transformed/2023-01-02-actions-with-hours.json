@@ -1,0 +1,4060 @@
+[
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  },
+  {
+    "id": "year",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 16,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "pope",
+    "target": "benedict",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "xvi",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "xvi",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "kabul",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "kabul",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "inauguration",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "inauguration",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "uganda",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "01:00\nUTC"
+  },
+  {
+    "id": "year",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "02:00\nUTC"
+  },
+  {
+    "id": "year",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "attack",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "03:00\nUTC"
+  },
+  {
+    "id": "year",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "04:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 20,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "05:00\nUTC"
+  },
+  {
+    "source": "lula",
+    "target": "inauguration",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "inauguration",
+    "action": "remove-edge"
+  },
+  {
+    "id": "inauguration",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "machete",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "attack",
+    "target": "machete",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "06:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "machete",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "kyiv",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "07:00\nUTC"
+  },
+  {
+    "source": "kills",
+    "target": "kabul",
+    "action": "remove-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "kabul",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kabul",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 26,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 21,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 10,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "machete",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "russian",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "08:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 25,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 24,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 22,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "machete",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "event",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "vatican",
+    "target": "xvi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "uganda",
+    "target": "event",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "09:00\nUTC"
+  },
+  {
+    "source": "attack",
+    "target": "machete",
+    "action": "remove-edge"
+  },
+  {
+    "id": "machete",
+    "weight": 10,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "event",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "10:00\nUTC"
+  },
+  {
+    "source": "uganda",
+    "target": "event",
+    "action": "remove-edge"
+  },
+  {
+    "id": "event",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "11:00\nUTC"
+  },
+  {
+    "source": "kills",
+    "target": "uganda",
+    "action": "remove-edge"
+  },
+  {
+    "id": "uganda",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 13,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "officers",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "attack",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "12:00\nUTC"
+  },
+  {
+    "source": "year",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "remove-edge"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 23,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "year",
+    "weight": 23,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 17,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 14,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "officers",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "13:00\nUTC"
+  },
+  {
+    "source": "taliban",
+    "target": "kills",
+    "action": "remove-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "year",
+    "action": "remove-edge"
+  },
+  {
+    "source": "year",
+    "target": "russian",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "year",
+    "weight": 23,
+    "cluster": 7,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "officers",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "lula",
+    "target": "silva",
+    "action": "add-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "silva",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "silva",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "14:00\nUTC"
+  },
+  {
+    "source": "attack",
+    "target": "officers",
+    "action": "remove-edge"
+  },
+  {
+    "id": "officers",
+    "weight": 12,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 19,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "15:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 14,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "benedict",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "xvi",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "16:00\nUTC"
+  },
+  {
+    "id": "benedict",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 22,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "airport",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "17:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 26,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 24,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 14,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 11,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "airport",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "18:00\nUTC"
+  },
+  {
+    "source": "president",
+    "target": "silva",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "silva",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "silva",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "president",
+    "action": "remove-edge"
+  },
+  {
+    "id": "silva",
+    "weight": 10,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 25,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 17,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 12,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "west",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "israeli",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "19:00\nUTC"
+  },
+  {
+    "source": "israeli",
+    "target": "kills",
+    "action": "remove-edge"
+  },
+  {
+    "source": "kills",
+    "target": "west",
+    "action": "remove-edge"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 23,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 12,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "west",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "20:00\nUTC"
+  },
+  {
+    "source": "israeli",
+    "target": "west",
+    "action": "remove-edge"
+  },
+  {
+    "id": "west",
+    "weight": 10,
+    "cluster": 6,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 30,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 28,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 21,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 19,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 15,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 13,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 11,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "source": "killed",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "21:00\nUTC"
+  },
+  {
+    "source": "sworn",
+    "target": "bolsonaro",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "sworn",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "sworn",
+    "action": "remove-edge"
+  },
+  {
+    "source": "lula",
+    "target": "bolsonaro",
+    "action": "remove-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "bolsonaro",
+    "action": "remove-edge"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 11,
+    "cluster": 9,
+    "action": "remove-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 20,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 18,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 17,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 15,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 15,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "22:00\nUTC"
+  },
+  {
+    "source": "killed",
+    "target": "mexican",
+    "action": "remove-edge"
+  },
+  {
+    "source": "prison",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "source": "attack",
+    "target": "killed",
+    "action": "remove-edge"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 10,
+    "action": "remove-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 16,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 14,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 12,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "israeli",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "23:00\nUTC"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 29,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "pope",
+    "weight": 27,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 19,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "xvi",
+    "weight": 18,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "drone",
+    "weight": 16,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 16,
+    "cluster": 8,
+    "action": "update-node"
+  },
+  {
+    "id": "prison",
+    "weight": 16,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "id": "lula",
+    "weight": 15,
+    "cluster": 9,
+    "action": "update-node"
+  },
+  {
+    "id": "airport",
+    "weight": 15,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "missile",
+    "weight": 12,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "update-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 10,
+    "cluster": 6,
+    "action": "update-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 10,
+    "cluster": 10,
+    "action": "update-node"
+  },
+  {
+    "action": "change-hour",
+    "new_hour": "00:00\nUTC"
+  }
+]
