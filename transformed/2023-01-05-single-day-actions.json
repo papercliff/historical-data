@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 33,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 30,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 30,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "william",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "chapo",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "vehicles",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "orthodox",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "el",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "truce",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "attacked",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "peter",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "memoir",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "utah",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "church",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "benedict",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "attacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "attacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "attacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "orthodox",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "vehicles",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "utah",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "utah",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "william",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "truce",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "truce",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "utah",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "truce",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "el",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "beijing",
+    "action": "add-edge"
+  }
+]
