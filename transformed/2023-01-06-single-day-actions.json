@@ -1,0 +1,889 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 26,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "chapo",
+    "weight": 23,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "el",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "speaker",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 16,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cartel",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "orthodox",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "truce",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "house",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "memoir",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lgbtq",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "william",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fight",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "kevin",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "gianluca",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "vialli",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "coma",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopter",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "chiloba",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "kenyan",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "strait",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "aged",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "nabbed",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "uncertain",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "edwin",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "amid",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "motives",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "warship",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "kenya",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sails",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "chapo",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "gianluca",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "vialli",
+    "action": "add-edge"
+  },
+  {
+    "source": "gianluca",
+    "target": "vialli",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "truce",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "truce",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "william",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "house",
+    "target": "fight",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "fight",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "coma",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "coma",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "coma",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "chiloba",
+    "target": "edwin",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "chiloba",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "edwin",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "chiloba",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "el",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "cartel",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "kenyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "kenyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "el",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "fight",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "strait",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "nabbed",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "nabbed",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "nabbed",
+    "action": "add-edge"
+  },
+  {
+    "source": "gianluca",
+    "target": "aged",
+    "action": "add-edge"
+  },
+  {
+    "source": "vialli",
+    "target": "aged",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "aged",
+    "action": "add-edge"
+  },
+  {
+    "source": "truce",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "uncertain",
+    "action": "add-edge"
+  },
+  {
+    "source": "truce",
+    "target": "uncertain",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "truce",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "edwin",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "cartel",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "cartel",
+    "target": "nabbed",
+    "action": "add-edge"
+  },
+  {
+    "source": "truce",
+    "target": "motives",
+    "action": "add-edge"
+  },
+  {
+    "source": "uncertain",
+    "target": "motives",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "amid",
+    "action": "add-edge"
+  },
+  {
+    "source": "uncertain",
+    "target": "amid",
+    "action": "add-edge"
+  },
+  {
+    "source": "truce",
+    "target": "amid",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "chiloba",
+    "target": "kenyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "fight",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "strait",
+    "target": "sails",
+    "action": "add-edge"
+  },
+  {
+    "source": "warship",
+    "target": "sails",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "sails",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "el",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "el",
+    "target": "arrest",
+    "action": "add-edge"
+  }
+]
