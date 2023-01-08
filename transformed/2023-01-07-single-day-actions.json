@@ -1,0 +1,596 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 18,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "speaker",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "orthodox",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kevin",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "men",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "house",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "elected",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainians",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "celebrate",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "killings",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "paris",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "republican",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "accounts",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "policy",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "shells",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kurds",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "policies",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "amini",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "iran",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "men",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "men",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "elected",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "elected",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "speaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "executes",
+    "target": "men",
+    "action": "add-edge"
+  },
+  {
+    "source": "executes",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "ukrainians",
+    "action": "add-edge"
+  },
+  {
+    "source": "orthodox",
+    "target": "ukrainians",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "accounts",
+    "action": "add-edge"
+  },
+  {
+    "source": "accounts",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "accounts",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "elected",
+    "action": "add-edge"
+  },
+  {
+    "source": "men",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "celebrate",
+    "action": "add-edge"
+  },
+  {
+    "source": "orthodox",
+    "target": "celebrate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainians",
+    "target": "celebrate",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "policies",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "policies",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "kurds",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "kurds",
+    "action": "add-edge"
+  },
+  {
+    "source": "policy",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "accounts",
+    "target": "policy",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "house",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "shells",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "shells",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "killings",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "kurds",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "policies",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "policies",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "orthodox",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "speaker",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "amini",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "amini",
+    "action": "add-edge"
+  }
+]
