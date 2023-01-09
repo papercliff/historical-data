@@ -1,0 +1,741 @@
+[
+  {
+    "id": "bolsonaro",
+    "weight": 30,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 26,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 24,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "iranian",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "supporters",
+    "weight": 21,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "senegal",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "borders",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "chemical",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "palace",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "suspected",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "reopens",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "benedict",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "collision",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "buildings",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "subway",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "delhi",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "lgbtq",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tomb",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "orthodox",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "basilica",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "marches",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "peter",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "chemical",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "chemical",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "chemical",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "borders",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "borders",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "buildings",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "buildings",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "collision",
+    "target": "subway",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "collision",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "subway",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "collision",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "subway",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "palace",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "chemical",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "marches",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "support",
+    "target": "marches",
+    "action": "add-edge"
+  },
+  {
+    "source": "borders",
+    "target": "reopens",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "reopens",
+    "action": "add-edge"
+  },
+  {
+    "source": "delhi",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "delhi",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "marches",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "basilica",
+    "action": "add-edge"
+  },
+  {
+    "source": "basilica",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "delhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "tomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "tomb",
+    "target": "peter",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "benedict",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "tomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "tomb",
+    "target": "basilica",
+    "action": "add-edge"
+  }
+]
