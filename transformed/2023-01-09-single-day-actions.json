@@ -1,0 +1,1007 @@
+[
+  {
+    "id": "bolsonaro",
+    "weight": 35,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 31,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 21,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rioters",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "florida",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "supporters",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "authorities",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "reopens",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "suez",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "jair",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "royal",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "crimes",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "memoir",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "canal",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "aground",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "punish",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "family",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "egypt",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "buildings",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "hamlin",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "buffalo",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bills",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "hospitalized",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "cargo",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "schools",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "refloated",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "disappearance",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "teach",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "abdominal",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "damar",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "arab",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "emirates",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "holocaust",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "royals",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "minutes",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "interviews",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "alliance",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "join",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "authorities",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "authorities",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "rioters",
+    "target": "authorities",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopens",
+    "target": "disappearance",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "disappearance",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopens",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "punish",
+    "action": "add-edge"
+  },
+  {
+    "source": "rioters",
+    "target": "punish",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "punish",
+    "action": "add-edge"
+  },
+  {
+    "source": "authorities",
+    "target": "punish",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "aground",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "aground",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "canal",
+    "action": "add-edge"
+  },
+  {
+    "source": "aground",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "emirates",
+    "action": "add-edge"
+  },
+  {
+    "source": "schools",
+    "target": "arab",
+    "action": "add-edge"
+  },
+  {
+    "source": "schools",
+    "target": "emirates",
+    "action": "add-edge"
+  },
+  {
+    "source": "teach",
+    "target": "emirates",
+    "action": "add-edge"
+  },
+  {
+    "source": "schools",
+    "target": "teach",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "teach",
+    "target": "arab",
+    "action": "add-edge"
+  },
+  {
+    "source": "teach",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "schools",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "disappearance",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopens",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "emirates",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "minutes",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "minutes",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "royal",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "buildings",
+    "action": "add-edge"
+  },
+  {
+    "source": "supporters",
+    "target": "buildings",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "aground",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "interviews",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "interviews",
+    "action": "add-edge"
+  },
+  {
+    "source": "hamlin",
+    "target": "buffalo",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "buffalo",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "hamlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "aground",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "buffalo",
+    "target": "damar",
+    "action": "add-edge"
+  },
+  {
+    "source": "hamlin",
+    "target": "damar",
+    "action": "add-edge"
+  },
+  {
+    "source": "aground",
+    "target": "refloated",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "refloated",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "buffalo",
+    "target": "bills",
+    "action": "add-edge"
+  },
+  {
+    "source": "hamlin",
+    "target": "bills",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "rioters",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "accuses",
+    "target": "royals",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "alliance",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "alliance",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospitalized",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "join",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "join",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "buildings",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protests",
+    "action": "add-edge"
+  }
+]
