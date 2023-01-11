@@ -1,0 +1,801 @@
+[
+  {
+    "id": "biden",
+    "weight": 29,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 24,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 17,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 17,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "visas",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "jail",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spare",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "memoir",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rioters",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "koreans",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "soledar",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "brazilian",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "romanian",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "clashes",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "uk",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "appeal",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "book",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "belgian",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "amnesty",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "vice",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lashes",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "camilla",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "appeals",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hajj",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rifles",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "yemen",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "worker",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "koreans",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "visas",
+    "action": "add-edge"
+  },
+  {
+    "source": "visas",
+    "target": "koreans",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "spare",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "spare",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "visas",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "jail",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "rioters",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "jail",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "book",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "book",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazilian",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "rioters",
+    "target": "brazilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "jail",
+    "target": "brazilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "visas",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "hajj",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "hajj",
+    "action": "add-edge"
+  },
+  {
+    "source": "visas",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "spare",
+    "target": "memoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "belgian",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgian",
+    "target": "lashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "lashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "belgian",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "romanian",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "rifles",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "rifles",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgian",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "koreans",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "brazilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "vice",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "vice",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "trudeau",
+    "action": "add-edge"
+  }
+]
