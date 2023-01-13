@@ -1,0 +1,341 @@
+[
+  {
+    "id": "biden",
+    "weight": 28,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 22,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "soledar",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "uae",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "counsel",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "cop28",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "house",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "visa",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "attorney",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "press",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "deadly",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "counsel",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "counsel",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "cop28",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "cop28",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "uae",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "counsel",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "bolsonaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "visa",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "visa",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "press",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "press",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "press",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "attorney",
+    "action": "add-edge"
+  },
+  {
+    "source": "counsel",
+    "target": "attorney",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "house",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "cop28",
+    "action": "add-edge"
+  }
+]
