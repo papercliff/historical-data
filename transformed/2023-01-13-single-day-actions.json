@@ -1,0 +1,720 @@
+[
+  {
+    "id": "russia",
+    "weight": 35,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "soledar",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 22,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "fraud",
+    "weight": 17,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "presley",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "abe",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "lisa",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "marie",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "fined",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "elvis",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "pay",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "assassination",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "shinzo",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kishida",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "denies",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "apple",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "law",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "cook",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "forces",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "effigy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fighting",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "risks",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "captured",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "paul",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "control",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tim",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "lawlessness",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rule",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "fraud",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "fraud",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "lisa",
+    "target": "marie",
+    "action": "add-edge"
+  },
+  {
+    "source": "presley",
+    "target": "lisa",
+    "action": "add-edge"
+  },
+  {
+    "source": "presley",
+    "target": "marie",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "fined",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "fined",
+    "action": "add-edge"
+  },
+  {
+    "source": "fraud",
+    "target": "fined",
+    "action": "add-edge"
+  },
+  {
+    "source": "lisa",
+    "target": "elvis",
+    "action": "add-edge"
+  },
+  {
+    "source": "presley",
+    "target": "elvis",
+    "action": "add-edge"
+  },
+  {
+    "source": "marie",
+    "target": "elvis",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "abe",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "abe",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "abe",
+    "target": "shinzo",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "shinzo",
+    "action": "add-edge"
+  },
+  {
+    "source": "abe",
+    "target": "assassination",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "assassination",
+    "action": "add-edge"
+  },
+  {
+    "source": "fraud",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "assassination",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "assassination",
+    "target": "shinzo",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "shinzo",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "kishida",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "kishida",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "lisa",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "presley",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "marie",
+    "action": "add-edge"
+  },
+  {
+    "source": "apple",
+    "target": "cook",
+    "action": "add-edge"
+  },
+  {
+    "source": "pay",
+    "target": "apple",
+    "action": "add-edge"
+  },
+  {
+    "source": "pay",
+    "target": "cook",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "probe",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "captured",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "captured",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "forces",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "forces",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "cook",
+    "target": "tim",
+    "action": "add-edge"
+  },
+  {
+    "source": "pay",
+    "target": "tim",
+    "action": "add-edge"
+  },
+  {
+    "source": "apple",
+    "target": "tim",
+    "action": "add-edge"
+  },
+  {
+    "source": "fined",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "elvis",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "effigy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "effigy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "cook",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "pay",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "apple",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "effigy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "soledar",
+    "target": "control",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "control",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "paul",
+    "action": "add-edge"
+  },
+  {
+    "source": "probe",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "lawlessness",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "risks",
+    "action": "add-edge"
+  },
+  {
+    "source": "risks",
+    "target": "lawlessness",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawlessness",
+    "target": "rule",
+    "action": "add-edge"
+  },
+  {
+    "source": "risks",
+    "target": "rule",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "rule",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "control",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "republicans",
+    "action": "add-edge"
+  }
+]
