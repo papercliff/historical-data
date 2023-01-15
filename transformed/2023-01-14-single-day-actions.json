@@ -1,0 +1,902 @@
+[
+  {
+    "id": "iran",
+    "weight": 34,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 29,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bolsonaro",
+    "weight": 24,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 21,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "iranian",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "riot",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "akbari",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "alireza",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "spying",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "reports",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hangs",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "soledar",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "uk",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "greta",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "challenger",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutor",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jair",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "delaware",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "coal",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "died",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "investigate",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "executed",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "covid",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "riot",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "riot",
+    "action": "add-edge"
+  },
+  {
+    "source": "akbari",
+    "target": "alireza",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "akbari",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "alireza",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "reports",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "reports",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "reports",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "akbari",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "alireza",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "riot",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "iranian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "executes",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "challenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "challenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "hangs",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "hangs",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "delaware",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "delaware",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "akbari",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "executes",
+    "target": "alireza",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "riot",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "delaware",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "delaware",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "challenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soledar",
+    "action": "add-edge"
+  },
+  {
+    "source": "riot",
+    "target": "jair",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutor",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "akbari",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "alireza",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "bolsonaro",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "invasion",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "visit",
+    "action": "add-edge"
+  }
+]
