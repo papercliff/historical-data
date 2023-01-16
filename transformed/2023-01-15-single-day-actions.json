@@ -1,0 +1,688 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 33,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 31,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 24,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 23,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "dnipro",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "apartment",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "california",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lima",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "state",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "disaster",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "rain",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "snow",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ahead",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "crashed",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sermon",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "carrying",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rights",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sales",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "uae",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "moving",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "appeals",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "heavy",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "nepal",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "lima",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "lima",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dnipro",
+    "action": "add-edge"
+  },
+  {
+    "source": "dnipro",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "apartment",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dnipro",
+    "action": "add-edge"
+  },
+  {
+    "source": "dnipro",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "dnipro",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "dnipro",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "rain",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "ahead",
+    "target": "moving",
+    "action": "add-edge"
+  },
+  {
+    "source": "ahead",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "moving",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "ahead",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "moving",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "apartment",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "carrying",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "carrying",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "lima",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "heavy",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "heavy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "sermon",
+    "action": "add-edge"
+  },
+  {
+    "source": "sermon",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "california",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "carrying",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "state",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "state",
+    "action": "add-edge"
+  },
+  {
+    "source": "heavy",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "sales",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "uae",
+    "action": "add-edge"
+  },
+  {
+    "source": "sales",
+    "target": "uae",
+    "action": "add-edge"
+  },
+  {
+    "source": "sales",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "appeals",
+    "action": "add-edge"
+  }
+]
