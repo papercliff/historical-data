@@ -1,0 +1,795 @@
+[
+  {
+    "id": "china",
+    "weight": 38,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "population",
+    "weight": 29,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "greta",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mafia",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 19,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "coal",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "norway",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "decades",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "denaro",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "messina",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "decline",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "flags",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "vietnam",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "shrinks",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "oldest",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "video",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "matteo",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "growth",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "data",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bans",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pilot",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "netherlands",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "phuc",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "gdp",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "seeks",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "host",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nguyen",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "runestone",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "belarusian",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fall",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "recorder",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "xuan",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "greta",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "coal",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "decades",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "decades",
+    "action": "add-edge"
+  },
+  {
+    "source": "mafia",
+    "target": "denaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "denaro",
+    "target": "messina",
+    "action": "add-edge"
+  },
+  {
+    "source": "mafia",
+    "target": "messina",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "shrinks",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "shrinks",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "decline",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "decline",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "flags",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "flags",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "oldest",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "runestone",
+    "action": "add-edge"
+  },
+  {
+    "source": "oldest",
+    "target": "runestone",
+    "action": "add-edge"
+  },
+  {
+    "source": "denaro",
+    "target": "matteo",
+    "action": "add-edge"
+  },
+  {
+    "source": "messina",
+    "target": "matteo",
+    "action": "add-edge"
+  },
+  {
+    "source": "phuc",
+    "target": "nguyen",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "nguyen",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "phuc",
+    "action": "add-edge"
+  },
+  {
+    "source": "flags",
+    "target": "belarusian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "belarusian",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "flags",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "seeks",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "seeks",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "seeks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "data",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "data",
+    "action": "add-edge"
+  },
+  {
+    "source": "nguyen",
+    "target": "xuan",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "xuan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "phuc",
+    "target": "xuan",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "recorder",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "recorder",
+    "action": "add-edge"
+  },
+  {
+    "source": "mafia",
+    "target": "matteo",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "data",
+    "target": "recorder",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "belarusian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mafia",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "messina",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "denaro",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "pilot",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "pilot",
+    "action": "add-edge"
+  },
+  {
+    "source": "coal",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "gdp",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "growth",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "gdp",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "resigns",
+    "target": "phuc",
+    "action": "add-edge"
+  },
+  {
+    "source": "resigns",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "fall",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "fall",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "decades",
+    "target": "shrinks",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "german",
+    "action": "add-edge"
+  }
+]
