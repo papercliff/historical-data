@@ -1,0 +1,946 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ardern",
+    "weight": 36,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 36,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "jacinda",
+    "weight": 34,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 28,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "davos",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "baldwin",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "alec",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "resign",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "manslaughter",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "retirement",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopter",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "resignation",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rust",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "california",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "greta",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pension",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "actor",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "capital",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "julian",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sands",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "step",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "age",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lost",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "month",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "andes",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "conflict",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ketchup",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "medvedev",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "fatal",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "naval",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "days",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lake",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "ardern",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "alec",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "manslaughter",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "davos",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "davos",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "resignation",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "resignation",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "manslaughter",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "resignation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "actor",
+    "target": "julian",
+    "action": "add-edge"
+  },
+  {
+    "source": "actor",
+    "target": "sands",
+    "action": "add-edge"
+  },
+  {
+    "source": "julian",
+    "target": "sands",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "actor",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "julian",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "sands",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "pension",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "strikes",
+    "target": "pension",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "step",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "step",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "resignation",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "actor",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "julian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "sands",
+    "action": "add-edge"
+  },
+  {
+    "source": "davos",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "fatal",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "fatal",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "fatal",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "retirement",
+    "action": "add-edge"
+  },
+  {
+    "source": "retirement",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "naval",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "naval",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "andes",
+    "action": "add-edge"
+  },
+  {
+    "source": "resign",
+    "target": "andes",
+    "action": "add-edge"
+  },
+  {
+    "source": "resign",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "andes",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "resign",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "medvedev",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "medvedev",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "lost",
+    "target": "ketchup",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "ketchup",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "step",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "manslaughter",
+    "target": "fatal",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "naval",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "pension",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "conflict",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "age",
+    "action": "add-edge"
+  },
+  {
+    "source": "retirement",
+    "target": "age",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "medvedev",
+    "action": "add-edge"
+  },
+  {
+    "source": "ketchup",
+    "target": "days",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "days",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "retirement",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "pension",
+    "action": "add-edge"
+  }
+]
