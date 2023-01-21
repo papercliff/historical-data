@@ -1,0 +1,961 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 40,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 23,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ardern",
+    "weight": 22,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 20,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jacinda",
+    "weight": 18,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 18,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "allies",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "hipkins",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "capital",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "transnational",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "romanian",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "fined",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "toad",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "seatbelt",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "spending",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "seal",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dani",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "chris",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "alves",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "european",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rishi",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "toadzilla",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "organization",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "decision",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cane",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "regrets",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "replace",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "romania",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "giant",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "belt",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "seat",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "ardern",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "ardern",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "seal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "seal",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "transnational",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "transnational",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "fined",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "fined",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "seatbelt",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "seatbelt",
+    "action": "add-edge"
+  },
+  {
+    "source": "alves",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "dani",
+    "target": "alves",
+    "action": "add-edge"
+  },
+  {
+    "source": "dani",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "transnational",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "romanian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "decision",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "decision",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "fined",
+    "target": "seatbelt",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "dani",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "belt",
+    "target": "seat",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "belt",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "seat",
+    "action": "add-edge"
+  },
+  {
+    "source": "alves",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "regrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "regrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "organization",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "organization",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "alves",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "dani",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "spending",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "spending",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "decision",
+    "action": "add-edge"
+  },
+  {
+    "source": "toad",
+    "target": "giant",
+    "action": "add-edge"
+  },
+  {
+    "source": "toadzilla",
+    "target": "giant",
+    "action": "add-edge"
+  },
+  {
+    "source": "toad",
+    "target": "toadzilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "toad",
+    "target": "cane",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaders",
+    "target": "meet",
+    "action": "add-edge"
+  }
+]
