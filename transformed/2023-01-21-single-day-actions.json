@@ -1,0 +1,902 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "machu",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "picchu",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "hipkins",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopter",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ardern",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cancels",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "closes",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "river",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "jacinda",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "chris",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "klain",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "ron",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "indecision",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "swedish",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "aldrin",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "birthday",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "leave",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "press",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "dump",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "buzz",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "seal",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tourist",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "aide",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "balkan",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "floating",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "extremists",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "freed",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "inca",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "marries",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "replace",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "source": "peru",
+    "target": "machu",
+    "action": "add-edge"
+  },
+  {
+    "source": "machu",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "picchu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "machu",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "ardern",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "ardern",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "indecision",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "indecision",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "klain",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ron",
+    "action": "add-edge"
+  },
+  {
+    "source": "klain",
+    "target": "ron",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "picchu",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "machu",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "press",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "press",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "press",
+    "action": "add-edge"
+  },
+  {
+    "source": "machu",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "picchu",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "cancels",
+    "target": "swedish",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "cancels",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "swedish",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "klain",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "leave",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "klain",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "dump",
+    "target": "balkan",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "balkan",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "dump",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "dump",
+    "target": "floating",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "floating",
+    "action": "add-edge"
+  },
+  {
+    "source": "aldrin",
+    "target": "buzz",
+    "action": "add-edge"
+  },
+  {
+    "source": "aldrin",
+    "target": "marries",
+    "action": "add-edge"
+  },
+  {
+    "source": "buzz",
+    "target": "marries",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "aldrin",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "birthday",
+    "target": "buzz",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "jacinda",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "picchu",
+    "target": "inca",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "inca",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "extremists",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "extremists",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "machu",
+    "target": "inca",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "inca",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "seal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "seal",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "fires",
+    "action": "add-edge"
+  }
+]
