@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 21,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 17,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 17,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "norway",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "power",
+    "weight": 13,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "energy",
+    "weight": 12,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "monterey",
+    "weight": 11,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "maxwell",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fbi",
+    "weight": 11,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 10,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "ghislaine",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "lavrov",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "approval",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crackdown",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "epstein",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jeffrey",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "oath",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "seditious",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "dance",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "oligarch",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "pelosi",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "investigation",
+    "weight": 7,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "outage",
+    "weight": 7,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "sexist",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "condemns",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "park",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "conspiracy",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "murdered",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "desk",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "negotiations",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "watchdog",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "pressure",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "convicted",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "gallego",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "beirut",
+    "weight": 5,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 5,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "algeria",
+    "weight": 5,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "eswatini",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "koran",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "blast",
+    "weight": 4,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "ruben",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "arizona",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "accuser",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "alarm",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "backfires",
+    "weight": 4,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "commander",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "source": "tanks",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghislaine",
+    "target": "epstein",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "epstein",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "ghislaine",
+    "action": "add-edge"
+  },
+  {
+    "source": "fbi",
+    "target": "oligarch",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "fbi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "oligarch",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "epstein",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "oath",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "seditious",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "oath",
+    "target": "seditious",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghislaine",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "lavrov",
+    "target": "negotiations",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "lavrov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "negotiations",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "outage",
+    "action": "add-edge"
+  },
+  {
+    "source": "power",
+    "target": "outage",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "power",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "sexist",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "sexist",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "crackdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "crackdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "monterey",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "monterey",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "seditious",
+    "action": "add-edge"
+  },
+  {
+    "source": "monterey",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "desk",
+    "action": "add-edge"
+  },
+  {
+    "source": "pelosi",
+    "target": "desk",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "pelosi",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "lavrov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "negotiations",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "negotiations",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "lavrov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghislaine",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "jeffrey",
+    "target": "murdered",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "murdered",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghislaine",
+    "target": "murdered",
+    "action": "add-edge"
+  },
+  {
+    "source": "epstein",
+    "target": "murdered",
+    "action": "add-edge"
+  },
+  {
+    "source": "monterey",
+    "target": "dance",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "dance",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "beirut",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "beirut",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "gallego",
+    "target": "ruben",
+    "action": "add-edge"
+  },
+  {
+    "source": "gallego",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "ruben",
+    "action": "add-edge"
+  },
+  {
+    "source": "investigation",
+    "target": "beirut",
+    "action": "add-edge"
+  },
+  {
+    "source": "investigation",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "gallego",
+    "target": "arizona",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "arizona",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "energy",
+    "target": "algeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "algeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "energy",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "koran",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "koran",
+    "action": "add-edge"
+  },
+  {
+    "source": "energy",
+    "target": "backfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "backfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "energy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "oath",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "seditious",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "crackdown",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "eswatini",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "eswatini",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "conspiracy",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "condemns",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "alarm",
+    "action": "add-edge"
+  },
+  {
+    "source": "watchdog",
+    "target": "alarm",
+    "action": "add-edge"
+  },
+  {
+    "source": "sexist",
+    "target": "alarm",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "accuser",
+    "action": "add-edge"
+  },
+  {
+    "source": "maxwell",
+    "target": "accuser",
+    "action": "add-edge"
+  },
+  {
+    "source": "condemns",
+    "target": "eswatini",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "commander",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "commander",
+    "action": "add-edge"
+  }
+]
