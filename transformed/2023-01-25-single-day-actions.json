@@ -1,0 +1,930 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 43,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 38,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 32,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 22,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "crime",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "homosexuality",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "abrams",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "facebook",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "instagram",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "send",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cargo",
+    "weight": 13,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "snow",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ardern",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "knife",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "hipkins",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "western",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "approves",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "illness",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "sin",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "microsoft",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "outlook",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "crew",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "schiff",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "swalwell",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "capital",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "jacinda",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "outbreak",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "respiratory",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "outage",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "m1",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "teams",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "passengers",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "committee",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cholera",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "malawi",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "abrams",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "abrams",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "homosexuality",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "homosexuality",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "crime",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "crime",
+    "action": "add-edge"
+  },
+  {
+    "source": "crime",
+    "target": "homosexuality",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "western",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "western",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "instagram",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "instagram",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "approves",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "approves",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "schiff",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "swalwell",
+    "action": "add-edge"
+  },
+  {
+    "source": "schiff",
+    "target": "swalwell",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "knife",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "knife",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "sin",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "sin",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "instagram",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "crime",
+    "target": "sin",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "knife",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "crew",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "crew",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "instagram",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "microsoft",
+    "target": "outage",
+    "action": "add-edge"
+  },
+  {
+    "source": "microsoft",
+    "target": "outlook",
+    "action": "add-edge"
+  },
+  {
+    "source": "outlook",
+    "target": "outage",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "homosexuality",
+    "target": "sin",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "approves",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "illness",
+    "action": "add-edge"
+  },
+  {
+    "source": "illness",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "hipkins",
+    "action": "add-edge"
+  },
+  {
+    "source": "illness",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "microsoft",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "outlook",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "abrams",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "abrams",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "crew",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "crew",
+    "action": "add-edge"
+  },
+  {
+    "source": "cholera",
+    "target": "malawi",
+    "action": "add-edge"
+  },
+  {
+    "source": "cholera",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "malawi",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "outbreak",
+    "target": "cholera",
+    "action": "add-edge"
+  },
+  {
+    "source": "outbreak",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "outbreak",
+    "target": "malawi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hipkins",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "m1",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "m1",
+    "action": "add-edge"
+  },
+  {
+    "source": "abrams",
+    "target": "m1",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "passengers",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "leopard",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "schiff",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "swalwell",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "knife",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "leopard",
+    "target": "abrams",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "cholera",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "outbreak",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "malawi",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ardern",
+    "target": "jacinda",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "missing",
+    "action": "add-edge"
+  }
+]
