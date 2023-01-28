@@ -1,0 +1,923 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 37,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 28,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "machete",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "raid",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "tank",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "somalia",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "news",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kill",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "facebook",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "state",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "churches",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "instagram",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "terror",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "abrams",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "send",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "beating",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "islamic",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "jenin",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "return",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "machete",
+    "target": "churches",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "churches",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "machete",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "instagram",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "facebook",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "instagram",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "somalia",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "somalia",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "tank",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tank",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "abrams",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "abrams",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tank",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "machete",
+    "target": "terror",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "terror",
+    "action": "add-edge"
+  },
+  {
+    "source": "machete",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "somalia",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "kill",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "machete",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "machete",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "troops",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "troops",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "troops",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "state",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "state",
+    "action": "add-edge"
+  },
+  {
+    "source": "somalia",
+    "target": "state",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "beating",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "beating",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "churches",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "state",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "facebook",
+    "target": "return",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "return",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "news",
+    "action": "add-edge"
+  }
+]
