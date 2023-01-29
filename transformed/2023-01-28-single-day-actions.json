@@ -1,0 +1,749 @@
+[
+  {
+    "id": "jerusalem",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 22,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "video",
+    "weight": 22,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "synagogue",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "czech",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "footage",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pavel",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "radioactive",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "capsule",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "petr",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "general",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "seven",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "exams",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "search",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "tiny",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "planes",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "erupt",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "entry",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lost",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "universities",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "nichols",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "pavel",
+    "action": "add-edge"
+  },
+  {
+    "source": "pavel",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "petr",
+    "action": "add-edge"
+  },
+  {
+    "source": "pavel",
+    "target": "petr",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "synagogue",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "synagogue",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "petr",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "footage",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "footage",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "general",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "general",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "exams",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "exams",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "planes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "planes",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "pavel",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "radioactive",
+    "target": "capsule",
+    "action": "add-edge"
+  },
+  {
+    "source": "capsule",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "radioactive",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "capsule",
+    "target": "tiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "radioactive",
+    "target": "tiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "erupt",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "footage",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "capsule",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "radioactive",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "general",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "seven",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "seven",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "capsule",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "search",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "exams",
+    "target": "entry",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "entry",
+    "action": "add-edge"
+  },
+  {
+    "source": "radioactive",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "search",
+    "target": "tiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "exams",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "tiny",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "entry",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "pavel",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "planes",
+    "action": "add-edge"
+  }
+]
