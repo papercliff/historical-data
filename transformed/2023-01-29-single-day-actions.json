@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 21,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 16,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "isfahan",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "djokovic",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "chairman",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "finland",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "zahawi",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "targets",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "10th",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "slam",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "facility",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "unit",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tsitsipas",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sacked",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "allegations",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "isfahan",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "isfahan",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "tyre",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "isfahan",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "slam",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "slam",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "facility",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "facility",
+    "action": "add-edge"
+  },
+  {
+    "source": "isfahan",
+    "target": "facility",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "targets",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "targets",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "10th",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "10th",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "chairman",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "chairman",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "sacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "zahawi",
+    "target": "sacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "zahawi",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "unit",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "unit",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "zahawi",
+    "action": "add-edge"
+  },
+  {
+    "source": "10th",
+    "target": "slam",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "chairman",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "chairman",
+    "target": "allegations",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "allegations",
+    "action": "add-edge"
+  },
+  {
+    "source": "10th",
+    "target": "tsitsipas",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "tsitsipas",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "israel",
+    "action": "add-edge"
+  }
+]
