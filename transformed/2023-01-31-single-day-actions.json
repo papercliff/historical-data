@@ -1,0 +1,753 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jets",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mosque",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "fighter",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pension",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "baldwin",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "blast",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "alec",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "treaty",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rust",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "congo",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "allies",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "conflict",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomatic",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "fired",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "florida",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "manslaughter",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "anarchist",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "western",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "alert",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "charged",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "16s",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "source": "jets",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "treaty",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "treaty",
+    "action": "add-edge"
+  },
+  {
+    "source": "mosque",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "mosque",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "alec",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "mosque",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "alec",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "baldwin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "bombing",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "rust",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "mosque",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "fighter",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "bombing",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "charged",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "charged",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "anarchist",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomatic",
+    "target": "anarchist",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "diplomatic",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "anarchist",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomatic",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "16s",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "16s",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "congo",
+    "action": "add-edge"
+  },
+  {
+    "source": "alec",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "baldwin",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "western",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "western",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "anarchist",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomatic",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "pension",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "treaty",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "allies",
+    "action": "add-edge"
+  }
+]
