@@ -1,0 +1,647 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 26,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 23,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 20,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "balloon",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 17,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 16,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 15,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mosque",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "notes",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "monarchy",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "omar",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "stalingrad",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "suspected",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "committee",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "congo",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "uniform",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bases",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bomber",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "spotted",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "ilhan",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "target",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "threatens",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "youth",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "balloon",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "stalingrad",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "stalingrad",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "mosque",
+    "action": "add-edge"
+  },
+  {
+    "source": "mosque",
+    "target": "uniform",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "uniform",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippines",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "spotted",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "spotted",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "spotted",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "notes",
+    "action": "add-edge"
+  },
+  {
+    "source": "notes",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "spotted",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "notes",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "omar",
+    "target": "ilhan",
+    "action": "add-edge"
+  },
+  {
+    "source": "republicans",
+    "target": "ilhan",
+    "action": "add-edge"
+  },
+  {
+    "source": "omar",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "congo",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "mosque",
+    "target": "bomber",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "bomber",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "omar",
+    "target": "committee",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "target",
+    "action": "add-edge"
+  },
+  {
+    "source": "strikes",
+    "target": "target",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "bases",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippines",
+    "target": "bases",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "bases",
+    "action": "add-edge"
+  },
+  {
+    "source": "uniform",
+    "target": "bomber",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "target",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "target",
+    "action": "add-edge"
+  }
+]
