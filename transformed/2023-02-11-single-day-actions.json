@@ -1,0 +1,998 @@
+[
+  {
+    "id": "turkey",
+    "weight": 32,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 30,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 29,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "canada",
+    "weight": 19,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 16,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 15,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "revolution",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mayor",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 13,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "toronto",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "islamic",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "balloon",
+    "weight": 11,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "staffer",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "anniversary",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "accused",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "object",
+    "weight": 9,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "blacklists",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "blasphemy",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "unidentified",
+    "weight": 8,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "child",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "argentina",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "birth",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 7,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "lynches",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "mob",
+    "weight": 6,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "communist",
+    "weight": 6,
+    "cluster": 0,
+    "action": "add-node"
+  },
+  {
+    "id": "rapper",
+    "weight": 6,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "affair",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 6,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "years",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "entities",
+    "weight": 5,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "bloodshed",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tory",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pressure",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "apple",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rises",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "spacecraft",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "finland",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "finnish",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "emblem",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "northern",
+    "weight": 4,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "source": "earthquake",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "mayor",
+    "target": "staffer",
+    "action": "add-edge"
+  },
+  {
+    "source": "mayor",
+    "target": "toronto",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "staffer",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "revolution",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolution",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolution",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "islamic",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolution",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "islamic",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "object",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "object",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "blasphemy",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "lynches",
+    "action": "add-edge"
+  },
+  {
+    "source": "blasphemy",
+    "target": "lynches",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "mob",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "mob",
+    "action": "add-edge"
+  },
+  {
+    "source": "mayor",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "staffer",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "argentina",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "argentina",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "blacklists",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "balloon",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "blacklists",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "bloodshed",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "bloodshed",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "object",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "lynches",
+    "action": "add-edge"
+  },
+  {
+    "source": "lynches",
+    "target": "mob",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "blasphemy",
+    "action": "add-edge"
+  },
+  {
+    "source": "blasphemy",
+    "target": "mob",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "argentina",
+    "target": "birth",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "birth",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "birth",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "communist",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "communist",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "mayor",
+    "target": "affair",
+    "action": "add-edge"
+  },
+  {
+    "source": "staffer",
+    "target": "affair",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "entities",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "entities",
+    "action": "add-edge"
+  },
+  {
+    "source": "blacklists",
+    "target": "entities",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "bloodshed",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "bloodshed",
+    "target": "rises",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "finnish",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "finnish",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "finnish",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "mayor",
+    "target": "tory",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "tory",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "communist",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "pressure",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "apple",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "apple",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "emblem",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "emblem",
+    "action": "add-edge"
+  },
+  {
+    "source": "apple",
+    "target": "emblem",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "toronto",
+    "target": "affair",
+    "action": "add-edge"
+  },
+  {
+    "source": "rapper",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "rapper",
+    "action": "add-edge"
+  },
+  {
+    "source": "resigns",
+    "target": "affair",
+    "action": "add-edge"
+  }
+]
