@@ -1,0 +1,954 @@
+[
+  {
+    "id": "turkey",
+    "weight": 33,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 31,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "canada",
+    "weight": 19,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "object",
+    "weight": 19,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 16,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "shoots",
+    "weight": 16,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "building",
+    "weight": 15,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclone",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "contractors",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "unidentified",
+    "weight": 14,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 11,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gabrielle",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "montana",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "lake",
+    "weight": 8,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "jet",
+    "weight": 8,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "grinding",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "shell",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "continues",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "huron",
+    "weight": 6,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "raisi",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "madrid",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cancels",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "visa",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "healthcare",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bishop",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "deluge",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nicaraguan",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomacy",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "tragedy",
+    "weight": 4,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "delay",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "anomaly",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "faa",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "radar",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "syria",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "contractors",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "contractors",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "gabrielle",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "cyclone",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "gabrielle",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "shell",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "shell",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grinding",
+    "action": "add-edge"
+  },
+  {
+    "source": "grinding",
+    "target": "shell",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grinding",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "object",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "continues",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "continues",
+    "action": "add-edge"
+  },
+  {
+    "source": "shell",
+    "target": "continues",
+    "action": "add-edge"
+  },
+  {
+    "source": "grinding",
+    "target": "continues",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "contractors",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "shoots",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "shoots",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "shoots",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "object",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "unidentified",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "cancels",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "cancels",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "contractors",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "healthcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "healthcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "nicaraguan",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "nicaraguan",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "deluge",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "deluge",
+    "action": "add-edge"
+  },
+  {
+    "source": "nicaraguan",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "cancels",
+    "target": "deluge",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomacy",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "diplomacy",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "diplomacy",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "tragedy",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "tragedy",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "tragedy",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "raisi",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "raisi",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "contractors",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "huron",
+    "action": "add-edge"
+  },
+  {
+    "source": "shoots",
+    "target": "huron",
+    "action": "add-edge"
+  },
+  {
+    "source": "shoots",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "contractors",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "visa",
+    "action": "add-edge"
+  },
+  {
+    "source": "visa",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "visa",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "madrid",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "madrid",
+    "action": "add-edge"
+  },
+  {
+    "source": "madrid",
+    "target": "healthcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "delay",
+    "action": "add-edge"
+  },
+  {
+    "source": "delay",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "delay",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "gabrielle",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "contractors",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "faa",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "montana",
+    "action": "add-edge"
+  },
+  {
+    "source": "montana",
+    "target": "faa",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "montana",
+    "target": "anomaly",
+    "action": "add-edge"
+  },
+  {
+    "source": "anomaly",
+    "target": "radar",
+    "action": "add-edge"
+  },
+  {
+    "source": "montana",
+    "target": "radar",
+    "action": "add-edge"
+  }
+]
