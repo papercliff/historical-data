@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 34,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "balloon",
+    "weight": 23,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 22,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 21,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 20,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "munich",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 16,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "truck",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "guard",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "flights",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bulgaria",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "karachi",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "abandoned",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "conference",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "spying",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "raid",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "safe",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "plead",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "doctors",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shark",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tour",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "peter",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bahamas",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ferries",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "trains",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "backpacker",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "bodies",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "falconio",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "test",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "remains",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "guard",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "guard",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "munich",
+    "target": "conference",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "conference",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "munich",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "munich",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "spying",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "bulgaria",
+    "action": "add-edge"
+  },
+  {
+    "source": "truck",
+    "target": "bulgaria",
+    "action": "add-edge"
+  },
+  {
+    "source": "truck",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "bulgaria",
+    "target": "abandoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "truck",
+    "target": "abandoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "guard",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "abandoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "plead",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "plead",
+    "action": "add-edge"
+  },
+  {
+    "source": "shark",
+    "target": "bahamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "tour",
+    "target": "bahamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "shark",
+    "target": "tour",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "bahamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "shark",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "tour",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "guard",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "bulgaria",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "spying",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "raid",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "plead",
+    "action": "add-edge"
+  },
+  {
+    "source": "shark",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "tour",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "bahamas",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "balloon",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "safe",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "safe",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "safe",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "safe",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "ferries",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferries",
+    "target": "trains",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "trains",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "abandoned",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "bulgaria",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "backpacker",
+    "target": "falconio",
+    "action": "add-edge"
+  },
+  {
+    "source": "peter",
+    "target": "backpacker",
+    "action": "add-edge"
+  },
+  {
+    "source": "peter",
+    "target": "falconio",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "ferries",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "trains",
+    "action": "add-edge"
+  },
+  {
+    "source": "guard",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "conference",
+    "action": "add-edge"
+  },
+  {
+    "source": "munich",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "conference",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "officers",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "abandoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctors",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctors",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "suspends",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctors",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "karachi",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "karachi",
+    "action": "add-edge"
+  },
+  {
+    "source": "falconio",
+    "target": "remains",
+    "action": "add-edge"
+  },
+  {
+    "source": "peter",
+    "target": "remains",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "abandoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "guard",
+    "action": "add-edge"
+  },
+  {
+    "source": "spying",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "plead",
+    "target": "memphis",
+    "action": "add-edge"
+  }
+]
