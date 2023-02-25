@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 46,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 37,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 37,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 30,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "anniversary",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 22,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "year",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "flu",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "conflict",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bird",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "plan",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "guantanamo",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "brothers",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "freed",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "proposal",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "test",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistani",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pledges",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "polish",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistanis",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russians",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "youth",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "leopard",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "papua",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "settlers",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "run",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jill",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "approvals",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "al",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodian",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodia",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "end",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "station",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "proposal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "proposal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "proposal",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "proposal",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "papua",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "papua",
+    "action": "add-edge"
+  },
+  {
+    "source": "guantanamo",
+    "target": "brothers",
+    "action": "add-edge"
+  },
+  {
+    "source": "brothers",
+    "target": "pakistani",
+    "action": "add-edge"
+  },
+  {
+    "source": "guantanamo",
+    "target": "pakistani",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pledges",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "pledges",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "guantanamo",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "freed",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "guantanamo",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "guantanamo",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leopard",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "papua",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "bird",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "flu",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "flu",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "bird",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "flu",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "pledges",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "democracy",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "settlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "settlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "run",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "youth",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "youth",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "conflict",
+    "target": "approvals",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "approvals",
+    "action": "add-edge"
+  },
+  {
+    "source": "conflict",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "settlers",
+    "target": "approvals",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "settlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "conflict",
+    "target": "settlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "invasion",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "russians",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russians",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "support",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "al",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "al",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "end",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "end",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescue",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "plan",
+    "action": "add-edge"
+  },
+  {
+    "source": "invasion",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescue",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "launches",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "year",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "conflict",
+    "action": "add-edge"
+  }
+]
