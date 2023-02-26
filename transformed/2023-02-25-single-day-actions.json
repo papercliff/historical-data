@@ -1,0 +1,687 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nigeria",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "reopen",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nepal",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "candidate",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "controversial",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dictator",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "revolt",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "devastation",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "schools",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "overhauls",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "regrets",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "motorway",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "van",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "extremists",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "syrians",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "choice",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "withdraws",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "withdraw",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "dictator",
+    "action": "add-edge"
+  },
+  {
+    "source": "dictator",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "dictator",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "controversial",
+    "target": "overhauls",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "controversial",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "overhauls",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "controversial",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "overhauls",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "nigeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "nigeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "motorway",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "van",
+    "action": "add-edge"
+  },
+  {
+    "source": "motorway",
+    "target": "van",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "van",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "motorway",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "extremists",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "extremists",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "extremists",
+    "action": "add-edge"
+  },
+  {
+    "source": "extremists",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "schools",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "syrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "schools",
+    "target": "syrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "devastation",
+    "target": "schools",
+    "action": "add-edge"
+  },
+  {
+    "source": "devastation",
+    "target": "syrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "schools",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "syrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "devastation",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "devastation",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "reopen",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "nepal",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "choice",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "choice",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "nepal",
+    "target": "choice",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "nepal",
+    "action": "add-edge"
+  },
+  {
+    "source": "candidate",
+    "target": "choice",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "rally",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "withdraw",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "withdraw",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "regrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "withdraw",
+    "action": "add-edge"
+  },
+  {
+    "source": "regrets",
+    "target": "withdraw",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "regrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "regrets",
+    "action": "add-edge"
+  }
+]
