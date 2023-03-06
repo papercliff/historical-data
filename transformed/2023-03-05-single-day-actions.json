@@ -1,0 +1,962 @@
+[
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "protect",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "seas",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "growth",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bangladesh",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "refugee",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "economic",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "camp",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "apologizes",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "disaster",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "poisonings",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mitsotakis",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "historic",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "states",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "inappropriate",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "schoolgirl",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "target",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "thai",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hogan",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "maryland",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "larry",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "erase",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "suspected",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "recycling",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "scholz",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "cave",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "campaign",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "end",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "marine",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "lake",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "litter",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ugandan",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "village",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "consequences",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "died",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "prayers",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "bangladesh",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "bangladesh",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugee",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "economic",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "growth",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "economic",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "poisonings",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "schoolgirl",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisonings",
+    "target": "schoolgirl",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "apologizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "apologizes",
+    "target": "mitsotakis",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "mitsotakis",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "disaster",
+    "target": "mitsotakis",
+    "action": "add-edge"
+  },
+  {
+    "source": "apologizes",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "inappropriate",
+    "target": "erase",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "erase",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "inappropriate",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisonings",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "schoolgirl",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "schoolgirl",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "poisonings",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "inappropriate",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "hogan",
+    "target": "larry",
+    "action": "add-edge"
+  },
+  {
+    "source": "hogan",
+    "target": "maryland",
+    "action": "add-edge"
+  },
+  {
+    "source": "maryland",
+    "target": "larry",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "hogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "larry",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "target",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "target",
+    "action": "add-edge"
+  },
+  {
+    "source": "recycling",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "ugandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "recycling",
+    "target": "ugandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "litter",
+    "action": "add-edge"
+  },
+  {
+    "source": "recycling",
+    "target": "litter",
+    "action": "add-edge"
+  },
+  {
+    "source": "litter",
+    "target": "ugandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "litter",
+    "action": "add-edge"
+  },
+  {
+    "source": "recycling",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "ugandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "erase",
+    "action": "add-edge"
+  },
+  {
+    "source": "erase",
+    "target": "village",
+    "action": "add-edge"
+  },
+  {
+    "source": "inappropriate",
+    "target": "village",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "village",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "arms",
+    "target": "scholz",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "scholz",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "consequences",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "consequences",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "died",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "died",
+    "target": "prayers",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "prayers",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "prayers",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "battle",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "prayers",
+    "action": "add-edge"
+  },
+  {
+    "source": "thai",
+    "target": "cave",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "end",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "end",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "end",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "end",
+    "action": "add-edge"
+  },
+  {
+    "source": "protect",
+    "target": "historic",
+    "action": "add-edge"
+  },
+  {
+    "source": "seas",
+    "target": "historic",
+    "action": "add-edge"
+  },
+  {
+    "source": "protect",
+    "target": "seas",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "maryland",
+    "action": "add-edge"
+  },
+  {
+    "source": "protect",
+    "target": "marine",
+    "action": "add-edge"
+  },
+  {
+    "source": "seas",
+    "target": "marine",
+    "action": "add-edge"
+  },
+  {
+    "source": "protect",
+    "target": "states",
+    "action": "add-edge"
+  },
+  {
+    "source": "seas",
+    "target": "states",
+    "action": "add-edge"
+  }
+]
