@@ -1,0 +1,1456 @@
+[
+  {
+    "id": "bakhmut",
+    "weight": 32,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 24,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnapped",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "americans",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fbi",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "poisonings",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "labour",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "homeless",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "camp",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "exiled",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rohingya",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "labor",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "unforgivable",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bangladesh",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "refugee",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "beyer",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "estonia",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "georgina",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "transgender",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "suspected",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "toblerone",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "matterhorn",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "reopen",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "years",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "citizens",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "matamoros",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "policemen",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kallas",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ammunition",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "cathedral",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "notre",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "schoolgirl",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "speeches",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chocolate",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "feared",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "candidate",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bombing",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmaker",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "broadcasts",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "shelter",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dame",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "logo",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "month",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wartime",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "international",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "nigeria",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "abuses",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "amnesty",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "river",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "transparency",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "drown",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "americans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "americans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "kidnapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "beyer",
+    "target": "georgina",
+    "action": "add-edge"
+  },
+  {
+    "source": "beyer",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgina",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "fbi",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "fbi",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "poisonings",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "unforgivable",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisonings",
+    "target": "unforgivable",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "homeless",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "rohingya",
+    "action": "add-edge"
+  },
+  {
+    "source": "homeless",
+    "target": "rohingya",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisonings",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "policemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "policemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "unforgivable",
+    "target": "suspected",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "beyer",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "georgina",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "dozens",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "dozens",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "homeless",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "homeless",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "labour",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "labour",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "policemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "bangladesh",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "speeches",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "speeches",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "speeches",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "policemen",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "matamoros",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "matamoros",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "labor",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "labor",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "americans",
+    "target": "fbi",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "broadcasts",
+    "action": "add-edge"
+  },
+  {
+    "source": "speeches",
+    "target": "broadcasts",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "broadcasts",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "broadcasts",
+    "action": "add-edge"
+  },
+  {
+    "source": "cathedral",
+    "target": "notre",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "cathedral",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "notre",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "exiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "exiled",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "matamoros",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "exiled",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "exiled",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "cathedral",
+    "target": "dame",
+    "action": "add-edge"
+  },
+  {
+    "source": "notre",
+    "target": "dame",
+    "action": "add-edge"
+  },
+  {
+    "source": "matterhorn",
+    "target": "chocolate",
+    "action": "add-edge"
+  },
+  {
+    "source": "toblerone",
+    "target": "chocolate",
+    "action": "add-edge"
+  },
+  {
+    "source": "toblerone",
+    "target": "matterhorn",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "wartime",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "wartime",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuses",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "abuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "abuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "international",
+    "action": "add-edge"
+  },
+  {
+    "source": "international",
+    "target": "transparency",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "transparency",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "drown",
+    "action": "add-edge"
+  },
+  {
+    "source": "river",
+    "target": "drown",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "river",
+    "action": "add-edge"
+  },
+  {
+    "source": "labour",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "bombing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ammunition",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ammunition",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgina",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "beyer",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "transgender",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "schoolgirl",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspected",
+    "target": "schoolgirl",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "matamoros",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "shelter",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "shelter",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "shelter",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "matterhorn",
+    "target": "logo",
+    "action": "add-edge"
+  },
+  {
+    "source": "toblerone",
+    "target": "logo",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "reopen",
+    "target": "dame",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "rohingya",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugee",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "nigeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "beyer",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgina",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "transgender",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "nigeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "estonia",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "kallas",
+    "action": "add-edge"
+  },
+  {
+    "source": "estonia",
+    "target": "kallas",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "drown",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "river",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arrest",
+    "action": "add-edge"
+  }
+]
