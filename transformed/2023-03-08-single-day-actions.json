@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "women",
+    "weight": 38,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 32,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "day",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nord",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rights",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "law",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "stream",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "americans",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "international",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "princess",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "country",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "royal",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fox",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "disaster",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "repressive",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "carlson",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnapping",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pipeline",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "georgian",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "claims",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tucker",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "lilibet",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "heist",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "agent",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "abuses",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "georgians",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "chile",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "agents",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "flights",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "activists",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "iranian",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "denmark",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "militant",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "brussels",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "snow",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cautious",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tear",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arctic",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sleet",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "european",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "olena",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenska",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "acquitted",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "training",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "haiti",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "inequality",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sabotage",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "day",
+    "target": "international",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "international",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "stream",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nord",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "stream",
+    "action": "add-edge"
+  },
+  {
+    "source": "country",
+    "target": "repressive",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "repressive",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "repressive",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "repressive",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "chile",
+    "action": "add-edge"
+  },
+  {
+    "source": "heist",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "heist",
+    "target": "chile",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "americans",
+    "target": "kidnapping",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "americans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "kidnapping",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "stream",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "pipeline",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "americans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "cautious",
+    "action": "add-edge"
+  },
+  {
+    "source": "stream",
+    "target": "cautious",
+    "action": "add-edge"
+  },
+  {
+    "source": "arctic",
+    "target": "sleet",
+    "action": "add-edge"
+  },
+  {
+    "source": "snow",
+    "target": "arctic",
+    "action": "add-edge"
+  },
+  {
+    "source": "snow",
+    "target": "sleet",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "agents",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "agents",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "olena",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "olena",
+    "action": "add-edge"
+  },
+  {
+    "source": "militant",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "tear",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "militant",
+    "target": "tear",
+    "action": "add-edge"
+  },
+  {
+    "source": "olena",
+    "target": "zelenska",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenska",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelenska",
+    "action": "add-edge"
+  },
+  {
+    "source": "brussels",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "heist",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "heist",
+    "target": "brussels",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "inequality",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "inequality",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuses",
+    "target": "inequality",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "abuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "abuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nord",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "carlson",
+    "action": "add-edge"
+  },
+  {
+    "source": "carlson",
+    "target": "tucker",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "tucker",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "carlson",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "tucker",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "stream",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "pipeline",
+    "target": "cautious",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "cautious",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "chile",
+    "action": "add-edge"
+  },
+  {
+    "source": "heist",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "princess",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "heist",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "chile",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "lilibet",
+    "action": "add-edge"
+  },
+  {
+    "source": "princess",
+    "target": "lilibet",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "lilibet",
+    "action": "add-edge"
+  },
+  {
+    "source": "princess",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "arctic",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "sleet",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "snow",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "tear",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "militant",
+    "action": "add-edge"
+  },
+  {
+    "source": "disaster",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "training",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "royal",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "royal",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "agent",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "agent",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "georgian",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "georgian",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "stream",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "agents",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "royal",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "princess",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "georgians",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "georgians",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuses",
+    "target": "iranian",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "abuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "iranian",
+    "action": "add-edge"
+  },
+  {
+    "source": "nord",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "world",
+    "action": "add-edge"
+  }
+]
