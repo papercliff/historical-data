@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 16,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "qiang",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 14,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "li",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bbc",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "silicon",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "volcano",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "merapi",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "lineker",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ashore",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 9,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tiananmen",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "vigil",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 8,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "coast",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "eruption",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "jehovah",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "premier",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jinping",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "doctors",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "years",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "players",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "disaster",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "yemen",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hamburg",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "failure",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "staff",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "clouds",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "learning",
+    "weight": 5,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "riot",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "changes",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "proposed",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "valley",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crossing",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "erupts",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "gary",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "michael",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "testify",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "advance",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "losses",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "award",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wounds",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "reformer",
+    "weight": 4,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "exchange",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sides",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "witnesses",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "canal",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tractor",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "trolley",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cohen",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hush",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "li",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "qiang",
+    "action": "add-edge"
+  },
+  {
+    "source": "qiang",
+    "target": "li",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "merapi",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "merapi",
+    "action": "add-edge"
+  },
+  {
+    "source": "li",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "qiang",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "tiananmen",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "vigil",
+    "action": "add-edge"
+  },
+  {
+    "source": "tiananmen",
+    "target": "vigil",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "ashore",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "ashore",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "vigil",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "tiananmen",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ashore",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "ashore",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "coast",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "eruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "eruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "merapi",
+    "target": "eruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "li",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "qiang",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "failure",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "silicon",
+    "action": "add-edge"
+  },
+  {
+    "source": "silicon",
+    "target": "failure",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "bbc",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "bbc",
+    "target": "lineker",
+    "action": "add-edge"
+  },
+  {
+    "source": "lineker",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "tsunami",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "tsunami",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "eruption",
+    "target": "clouds",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "clouds",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "yemen",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "changes",
+    "target": "proposed",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "changes",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "proposed",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "premier",
+    "action": "add-edge"
+  },
+  {
+    "source": "qiang",
+    "target": "premier",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "changes",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "proposed",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "li",
+    "target": "premier",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "valley",
+    "action": "add-edge"
+  },
+  {
+    "source": "silicon",
+    "target": "valley",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "bbc",
+    "target": "gary",
+    "action": "add-edge"
+  },
+  {
+    "source": "lineker",
+    "target": "gary",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "vigil",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "tiananmen",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "losses",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "losses",
+    "action": "add-edge"
+  },
+  {
+    "source": "advance",
+    "target": "losses",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "advance",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "advance",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "wounds",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "wounds",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "award",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "award",
+    "action": "add-edge"
+  },
+  {
+    "source": "award",
+    "target": "wounds",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "award",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "wounds",
+    "action": "add-edge"
+  },
+  {
+    "source": "crisis",
+    "target": "players",
+    "action": "add-edge"
+  },
+  {
+    "source": "lineker",
+    "target": "players",
+    "action": "add-edge"
+  },
+  {
+    "source": "bbc",
+    "target": "players",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "disaster",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesia",
+    "target": "clouds",
+    "action": "add-edge"
+  },
+  {
+    "source": "merapi",
+    "target": "clouds",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "learning",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "learning",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "reformer",
+    "action": "add-edge"
+  },
+  {
+    "source": "learning",
+    "target": "reformer",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "reformer",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "reformer",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "years",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "learning",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "sides",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "sides",
+    "action": "add-edge"
+  },
+  {
+    "source": "yemen",
+    "target": "sides",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "exchange",
+    "action": "add-edge"
+  },
+  {
+    "source": "yemen",
+    "target": "exchange",
+    "action": "add-edge"
+  },
+  {
+    "source": "exchange",
+    "target": "sides",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "exchange",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "riot",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "riot",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "riot",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "riot",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "jehovah",
+    "target": "hamburg",
+    "action": "add-edge"
+  },
+  {
+    "source": "hamburg",
+    "target": "witnesses",
+    "action": "add-edge"
+  },
+  {
+    "source": "jehovah",
+    "target": "witnesses",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "hamburg",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "witnesses",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "jehovah",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "canal",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "tractor",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "tractor",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "trolley",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "trolley",
+    "action": "add-edge"
+  },
+  {
+    "source": "tractor",
+    "target": "trolley",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "doctors",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctors",
+    "target": "staff",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "staff",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "doctors",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "doctors",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "staff",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "staff",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "silicon",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "michael",
+    "target": "cohen",
+    "action": "add-edge"
+  },
+  {
+    "source": "testify",
+    "target": "cohen",
+    "action": "add-edge"
+  },
+  {
+    "source": "michael",
+    "target": "testify",
+    "action": "add-edge"
+  },
+  {
+    "source": "cohen",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "michael",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "testify",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "merapi",
+    "target": "erupts",
+    "action": "add-edge"
+  }
+]
