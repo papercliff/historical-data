@@ -1,0 +1,937 @@
+[
+  {
+    "story": "aramco-oil-saudi",
+    "articles": 32,
+    "agencies": 13
+  },
+  {
+    "story": "aramco-oil-profit",
+    "articles": 26,
+    "agencies": 11
+  },
+  {
+    "story": "aramco-profit-saudi",
+    "articles": 26,
+    "agencies": 11
+  },
+  {
+    "story": "oil-profit-saudi",
+    "articles": 26,
+    "agencies": 11
+  },
+  {
+    "story": "bank-silicon-valley",
+    "articles": 18,
+    "agencies": 11
+  },
+  {
+    "story": "iran-prisoner-swap",
+    "articles": 20,
+    "agencies": 9
+  },
+  {
+    "story": "israeli-kill-palestinian",
+    "articles": 17,
+    "agencies": 7
+  },
+  {
+    "story": "bailout-bank-silicon",
+    "articles": 10,
+    "agencies": 7
+  },
+  {
+    "story": "cruel-prisoner-swap",
+    "articles": 9,
+    "agencies": 7
+  },
+  {
+    "story": "bank-silicon-treasury",
+    "articles": 7,
+    "agencies": 7
+  },
+  {
+    "story": "bank-china-governor",
+    "articles": 18,
+    "agencies": 6
+  },
+  {
+    "story": "israeli-militants-palestinian",
+    "articles": 14,
+    "agencies": 6
+  },
+  {
+    "story": "cruel-iran-swap",
+    "articles": 8,
+    "agencies": 6
+  },
+  {
+    "story": "cruel-iran-prisoner",
+    "articles": 8,
+    "agencies": 6
+  },
+  {
+    "story": "bakhmut-battle-ukraine",
+    "articles": 17,
+    "agencies": 5
+  },
+  {
+    "story": "israeli-palestinian-west",
+    "articles": 15,
+    "agencies": 5
+  },
+  {
+    "story": "israeli-kill-west",
+    "articles": 15,
+    "agencies": 5
+  },
+  {
+    "story": "faded-francis-pope",
+    "articles": 14,
+    "agencies": 5
+  },
+  {
+    "story": "italy-libya-migrants",
+    "articles": 13,
+    "agencies": 5
+  },
+  {
+    "story": "argentina-faded-pope",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "argentina-faded-francis",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "argentina-francis-pope",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "gunmen-israeli-palestinian",
+    "articles": 9,
+    "agencies": 5
+  },
+  {
+    "story": "israeli-kill-militants",
+    "articles": 9,
+    "agencies": 5
+  },
+  {
+    "story": "kill-militants-palestinian",
+    "articles": 9,
+    "agencies": 5
+  },
+  {
+    "story": "arabia-iran-saudi",
+    "articles": 8,
+    "agencies": 5
+  },
+  {
+    "story": "french-pension-senate",
+    "articles": 8,
+    "agencies": 5
+  },
+  {
+    "story": "cruel-lie-prisoner",
+    "articles": 6,
+    "agencies": 5
+  },
+  {
+    "story": "accountable-pence-trump",
+    "articles": 6,
+    "agencies": 5
+  },
+  {
+    "story": "cruel-lie-swap",
+    "articles": 6,
+    "agencies": 5
+  },
+  {
+    "story": "lie-prisoner-swap",
+    "articles": 6,
+    "agencies": 5
+  },
+  {
+    "story": "accountable-history-pence",
+    "articles": 5,
+    "agencies": 5
+  },
+  {
+    "story": "coast-diego-san",
+    "articles": 5,
+    "agencies": 5
+  },
+  {
+    "story": "accountable-capitol-pence",
+    "articles": 5,
+    "agencies": 5
+  },
+  {
+    "story": "bbc-crisis-lineker",
+    "articles": 48,
+    "agencies": 4
+  },
+  {
+    "story": "bakhmut-russia-ukraine",
+    "articles": 45,
+    "agencies": 4
+  },
+  {
+    "story": "bakhmut-russian-ukraine",
+    "articles": 26,
+    "agencies": 4
+  },
+  {
+    "story": "kill-palestinian-west",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "moldova-police-unrest",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "moldova-russia-unrest",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "police-russia-unrest",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "moldova-police-russia",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "bank-collapse-silicon",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-israel-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-media-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "bbc-gary-lineker",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "israel-media-missiles",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "israel-missiles-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "israel-media-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-israel-missiles",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "media-missiles-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-media-missiles",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-israel-media",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "fires-missiles-syrian",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "faded-fervor-pope",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "faded-fervor-francis",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "fervor-francis-pope",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "argentina-faded-fervor",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "argentina-fervor-francis",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "argentina-fervor-pope",
+    "articles": 11,
+    "agencies": 4
+  },
+  {
+    "story": "billion-oil-saudi",
+    "articles": 9,
+    "agencies": 4
+  },
+  {
+    "story": "aramco-billion-oil",
+    "articles": 9,
+    "agencies": 4
+  },
+  {
+    "story": "aramco-billion-saudi",
+    "articles": 9,
+    "agencies": 4
+  },
+  {
+    "story": "gunmen-palestinian-west",
+    "articles": 8,
+    "agencies": 4
+  },
+  {
+    "story": "gunmen-israeli-west",
+    "articles": 8,
+    "agencies": 4
+  },
+  {
+    "story": "gunmen-israeli-kill",
+    "articles": 8,
+    "agencies": 4
+  },
+  {
+    "story": "gunmen-kill-palestinian",
+    "articles": 8,
+    "agencies": 4
+  },
+  {
+    "story": "arabia-iran-war",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "arabia-iran-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "arabia-saudi-war",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "saudi-war-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "iran-war-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "arabia-saudi-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "iran-saudi-war",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "iran-saudi-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "arabia-war-yemen",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "injured-macedonia-smuggler",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "injured-macedonia-migrants",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "injured-migrants-smuggler",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "macedonia-migrants-smuggler",
+    "articles": 7,
+    "agencies": 4
+  },
+  {
+    "story": "boats-diego-san",
+    "articles": 6,
+    "agencies": 4
+  },
+  {
+    "story": "cyclone-freddy-mozambique",
+    "articles": 6,
+    "agencies": 4
+  },
+  {
+    "story": "cruel-iran-lie",
+    "articles": 5,
+    "agencies": 4
+  },
+  {
+    "story": "iran-lie-swap",
+    "articles": 5,
+    "agencies": 4
+  },
+  {
+    "story": "iran-lie-prisoner",
+    "articles": 5,
+    "agencies": 4
+  },
+  {
+    "story": "capitol-pence-trump",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "korea-missiles-submarine",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "bailout-silicon-treasury",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "capitol-history-pence",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "bailout-bank-treasury",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "accountable-history-trump",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "history-pence-trump",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "accountable-capitol-trump",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "accountable-capitol-history",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "russian-stalls-ukraine",
+    "articles": 20,
+    "agencies": 3
+  },
+  {
+    "story": "bakhmut-stalls-ukraine",
+    "articles": 20,
+    "agencies": 3
+  },
+  {
+    "story": "bakhmut-russian-stalls",
+    "articles": 20,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-police-russia",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-police-unrest",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-russia-unrest",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-police-russia",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-russia-unrest",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "action-climate-promises",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-moldova-police",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-moldova-russia",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "foiled-moldova-unrest",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "climate-iraqi-promises",
+    "articles": 13,
+    "agencies": 3
+  },
+  {
+    "story": "french-pension-protests",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "extremists-killed-people",
+    "articles": 9,
+    "agencies": 3
+  },
+  {
+    "story": "congo-killed-people",
+    "articles": 9,
+    "agencies": 3
+  },
+  {
+    "story": "congo-extremists-people",
+    "articles": 9,
+    "agencies": 3
+  },
+  {
+    "story": "congo-extremists-killed",
+    "articles": 9,
+    "agencies": 3
+  },
+  {
+    "story": "bakhmut-battle-troops",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "casualties-russia-ukraine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "billion-profit-saudi",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "billion-oil-profit",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "aramco-billion-profit",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "battle-troops-ukraine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "bakhmut-troops-ukraine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "francis-pope-years",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "kill-militants-west",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "israeli-militants-west",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "gunmen-kill-west",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "militants-palestinian-west",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "french-protests-senate",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "migrants-smuggler-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "injured-smuggler-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "bank-firms-silicon",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "injured-macedonia-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "pension-protests-senate",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "macedonia-migrants-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "macedonia-smuggler-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "crash-thousands-train",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "crash-protest-train",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "crash-protest-thousands",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "crash-greece-thousands",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "protest-thousands-train",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "injured-migrants-suspected",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "government-gunmen-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "government-kill-nigeria",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "government-gunmen-nigeria",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "government-kill-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "government-nigeria-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "government-gunmen-kill",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "gunmen-kill-nigeria",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "kill-nigeria-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "attack-israeli-palestinian",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "nicaragua-ties-vatican",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "attack-israeli-militants",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "bank-collapse-valley",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "gunmen-nigeria-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "nicaragua-suspending-ties",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "attack-militants-palestinian",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "nicaragua-suspending-vatican",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "gunmen-kill-people",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "collapse-silicon-valley",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "suspending-ties-vatican",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "family-pence-trump",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "endangered-pence-trump",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "endangered-family-trump",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "endangered-family-pence",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "dies-rapper-titch",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "costa-dies-rapper",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "costa-dies-titch",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "costa-rapper-titch",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "gop-trump-voters",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "gop-loyal-trump",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "gop-loyal-voters",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "french-macron-senate",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "french-macron-pension",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "fires-missiles-submarine",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "bail-bank-silicon",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "boats-coast-diego",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "fires-korea-submarine",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "boat-diego-san",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "boats-coast-san",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "loyal-trump-voters",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "korea-missile-submarine",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "korea-missile-seoul",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "korea-seoul-submarine",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "arrested-poisonings-school",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "arrested-iran-poisonings",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "missile-seoul-submarine",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "bank-silicon-tech",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "crew-mission-spacex",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "israeli-palestinians-west",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "capitol-history-trump",
+    "articles": 3,
+    "agencies": 3
+  }
+]
