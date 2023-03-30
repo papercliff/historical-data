@@ -1,0 +1,1616 @@
+[
+  {
+    "id": "pope",
+    "weight": 33,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 28,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 28,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 22,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "infection",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "guards",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "respiratory",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "hospitalized",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "judicial",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "retaliation",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "swiss",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "adidas",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "black",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "paul",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tests",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "european",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "threatens",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tsai",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "iraq",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lung",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suisse",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "words",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "watchdog",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "education",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kill",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "list",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "terror",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ramadan",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "repeal",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "muslim",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trademark",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ubs",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "tour",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "uae",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "colombia",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "somalia",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hospitalised",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jewish",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "monarch",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "portugal",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ermotti",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "frosty",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "girls",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "grady",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "envoy",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "summons",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "debut",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fast",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "stolen",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "tiger",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "delay",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hacking",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "countermeasures",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rusesabagina",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "francis",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "infection",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "infection",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "adidas",
+    "target": "black",
+    "action": "add-edge"
+  },
+  {
+    "source": "adidas",
+    "target": "trademark",
+    "action": "add-edge"
+  },
+  {
+    "source": "black",
+    "target": "trademark",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "lung",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "lung",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "guards",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "repeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "repeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "monarch",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "monarch",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospitalized",
+    "target": "lung",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "ermotti",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "ubs",
+    "action": "add-edge"
+  },
+  {
+    "source": "ubs",
+    "target": "ermotti",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "suisse",
+    "action": "add-edge"
+  },
+  {
+    "source": "suisse",
+    "target": "ubs",
+    "action": "add-edge"
+  },
+  {
+    "source": "suisse",
+    "target": "ermotti",
+    "action": "add-edge"
+  },
+  {
+    "source": "overhaul",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "words",
+    "action": "add-edge"
+  },
+  {
+    "source": "overhaul",
+    "target": "words",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "frosty",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "overhaul",
+    "target": "frosty",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "words",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "words",
+    "target": "frosty",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "frosty",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "tour",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "tour",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "kill",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "retaliation",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "retaliation",
+    "action": "add-edge"
+  },
+  {
+    "source": "retaliation",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "swiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "swiss",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "retaliation",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "adidas",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "black",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "swiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "ramadan",
+    "target": "fast",
+    "action": "add-edge"
+  },
+  {
+    "source": "somalia",
+    "target": "fast",
+    "action": "add-edge"
+  },
+  {
+    "source": "ramadan",
+    "target": "somalia",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "fast",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "ramadan",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "somalia",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "tour",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "repeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "hospitalised",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hospitalised",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "monarch",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hotel",
+    "target": "rusesabagina",
+    "action": "add-edge"
+  },
+  {
+    "source": "hotel",
+    "target": "rwanda",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "rusesabagina",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "lung",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "girls",
+    "action": "add-edge"
+  },
+  {
+    "source": "girls",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "girls",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombia",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kill",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "threatens",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "paul",
+    "target": "grady",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "uae",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "retaliation",
+    "action": "add-edge"
+  },
+  {
+    "source": "retaliation",
+    "target": "summons",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "summons",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "envoy",
+    "target": "summons",
+    "action": "add-edge"
+  },
+  {
+    "source": "retaliation",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "summons",
+    "action": "add-edge"
+  },
+  {
+    "source": "retaliation",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "debut",
+    "action": "add-edge"
+  },
+  {
+    "source": "tour",
+    "target": "debut",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "debut",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "debut",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "list",
+    "action": "add-edge"
+  },
+  {
+    "source": "respiratory",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "tiger",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "tiger",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "retaliation",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "hacking",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "hacking",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "jewish",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "jewish",
+    "action": "add-edge"
+  },
+  {
+    "source": "muslim",
+    "target": "portugal",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "muslim",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "portugal",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "portugal",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "terror",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "muslim",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "delay",
+    "action": "add-edge"
+  },
+  {
+    "source": "delay",
+    "target": "hacking",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "delay",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "countermeasures",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "countermeasures",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "watchdog",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "paul",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "paul",
+    "target": "rwanda",
+    "action": "add-edge"
+  },
+  {
+    "source": "paul",
+    "target": "rusesabagina",
+    "action": "add-edge"
+  }
+]
