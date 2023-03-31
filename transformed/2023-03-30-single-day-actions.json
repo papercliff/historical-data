@@ -1,0 +1,1569 @@
+[
+  {
+    "id": "russia",
+    "weight": 40,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "reporter",
+    "weight": 38,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 26,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 25,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "espionage",
+    "weight": 23,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "finland",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ferry",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "journal",
+    "weight": 17,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "spying",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 16,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "infection",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indicted",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kentucky",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopters",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "york",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jury",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "gwyneth",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "street",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bankers",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "paltrow",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "philippine",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "temple",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "convicted",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "doctrine",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "respiratory",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "indian",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "discovery",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "hush",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ski",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "grand",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "improving",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "swiss",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "night",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deadly",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "collapses",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kenya",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "indigenous",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "fifa",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "homicide",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "harris",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "collision",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "manhattan",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "condemns",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ratifies",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "families",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tanzania",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rejects",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "university",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "reporter",
+    "target": "espionage",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "espionage",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "journal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "journal",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "street",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "street",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "infection",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "infection",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "espionage",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "espionage",
+    "target": "street",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "helicopters",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "kentucky",
+    "action": "add-edge"
+  },
+  {
+    "source": "kentucky",
+    "target": "helicopters",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "espionage",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctrine",
+    "target": "discovery",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "discovery",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "doctrine",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "jury",
+    "action": "add-edge"
+  },
+  {
+    "source": "journal",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "espionage",
+    "target": "journal",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankers",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "bankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankers",
+    "target": "swiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "swiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "gwyneth",
+    "target": "paltrow",
+    "action": "add-edge"
+  },
+  {
+    "source": "gwyneth",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "paltrow",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "infection",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "night",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "night",
+    "action": "add-edge"
+  },
+  {
+    "source": "gwyneth",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "paltrow",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctrine",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferry",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferry",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippine",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "street",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "journal",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "ratifies",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "ratifies",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "ratifies",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "discovery",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "journal",
+    "target": "street",
+    "action": "add-edge"
+  },
+  {
+    "source": "gwyneth",
+    "target": "collision",
+    "action": "add-edge"
+  },
+  {
+    "source": "paltrow",
+    "target": "collision",
+    "action": "add-edge"
+  },
+  {
+    "source": "ski",
+    "target": "collision",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "ratifies",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "gwyneth",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "paltrow",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "temple",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "temple",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "indian",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "indian",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "temple",
+    "target": "indian",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalist",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopters",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "democracy",
+    "target": "harris",
+    "action": "add-edge"
+  },
+  {
+    "source": "democracy",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "harris",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "gwyneth",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "paltrow",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "rejects",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "rejects",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctrine",
+    "target": "rejects",
+    "action": "add-edge"
+  },
+  {
+    "source": "kentucky",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "fifa",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "fifa",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "convicted",
+    "target": "swiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "homicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "homicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "improving",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "improving",
+    "action": "add-edge"
+  },
+  {
+    "source": "york",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "hush",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "journal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "infection",
+    "target": "night",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "hush",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "improving",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "families",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "kentucky",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "democracy",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "tanzania",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "harris",
+    "action": "add-edge"
+  },
+  {
+    "source": "discovery",
+    "target": "rejects",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopters",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "arms",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferry",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippine",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalist",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopters",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "kentucky",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "manhattan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "manhattan",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "respiratory",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "university",
+    "action": "add-edge"
+  },
+  {
+    "source": "espionage",
+    "target": "gershkovich",
+    "action": "add-edge"
+  }
+]
