@@ -1,0 +1,829 @@
+[
+  {
+    "id": "hospital",
+    "weight": 29,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 29,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 25,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "alive",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "council",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "presidency",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bronchitis",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "law",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "drug",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "music",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tennessee",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "orthodox",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "house",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "loan",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "station",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "drag",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "quips",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "costa",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "homicides",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rica",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "spring",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "imf",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "suspension",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "raises",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "treatment",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "holiest",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jokes",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "invasion",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "slap",
+    "weight": 4,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "source": "hospital",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "council",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "council",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "bronchitis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "bronchitis",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "bronchitis",
+    "action": "add-edge"
+  },
+  {
+    "source": "council",
+    "target": "presidency",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "presidency",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "presidency",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "drag",
+    "action": "add-edge"
+  },
+  {
+    "source": "tennessee",
+    "target": "drag",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "tennessee",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "alive",
+    "target": "quips",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "quips",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "quips",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "quips",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "rica",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "rica",
+    "action": "add-edge"
+  },
+  {
+    "source": "homicides",
+    "target": "rica",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "homicides",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "homicides",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "costa",
+    "action": "add-edge"
+  },
+  {
+    "source": "costa",
+    "target": "homicides",
+    "action": "add-edge"
+  },
+  {
+    "source": "costa",
+    "target": "rica",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "costa",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "music",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "music",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "music",
+    "action": "add-edge"
+  },
+  {
+    "source": "music",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "station",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "overhaul",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "drag",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "tennessee",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "raises",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "raises",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "law",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "orthodox",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "orthodox",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "holiest",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "holiest",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "spring",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "spring",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "spring",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "spring",
+    "action": "add-edge"
+  },
+  {
+    "source": "loan",
+    "target": "imf",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "imf",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "jokes",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "jokes",
+    "action": "add-edge"
+  },
+  {
+    "source": "alive",
+    "target": "jokes",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "bronchitis",
+    "target": "treatment",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "treatment",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "treatment",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "treatment",
+    "action": "add-edge"
+  },
+  {
+    "source": "alive",
+    "target": "bronchitis",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "raises",
+    "action": "add-edge"
+  },
+  {
+    "source": "council",
+    "target": "slap",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "slap",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "invasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "slap",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidency",
+    "target": "slap",
+    "action": "add-edge"
+  }
+]
