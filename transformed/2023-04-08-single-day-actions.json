@@ -1,0 +1,1289 @@
+[
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 33,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 32,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "easter",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "submarine",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cameras",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rockets",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "underwater",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "leaked",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "beach",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "public",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pill",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "fired",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "deploys",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "judicial",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "unveiled",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "jets",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "fighter",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iraq",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "approval",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "officials",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "guided",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "data",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ferencz",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nuremberg",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutor",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "test",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kurdish",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "search",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ruling",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tsai",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "condemn",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "virus",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "vigil",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "education",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "men",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "resort",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "strait",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "flies",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "religious",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "kenya",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "pedestrians",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "truck",
+    "weight": 4,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "scholars",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "acapulco",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "underwater",
+    "action": "add-edge"
+  },
+  {
+    "source": "underwater",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "submarine",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "rockets",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "guided",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "guided",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "guided",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "cameras",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "cameras",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferencz",
+    "target": "nuremberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "ferencz",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuremberg",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "underwater",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "cameras",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "cameras",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "deploys",
+    "target": "guided",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "pill",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "pill",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "ruling",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "ruling",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "ferencz",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "nuremberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "easter",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "easter",
+    "target": "vigil",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vigil",
+    "action": "add-edge"
+  },
+  {
+    "source": "easter",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "vigil",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "ruling",
+    "action": "add-edge"
+  },
+  {
+    "source": "fighter",
+    "target": "flies",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "flies",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "flies",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "flies",
+    "action": "add-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "kurdish",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "kurdish",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "kurdish",
+    "action": "add-edge"
+  },
+  {
+    "source": "iraq",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "kurdish",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "condemn",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "search",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "officials",
+    "action": "add-edge"
+  },
+  {
+    "source": "officials",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "officials",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "officials",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "pedestrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "pedestrians",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "pedestrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "ruling",
+    "action": "add-edge"
+  },
+  {
+    "source": "religious",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "scholars",
+    "action": "add-edge"
+  },
+  {
+    "source": "religious",
+    "target": "scholars",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "scholars",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "education",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "religious",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "religious",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "education",
+    "target": "scholars",
+    "action": "add-edge"
+  },
+  {
+    "source": "underwater",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "men",
+    "target": "acapulco",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "acapulco",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "men",
+    "action": "add-edge"
+  },
+  {
+    "source": "beach",
+    "target": "resort",
+    "action": "add-edge"
+  },
+  {
+    "source": "beach",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "resort",
+    "action": "add-edge"
+  },
+  {
+    "source": "beach",
+    "target": "men",
+    "action": "add-edge"
+  },
+  {
+    "source": "men",
+    "target": "resort",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "cameras",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "tsai",
+    "action": "add-edge"
+  },
+  {
+    "source": "resort",
+    "target": "acapulco",
+    "action": "add-edge"
+  },
+  {
+    "source": "beach",
+    "target": "acapulco",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "data",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "data",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "faso",
+    "action": "add-edge"
+  }
+]
