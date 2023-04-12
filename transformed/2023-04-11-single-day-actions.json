@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "biden",
+    "weight": 33,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 31,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ireland",
+    "weight": 22,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leaked",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "volcano",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ash",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ai",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "family",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "chatgpt",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "agreement",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "jordan",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "reporter",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "eruption",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "egypt",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "netherlands",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "belfast",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "offensive",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "friday",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sues",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "intelligence",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "building",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "louisville",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "rockets",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "largest",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "manhattan",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "erupts",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "northern",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "shiveluch",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "electricity",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "google",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "work",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "review",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "envoy",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "alibaba",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "flee",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hundreds",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "seaside",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "expansion",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "waters",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "agency",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "gchq",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "week",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "chad",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kamchatka",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "guards",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "keys",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "responsible",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "exports",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cover",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "manhole",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "squirrel",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "uncooperative",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hours",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "policemen",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "reduce",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "speech",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "wsj",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "fines",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ends",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "surge",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "detained",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "largest",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippines",
+    "target": "largest",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "agreement",
+    "target": "friday",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "agreement",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "friday",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "egypt",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ash",
+    "target": "eruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "ash",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "eruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "ash",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ireland",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "flee",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "seaside",
+    "action": "add-edge"
+  },
+  {
+    "source": "seaside",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "hundreds",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "seaside",
+    "action": "add-edge"
+  },
+  {
+    "source": "hundreds",
+    "target": "seaside",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "belfast",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "belfast",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ash",
+    "target": "shiveluch",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "shiveluch",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "manhattan",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "sues",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "manhattan",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "ai",
+    "target": "alibaba",
+    "action": "add-edge"
+  },
+  {
+    "source": "ai",
+    "target": "chatgpt",
+    "action": "add-edge"
+  },
+  {
+    "source": "chatgpt",
+    "target": "alibaba",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "eruption",
+    "target": "kamchatka",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "kamchatka",
+    "action": "add-edge"
+  },
+  {
+    "source": "ash",
+    "target": "kamchatka",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "louisville",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "louisville",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "expansion",
+    "action": "add-edge"
+  },
+  {
+    "source": "offensive",
+    "target": "expansion",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "offensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "largest",
+    "action": "add-edge"
+  },
+  {
+    "source": "largest",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "philippines",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "responsible",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "responsible",
+    "action": "add-edge"
+  },
+  {
+    "source": "electricity",
+    "target": "exports",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "electricity",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "exports",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "electricity",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "exports",
+    "action": "add-edge"
+  },
+  {
+    "source": "cover",
+    "target": "squirrel",
+    "action": "add-edge"
+  },
+  {
+    "source": "cover",
+    "target": "uncooperative",
+    "action": "add-edge"
+  },
+  {
+    "source": "squirrel",
+    "target": "uncooperative",
+    "action": "add-edge"
+  },
+  {
+    "source": "cover",
+    "target": "manhole",
+    "action": "add-edge"
+  },
+  {
+    "source": "manhole",
+    "target": "uncooperative",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "manhole",
+    "target": "squirrel",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "agreement",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "friday",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "manhattan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "sues",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "chad",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "chad",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "envoy",
+    "target": "chad",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "expansion",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "offensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaked",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaked",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "louisville",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "guards",
+    "target": "keys",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "keys",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "keys",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "responsible",
+    "action": "add-edge"
+  },
+  {
+    "source": "family",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "cover",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "manhole",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "squirrel",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "uncooperative",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "work",
+    "target": "week",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "policemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "policemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "week",
+    "target": "hours",
+    "action": "add-edge"
+  },
+  {
+    "source": "work",
+    "target": "hours",
+    "action": "add-edge"
+  },
+  {
+    "source": "week",
+    "target": "reduce",
+    "action": "add-edge"
+  },
+  {
+    "source": "hours",
+    "target": "reduce",
+    "action": "add-edge"
+  },
+  {
+    "source": "work",
+    "target": "reduce",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "wsj",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "wsj",
+    "action": "add-edge"
+  },
+  {
+    "source": "review",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "review",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "review",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "agency",
+    "target": "gchq",
+    "action": "add-edge"
+  },
+  {
+    "source": "intelligence",
+    "target": "agency",
+    "action": "add-edge"
+  },
+  {
+    "source": "intelligence",
+    "target": "gchq",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "agency",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "gchq",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "speech",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wsj",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ash",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "volcano",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "fines",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "fines",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "surge",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "google",
+    "target": "fines",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "google",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "google",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "surge",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapse",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "ai",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "chatgpt",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "surge",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "detained",
+    "action": "add-edge"
+  }
+]
