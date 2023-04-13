@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 38,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 29,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "beheading",
+    "weight": 25,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 24,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 22,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "video",
+    "weight": 20,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ireland",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "leaked",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "immigration",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lawyer",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "growth",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "father",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "imf",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sues",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "npr",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "cohen",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "colombia",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "cash",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "agreement",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "poisoned",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "warning",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "draft",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flu",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "media",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "owning",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "candidate",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "northern",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "aide",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "mark",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "mental",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "hippo",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arm",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bird",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "funded",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "medical",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "navalny",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "volcano",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "darien",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "panama",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "agency",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "civilians",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "painful",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "palace",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "escobar",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "coronation",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "beheading",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawyer",
+    "target": "cohen",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "cohen",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawyer",
+    "target": "sues",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ireland",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "beheading",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "imf",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "imf",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "owning",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "owning",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "painful",
+    "action": "add-edge"
+  },
+  {
+    "source": "owning",
+    "target": "painful",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "painful",
+    "action": "add-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "northern",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombia",
+    "target": "escobar",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombia",
+    "target": "hippo",
+    "action": "add-edge"
+  },
+  {
+    "source": "hippo",
+    "target": "escobar",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaked",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaked",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaked",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "flu",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "flu",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisoned",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "poisoned",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "growth",
+    "target": "cash",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "cash",
+    "action": "add-edge"
+  },
+  {
+    "source": "imf",
+    "target": "cash",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombia",
+    "target": "darien",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombia",
+    "target": "panama",
+    "action": "add-edge"
+  },
+  {
+    "source": "darien",
+    "target": "panama",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "agreement",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "agency",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "agency",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "volcano",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mark",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "mark",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "mark",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "mental",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "mental",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "mental",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "mental",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "draft",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "draft",
+    "action": "add-edge"
+  },
+  {
+    "source": "candidate",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "npr",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "hippo",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "escobar",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "arm",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arm",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "npr",
+    "target": "funded",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "funded",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "media",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "media",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "flu",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "beheading",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "cohen",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawyer",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "aide",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "aide",
+    "target": "navalny",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisoned",
+    "target": "navalny",
+    "action": "add-edge"
+  },
+  {
+    "source": "poisoned",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "medical",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "medical",
+    "action": "add-edge"
+  }
+]
