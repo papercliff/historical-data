@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "sudan",
+    "weight": 34,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 20,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "paramilitary",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pension",
+    "weight": 17,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "japanese",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kishida",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "vietnam",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "clashes",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "smoke",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "reform",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "palace",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "fighting",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "rival",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "clash",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "conflict",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "musicians",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "paramilitaries",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "signs",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "hanoi",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "plants",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "arab",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pledge",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "enacted",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "flock",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "test",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "imports",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "christian",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "consensus",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "cautionary",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "faithful",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "injuries",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "interception",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tone",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "prohibits",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "fumio",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ends",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "slowing",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "reactors",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "army",
+    "target": "paramilitary",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "paramilitary",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "pension",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "reform",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "reform",
+    "action": "add-edge"
+  },
+  {
+    "source": "rival",
+    "target": "clash",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "clash",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "rival",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "hanoi",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "hanoi",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "plants",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "plants",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "hanoi",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "pledge",
+    "action": "add-edge"
+  },
+  {
+    "source": "paramilitary",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "bus",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "musicians",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "musicians",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "musicians",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "enacted",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "enacted",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "kishida",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "kishida",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "paramilitaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "paramilitaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "imports",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "imports",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "imports",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "rival",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "smoke",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "smoke",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "clash",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "rival",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "clash",
+    "target": "conflict",
+    "action": "add-edge"
+  },
+  {
+    "source": "ties",
+    "target": "hanoi",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "paramilitary",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "enacted",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "syrian",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arab",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "consensus",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "syrian",
+    "target": "consensus",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "consensus",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "consensus",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "cautionary",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "tone",
+    "action": "add-edge"
+  },
+  {
+    "source": "cautionary",
+    "target": "tone",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "cautionary",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "tone",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "interception",
+    "action": "add-edge"
+  },
+  {
+    "source": "test",
+    "target": "interception",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "tone",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "cautionary",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "injuries",
+    "action": "add-edge"
+  },
+  {
+    "source": "kishida",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "kishida",
+    "target": "injuries",
+    "action": "add-edge"
+  },
+  {
+    "source": "flock",
+    "target": "christian",
+    "action": "add-edge"
+  },
+  {
+    "source": "christian",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "flock",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "christian",
+    "target": "faithful",
+    "action": "add-edge"
+  },
+  {
+    "source": "faithful",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "flock",
+    "target": "faithful",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "interception",
+    "action": "add-edge"
+  },
+  {
+    "source": "imports",
+    "target": "prohibits",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prohibits",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "prohibits",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "prohibits",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "fumio",
+    "action": "add-edge"
+  },
+  {
+    "source": "kishida",
+    "target": "fumio",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "kishida",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "signs",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "signs",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "slowing",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "slowing",
+    "action": "add-edge"
+  },
+  {
+    "source": "signs",
+    "target": "slowing",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "japanese",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "japanese",
+    "target": "smoke",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "reactors",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "reactors",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "pension",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "reform",
+    "target": "french",
+    "action": "add-edge"
+  }
+]
