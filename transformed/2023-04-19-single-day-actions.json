@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 27,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 15,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "population",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "fox",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "news",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pill",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 13,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 13,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ghetto",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "warsaw",
+    "weight": 11,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "fishermen",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 11,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "parking",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "uprising",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "appeal",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "alabama",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesian",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "populous",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "city",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "stampede",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "yemen",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "dominion",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 8,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "anniversary",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "settlement",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "restrictions",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "capital",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "country",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "car",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sues",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "garage",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "york",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ships",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "party",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "memphis",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nichols",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "patients",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tyre",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "panda",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 7,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "lawsuit",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sabotage",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "defamation",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "divide",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "religious",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arrive",
+    "weight": 6,
+    "cluster": 1,
+    "action": "add-node"
+  },
+  {
+    "id": "birthday",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "collapses",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "loan",
+    "weight": 6,
+    "cluster": 2,
+    "action": "add-node"
+  },
+  {
+    "id": "cheerleaders",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "commemorated",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "feared",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "teens",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "caribbean",
+    "weight": 5,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "catastrophic",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclones",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hunger",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "madagascar",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "court",
+    "target": "abortion",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "abortion",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "pill",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "pill",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "pill",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghetto",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghetto",
+    "target": "warsaw",
+    "action": "add-edge"
+  },
+  {
+    "source": "warsaw",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghetto",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "warsaw",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "uprising",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "abortion",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "populous",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "populous",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "memphis",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "nichols",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "dominion",
+    "action": "add-edge"
+  },
+  {
+    "source": "dominion",
+    "target": "settlement",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "settlement",
+    "action": "add-edge"
+  },
+  {
+    "source": "fishermen",
+    "target": "indonesian",
+    "action": "add-edge"
+  },
+  {
+    "source": "fishermen",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesian",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "patriot",
+    "target": "arrive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arrive",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "arrive",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "restrictions",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "patients",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "patients",
+    "action": "add-edge"
+  },
+  {
+    "source": "panda",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "panda",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "panda",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ghetto",
+    "target": "commemorated",
+    "action": "add-edge"
+  },
+  {
+    "source": "uprising",
+    "target": "commemorated",
+    "action": "add-edge"
+  },
+  {
+    "source": "warsaw",
+    "target": "commemorated",
+    "action": "add-edge"
+  },
+  {
+    "source": "anniversary",
+    "target": "commemorated",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "divide",
+    "action": "add-edge"
+  },
+  {
+    "source": "divide",
+    "target": "religious",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "religious",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "populous",
+    "action": "add-edge"
+  },
+  {
+    "source": "world",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "yemen",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "yemen",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "memphis",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tyre",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "sues",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "nichols",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "caribbean",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "caribbean",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclones",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclones",
+    "target": "madagascar",
+    "action": "add-edge"
+  },
+  {
+    "source": "hunger",
+    "target": "madagascar",
+    "action": "add-edge"
+  },
+  {
+    "source": "catastrophic",
+    "target": "cyclones",
+    "action": "add-edge"
+  },
+  {
+    "source": "catastrophic",
+    "target": "madagascar",
+    "action": "add-edge"
+  },
+  {
+    "source": "catastrophic",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "dominion",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "lawsuit",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ships",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "ships",
+    "action": "add-edge"
+  },
+  {
+    "source": "news",
+    "target": "dominion",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "news",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "sabotage",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ships",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "fishermen",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "indonesian",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "city",
+    "target": "divide",
+    "action": "add-edge"
+  },
+  {
+    "source": "city",
+    "target": "religious",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "city",
+    "action": "add-edge"
+  },
+  {
+    "source": "alabama",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "alabama",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "alabama",
+    "target": "teens",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "teens",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "dominion",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "fox",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "alabama",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "garage",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "parking",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "parking",
+    "target": "garage",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "parking",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "garage",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "patients",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "caribbean",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "parking",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "york",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "parking",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "appeal",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "panda",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "car",
+    "target": "cheerleaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "cheerleaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "cheerleaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "assault",
+    "action": "add-edge"
+  }
+]
