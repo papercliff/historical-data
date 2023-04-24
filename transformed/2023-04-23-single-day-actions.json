@@ -1,0 +1,933 @@
+[
+  {
+    "id": "sudan",
+    "weight": 35,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cult",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bodies",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuate",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kenya",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sikh",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuates",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "citizens",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "racism",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bankruptcy",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "files",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "personnel",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bath",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bed",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "suspends",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "amritpal",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "singh",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "indian",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "khartoum",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pastor",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "separatist",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "shell",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hunt",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuations",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "starvation",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "smuggling",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "investigation",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jeff",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nbcuniversal",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "coronavirus",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "positive",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tests",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "walk",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "governments",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "abbott",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "diane",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "gym",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "assassinated",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "guerrillas",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "embassy",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "corruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "corruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "corruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "corruption",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankruptcy",
+    "target": "bed",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankruptcy",
+    "target": "files",
+    "action": "add-edge"
+  },
+  {
+    "source": "files",
+    "target": "bed",
+    "action": "add-edge"
+  },
+  {
+    "source": "bankruptcy",
+    "target": "bath",
+    "action": "add-edge"
+  },
+  {
+    "source": "files",
+    "target": "bath",
+    "action": "add-edge"
+  },
+  {
+    "source": "bath",
+    "target": "bed",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "amritpal",
+    "action": "add-edge"
+  },
+  {
+    "source": "amritpal",
+    "target": "singh",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "singh",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "personnel",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "personnel",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "investigation",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "investigation",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "investigation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "nbcuniversal",
+    "action": "add-edge"
+  },
+  {
+    "source": "shell",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "shell",
+    "target": "nbcuniversal",
+    "action": "add-edge"
+  },
+  {
+    "source": "indian",
+    "target": "separatist",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "indian",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "separatist",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "sikh",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "indian",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "coronavirus",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronavirus",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronavirus",
+    "target": "positive",
+    "action": "add-edge"
+  },
+  {
+    "source": "positive",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "positive",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "positive",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "coronavirus",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "walk",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "walk",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "walk",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescue",
+    "target": "governments",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "governments",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "governments",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "evacuates",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuates",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "pastor",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "pastor",
+    "action": "add-edge"
+  },
+  {
+    "source": "pastor",
+    "target": "investigation",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "pastor",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "jeff",
+    "action": "add-edge"
+  },
+  {
+    "source": "jeff",
+    "target": "nbcuniversal",
+    "action": "add-edge"
+  },
+  {
+    "source": "shell",
+    "target": "jeff",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "gym",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "gym",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "gym",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "gym",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "separatist",
+    "action": "add-edge"
+  },
+  {
+    "source": "separatist",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "indian",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "abbott",
+    "target": "diane",
+    "action": "add-edge"
+  },
+  {
+    "source": "racism",
+    "target": "abbott",
+    "action": "add-edge"
+  },
+  {
+    "source": "racism",
+    "target": "diane",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuated",
+    "target": "khartoum",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "khartoum",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "assassinated",
+    "action": "add-edge"
+  },
+  {
+    "source": "assassinated",
+    "target": "guerrillas",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "guerrillas",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "guerrillas",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "assassinated",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "evacuates",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomats",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "starvation",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "starvation",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspends",
+    "target": "abbott",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspends",
+    "target": "diane",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "smuggling",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "smuggling",
+    "action": "add-edge"
+  }
+]
