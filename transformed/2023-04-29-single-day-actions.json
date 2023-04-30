@@ -1,0 +1,501 @@
+[
+  {
+    "id": "sudan",
+    "weight": 29,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 24,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "fuel",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hungary",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuation",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sculpture",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "walrus",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "civilian",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "charity",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "judicial",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "plans",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "citizens",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "reservoir",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "norway",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "unveiled",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "visits",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "revealed",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "crimea",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "coronation",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "battle",
+    "target": "civilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "battle",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "civilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "civilian",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "charity",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "charity",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "charity",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "fuel",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "reservoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "reservoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "reservoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "plans",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "rally",
+    "target": "plans",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "plans",
+    "action": "add-edge"
+  },
+  {
+    "source": "rally",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "sculpture",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "walrus",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "sculpture",
+    "target": "walrus",
+    "action": "add-edge"
+  },
+  {
+    "source": "sculpture",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "walrus",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "reservoir",
+    "action": "add-edge"
+  },
+  {
+    "source": "charity",
+    "target": "visits",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "visits",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "visits",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "visits",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "revealed",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "revealed",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "unveiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "revealed",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuation",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "evacuation",
+    "action": "add-edge"
+  }
+]
