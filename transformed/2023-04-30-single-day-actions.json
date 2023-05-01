@@ -1,0 +1,745 @@
+[
+  {
+    "id": "sudan",
+    "weight": 31,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "leak",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hungary",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuation",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dinner",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "uzbekistan",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flight",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "extend",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "correspondents",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "laughs",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "doors",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sputters",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "supplies",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indigenous",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "artifacts",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "willingness",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "journalism",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pigeon",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "open",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bury",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "relatives",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hospitalized",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "designer",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "fashion",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "banks",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mass",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "portuguese",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "loot",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "danube",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "racers",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "aid",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "leak",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "sputters",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "sputters",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "sputters",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "sputters",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "artifacts",
+    "action": "add-edge"
+  },
+  {
+    "source": "artifacts",
+    "target": "willingness",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "willingness",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "willingness",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "artifacts",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "doors",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "doors",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hungary",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "bury",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "bury",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "bury",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "dinner",
+    "target": "correspondents",
+    "action": "add-edge"
+  },
+  {
+    "source": "correspondents",
+    "target": "laughs",
+    "action": "add-edge"
+  },
+  {
+    "source": "dinner",
+    "target": "laughs",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bury",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "hospitalized",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "leak",
+    "action": "add-edge"
+  },
+  {
+    "source": "designer",
+    "target": "fashion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "designer",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "fashion",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "loot",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "loot",
+    "action": "add-edge"
+  },
+  {
+    "source": "willingness",
+    "target": "loot",
+    "action": "add-edge"
+  },
+  {
+    "source": "artifacts",
+    "target": "loot",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "extend",
+    "action": "add-edge"
+  },
+  {
+    "source": "uzbekistan",
+    "target": "extend",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "uzbekistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "banks",
+    "target": "danube",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "banks",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "danube",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "banks",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "mass",
+    "target": "danube",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "danube",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "banks",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "open",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "open",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "open",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "open",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuation",
+    "target": "flight",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "flight",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "pigeon",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "portuguese",
+    "action": "add-edge"
+  },
+  {
+    "source": "pigeon",
+    "target": "portuguese",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "racers",
+    "action": "add-edge"
+  },
+  {
+    "source": "pigeon",
+    "target": "racers",
+    "action": "add-edge"
+  },
+  {
+    "source": "portuguese",
+    "target": "racers",
+    "action": "add-edge"
+  },
+  {
+    "source": "correspondents",
+    "target": "journalism",
+    "action": "add-edge"
+  },
+  {
+    "source": "dinner",
+    "target": "journalism",
+    "action": "add-edge"
+  },
+  {
+    "source": "laughs",
+    "target": "journalism",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "extend",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "uzbekistan",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  }
+]
