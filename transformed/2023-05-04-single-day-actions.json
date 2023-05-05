@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 30,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 20,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 16,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "gun",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "proud",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kill",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "uk",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "capitol",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "boys",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "conspiracy",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "people",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "asian",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hungary",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "denies",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "misconduct",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "teachers",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "convicted",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sheeran",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "sex",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "czech",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "unlikely",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ed",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ethiopia",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "seditious",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iii",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "virus",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "brno",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "capital",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "guns",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gaye",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "orban",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "cpac",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fentanyl",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sedition",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "atlanta",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "die",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "criticism",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "roads",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "carlos",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "juan",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "marvin",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "push",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "suspending",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "allegations",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "bemoans",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "chapo",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "deny",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "scientist",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "criminal",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "ethiopia",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "ethiopia",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "cpac",
+    "action": "add-edge"
+  },
+  {
+    "source": "orban",
+    "target": "cpac",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "orban",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "atlanta",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "atlanta",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "brno",
+    "action": "add-edge"
+  },
+  {
+    "source": "people",
+    "target": "brno",
+    "action": "add-edge"
+  },
+  {
+    "source": "people",
+    "target": "czech",
+    "action": "add-edge"
+  },
+  {
+    "source": "boys",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "boys",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "roads",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "roads",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "roads",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaye",
+    "target": "marvin",
+    "action": "add-edge"
+  },
+  {
+    "source": "sheeran",
+    "target": "gaye",
+    "action": "add-edge"
+  },
+  {
+    "source": "sheeran",
+    "target": "marvin",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "juan",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "juan",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "carlos",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "carlos",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "carlos",
+    "target": "juan",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "suspending",
+    "action": "add-edge"
+  },
+  {
+    "source": "ethiopia",
+    "target": "suspending",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "suspending",
+    "action": "add-edge"
+  },
+  {
+    "source": "virus",
+    "target": "cpac",
+    "action": "add-edge"
+  },
+  {
+    "source": "virus",
+    "target": "orban",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "gun",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "gun",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "bemoans",
+    "action": "add-edge"
+  },
+  {
+    "source": "virus",
+    "target": "bemoans",
+    "action": "add-edge"
+  },
+  {
+    "source": "orban",
+    "target": "bemoans",
+    "action": "add-edge"
+  },
+  {
+    "source": "cpac",
+    "target": "bemoans",
+    "action": "add-edge"
+  },
+  {
+    "source": "ed",
+    "target": "gaye",
+    "action": "add-edge"
+  },
+  {
+    "source": "sheeran",
+    "target": "ed",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "scientist",
+    "action": "add-edge"
+  },
+  {
+    "source": "misconduct",
+    "target": "scientist",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "sex",
+    "action": "add-edge"
+  },
+  {
+    "source": "misconduct",
+    "target": "sex",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "teachers",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "teachers",
+    "action": "add-edge"
+  },
+  {
+    "source": "boys",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "czech",
+    "target": "die",
+    "action": "add-edge"
+  },
+  {
+    "source": "people",
+    "target": "die",
+    "action": "add-edge"
+  },
+  {
+    "source": "brno",
+    "target": "die",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "criticism",
+    "action": "add-edge"
+  },
+  {
+    "source": "unlikely",
+    "target": "criticism",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "unlikely",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "asian",
+    "action": "add-edge"
+  },
+  {
+    "source": "asian",
+    "target": "unlikely",
+    "action": "add-edge"
+  },
+  {
+    "source": "asian",
+    "target": "criticism",
+    "action": "add-edge"
+  },
+  {
+    "source": "conspiracy",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "uk",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "capital",
+    "action": "add-edge"
+  },
+  {
+    "source": "capital",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "guns",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "guns",
+    "target": "push",
+    "action": "add-edge"
+  },
+  {
+    "source": "push",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "push",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "guns",
+    "action": "add-edge"
+  },
+  {
+    "source": "gun",
+    "target": "push",
+    "action": "add-edge"
+  },
+  {
+    "source": "chapo",
+    "target": "deny",
+    "action": "add-edge"
+  },
+  {
+    "source": "fentanyl",
+    "target": "chapo",
+    "action": "add-edge"
+  },
+  {
+    "source": "fentanyl",
+    "target": "deny",
+    "action": "add-edge"
+  },
+  {
+    "source": "ed",
+    "target": "marvin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "gun",
+    "target": "guns",
+    "action": "add-edge"
+  },
+  {
+    "source": "fentanyl",
+    "target": "allegations",
+    "action": "add-edge"
+  },
+  {
+    "source": "allegations",
+    "target": "chapo",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "kill",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "capitol",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "capitol",
+    "target": "seditious",
+    "action": "add-edge"
+  },
+  {
+    "source": "conspiracy",
+    "target": "seditious",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "push",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "teachers",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "teachers",
+    "action": "add-edge"
+  },
+  {
+    "source": "sex",
+    "target": "scientist",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "sedition",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "sedition",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  }
+]
