@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "coronation",
+    "weight": 36,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 35,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 34,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 33,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 30,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 30,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 30,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 27,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "global",
+    "weight": 27,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mass",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "pandemic",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "royal",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "april",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "buckingham",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "camilla",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nigerian",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "palace",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "flag",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cult",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wife",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "threatens",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "envoys",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "iii",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "punches",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kenyan",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "downgrades",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "colonies",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fatally",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chibok",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "heat",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sex",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jill",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pullout",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "apathy",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "allegiance",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "assassination",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "babies",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "game",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "woods",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "global",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "pandemic",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "pandemic",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "buckingham",
+    "action": "add-edge"
+  },
+  {
+    "source": "buckingham",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "global",
+    "target": "pandemic",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pullout",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "pullout",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "downgrades",
+    "action": "add-edge"
+  },
+  {
+    "source": "pandemic",
+    "target": "downgrades",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "downgrades",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "buckingham",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "fatally",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "fatally",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "fatally",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "cult",
+    "target": "kenyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenyan",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "attacks",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "punches",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "punches",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "pullout",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "pullout",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "mass",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "colonies",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "colonies",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "apathy",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "apathy",
+    "action": "add-edge"
+  },
+  {
+    "source": "colonies",
+    "target": "apathy",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "allegiance",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "allegiance",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "allegiance",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "assassination",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "fatally",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "assassination",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "game",
+    "action": "add-edge"
+  },
+  {
+    "source": "game",
+    "target": "woods",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "woods",
+    "action": "add-edge"
+  },
+  {
+    "source": "sex",
+    "target": "game",
+    "action": "add-edge"
+  },
+  {
+    "source": "sex",
+    "target": "woods",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "sex",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "heat",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "heat",
+    "action": "add-edge"
+  },
+  {
+    "source": "nigerian",
+    "target": "chibok",
+    "action": "add-edge"
+  },
+  {
+    "source": "april",
+    "target": "heat",
+    "action": "add-edge"
+  },
+  {
+    "source": "april",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "nigerian",
+    "target": "babies",
+    "action": "add-edge"
+  },
+  {
+    "source": "april",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "chibok",
+    "target": "babies",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "kenyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "nigerian",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "wife",
+    "action": "add-edge"
+  },
+  {
+    "source": "nigerian",
+    "target": "wife",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "cult",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "global",
+    "target": "downgrades",
+    "action": "add-edge"
+  }
+]
