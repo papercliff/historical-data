@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "charles",
+    "weight": 42,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 37,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "coronation",
+    "weight": 35,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crowned",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "camilla",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "queen",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hypersonic",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "iii",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "monarchy",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ceremony",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "westminster",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "abbey",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "photos",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "patriot",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "iranian",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "updates",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "shootings",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "royal",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prilepin",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crown",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "procession",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "warring",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pressure",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "congo",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "assange",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "louis",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "live",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "britain",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "crowds",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kate",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "zakhar",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "father",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "terrorism",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "crowns",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "novelist",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "envoys",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mass",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "families",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "swedish",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "change",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "government",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "latest",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "crowning",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "burials",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "raid",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "relatives",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "reunions",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jill",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rishi",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "charles",
+    "target": "coronation",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "coronation",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crowned",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "crowned",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "hypersonic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "hypersonic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "hypersonic",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "abbey",
+    "action": "add-edge"
+  },
+  {
+    "source": "westminster",
+    "target": "abbey",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "westminster",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "crowned",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "westminster",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "abbey",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "camilla",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "hypersonic",
+    "target": "patriot",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "photos",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "photos",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "photos",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "abbey",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "westminster",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "updates",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "updates",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "updates",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "congo",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "camilla",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "shootings",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "shootings",
+    "action": "add-edge"
+  },
+  {
+    "source": "london",
+    "target": "assange",
+    "action": "add-edge"
+  },
+  {
+    "source": "assange",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "london",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "assange",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "london",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "monarchy",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crowns",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "crowns",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crown",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "crown",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "pressure",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "westminster",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "shootings",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "procession",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "procession",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "monarchy",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "iii",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "crowns",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "abbey",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "iranian",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "swedish",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "swedish",
+    "action": "add-edge"
+  },
+  {
+    "source": "change",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "change",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "government",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "government",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "updates",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "injured",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "pressure",
+    "target": "envoys",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowned",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "crowds",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "crowds",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crowning",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "crowning",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crowds",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "burials",
+    "action": "add-edge"
+  },
+  {
+    "source": "shootings",
+    "target": "burials",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "britain",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "britain",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "burials",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "mass",
+    "target": "burials",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "families",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "families",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "families",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "families",
+    "target": "reunions",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "reunions",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "relatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "relatives",
+    "target": "reunions",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "reunions",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "prilepin",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "zakhar",
+    "action": "add-edge"
+  },
+  {
+    "source": "prilepin",
+    "target": "zakhar",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "jill",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "monarchy",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "camilla",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "kate",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "kate",
+    "action": "add-edge"
+  },
+  {
+    "source": "iii",
+    "target": "photos",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "latest",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "latest",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "latest",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "louis",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "louis",
+    "action": "add-edge"
+  }
+]
