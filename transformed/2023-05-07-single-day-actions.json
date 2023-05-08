@@ -1,0 +1,590 @@
+[
+  {
+    "id": "coronation",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mall",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "arab",
+    "weight": 21,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 20,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "congo",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "lunch",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "assad",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "concert",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "seized",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tankers",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ceremony",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "abbas",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bandar",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "katy",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "perry",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "green",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "big",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "allen",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crowned",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "amazon",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lula",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "megaprojects",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "father",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "search",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "coronation",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "mall",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "seized",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "seized",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "lunch",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "lunch",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "lunch",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "assad",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "assad",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "seized",
+    "target": "bandar",
+    "action": "add-edge"
+  },
+  {
+    "source": "tankers",
+    "target": "bandar",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "bandar",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "abbas",
+    "action": "add-edge"
+  },
+  {
+    "source": "seized",
+    "target": "abbas",
+    "action": "add-edge"
+  },
+  {
+    "source": "tankers",
+    "target": "abbas",
+    "action": "add-edge"
+  },
+  {
+    "source": "abbas",
+    "target": "bandar",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "katy",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "perry",
+    "action": "add-edge"
+  },
+  {
+    "source": "katy",
+    "target": "perry",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "concert",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "concert",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "concert",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "source": "lunch",
+    "target": "big",
+    "action": "add-edge"
+  },
+  {
+    "source": "arab",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "allen",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "allen",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceremony",
+    "target": "crowned",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "crowned",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "megaprojects",
+    "action": "add-edge"
+  },
+  {
+    "source": "lula",
+    "target": "megaprojects",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "megaprojects",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "lula",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "megaprojects",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "congo",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "deaths",
+    "action": "add-edge"
+  },
+  {
+    "source": "congo",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "coronation",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "prince",
+    "action": "add-edge"
+  }
+]
