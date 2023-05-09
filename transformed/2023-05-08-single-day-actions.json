@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 34,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 22,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 21,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 17,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 17,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "day",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "gold",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "blasphemy",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "canada",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "holiday",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "executions",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 11,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rape",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hangs",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "immigration",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "mall",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "peru",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "capsizes",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "tourist",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "doctors",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "testify",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomat",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "driver",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "trade",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "clashes",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "airstrikes",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drug",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nazism",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "manslaughter",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "york",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kerala",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "siberia",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "defamation",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "workers",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "kill",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hold",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmaker",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "yoon",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "darfur",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "defeated",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "leyen",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "overturns",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "reforms",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "blasphemy",
+    "target": "hangs",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "blasphemy",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "hangs",
+    "action": "add-edge"
+  },
+  {
+    "source": "blasphemy",
+    "target": "executions",
+    "action": "add-edge"
+  },
+  {
+    "source": "executions",
+    "target": "hangs",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "executions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "capsizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "capsizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "sudan",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "driver",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "driver",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "canada",
+    "action": "add-edge"
+  },
+  {
+    "source": "canada",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "mall",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "mall",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "doctors",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "doctors",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "doctors",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "immigration",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "hold",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "hold",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "hold",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "hold",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "executions",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "executions",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "holiday",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "immigration",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "airstrikes",
+    "target": "drug",
+    "action": "add-edge"
+  },
+  {
+    "source": "airstrikes",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "kill",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "capsizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "rally",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "rally",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "strikes",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "capsizes",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trade",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "trade",
+    "action": "add-edge"
+  },
+  {
+    "source": "trade",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "mall",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "airstrikes",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kill",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "drug",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ties",
+    "target": "yoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "yoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomat",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "siberia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "clashes",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "kerala",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "kerala",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "siberia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "holiday",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazism",
+    "target": "defeated",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "defeated",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nazism",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "testify",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "york",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "testify",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "reforms",
+    "action": "add-edge"
+  },
+  {
+    "source": "overturns",
+    "target": "reforms",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "reforms",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "mexican",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazism",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "reforms",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "leyen",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "leyen",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "gold",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "gold",
+    "target": "peru",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "testify",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "testify",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "driver",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "gold",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "gold",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourist",
+    "target": "kerala",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "peru",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "york",
+    "action": "add-edge"
+  }
+]
