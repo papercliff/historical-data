@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 32,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 29,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 26,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 26,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 25,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 22,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 22,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 21,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 21,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "health",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 19,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 17,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "holloway",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mercedes",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "global",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cnn",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "milan",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "uk",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "range",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mpox",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hall",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "extradited",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "disappearance",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "fighting",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "van",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "jihad",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "displaced",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "candidate",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "benz",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "militant",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "britain",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "armenia",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "azerbaijan",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "challenger",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rates",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "raises",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "boost",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "time",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "unrest",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "withdraws",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "illegal",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "town",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "disasters",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "england",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "vehicles",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "arresting",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "launching",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "extradition",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "orders",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "tanks",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "convicted",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "grave",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "financing",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "oxygen",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "sarkozy",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "mpox",
+    "action": "add-edge"
+  },
+  {
+    "source": "global",
+    "target": "mpox",
+    "action": "add-edge"
+  },
+  {
+    "source": "cnn",
+    "target": "hall",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "cnn",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "hall",
+    "action": "add-edge"
+  },
+  {
+    "source": "holloway",
+    "target": "disappearance",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "disappearance",
+    "action": "add-edge"
+  },
+  {
+    "source": "holloway",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "holloway",
+    "target": "extradited",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "extradited",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "health",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "mpox",
+    "action": "add-edge"
+  },
+  {
+    "source": "health",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "benz",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercedes",
+    "target": "benz",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercedes",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "extradited",
+    "target": "disappearance",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "militant",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "militant",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercedes",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "cnn",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "uk",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "challenger",
+    "target": "boost",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "boost",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "challenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "challenger",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arresting",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "arresting",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arresting",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "britain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "britain",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "launching",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "launching",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercedes",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "disappearance",
+    "target": "extradition",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "extradition",
+    "action": "add-edge"
+  },
+  {
+    "source": "holloway",
+    "target": "extradition",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "illegal",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "illegal",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "illegal",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "illegal",
+    "action": "add-edge"
+  },
+  {
+    "source": "hall",
+    "target": "town",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "town",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "boost",
+    "target": "withdraws",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "grave",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "grave",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "england",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "england",
+    "action": "add-edge"
+  },
+  {
+    "source": "uk",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "militant",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "raises",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "raises",
+    "action": "add-edge"
+  },
+  {
+    "source": "raises",
+    "target": "england",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "jihad",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "jihad",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "time",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "time",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "jihad",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "militant",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "candidate",
+    "target": "boost",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "candidate",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "boost",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "displaced",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "displaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "benz",
+    "action": "add-edge"
+  },
+  {
+    "source": "armenia",
+    "target": "azerbaijan",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "armenia",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "azerbaijan",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "displaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "displaced",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutors",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "financing",
+    "action": "add-edge"
+  },
+  {
+    "source": "financing",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "oxygen",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "tanks",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "oxygen",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "van",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "oxygen",
+    "action": "add-edge"
+  },
+  {
+    "source": "candidate",
+    "target": "challenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "financing",
+    "action": "add-edge"
+  },
+  {
+    "source": "explodes",
+    "target": "oxygen",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanks",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "milan",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "convicted",
+    "target": "grave",
+    "action": "add-edge"
+  }
+]
