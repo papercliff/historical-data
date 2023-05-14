@@ -1,0 +1,785 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 28,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "eurovision",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "rome",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bangladesh",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclone",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "mocha",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "jihad",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "italian",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "karnataka",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "fighting",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "package",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cease",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "islamic",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "terrorism",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "liverpool",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "hindu",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nationalist",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trials",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "final",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "bangladesh",
+    "target": "cyclone",
+    "action": "add-edge"
+  },
+  {
+    "source": "bangladesh",
+    "target": "mocha",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "mocha",
+    "action": "add-edge"
+  },
+  {
+    "source": "bangladesh",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "mocha",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "rome",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "militants",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "jihad",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "jihad",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "jihad",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "eurovision",
+    "target": "liverpool",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "eurovision",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "liverpool",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "hindu",
+    "action": "add-edge"
+  },
+  {
+    "source": "hindu",
+    "target": "nationalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "nationalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "karnataka",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "karnataka",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "karnataka",
+    "target": "hindu",
+    "action": "add-edge"
+  },
+  {
+    "source": "karnataka",
+    "target": "nationalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "trials",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "trials",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "trials",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "terrorism",
+    "target": "trials",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "eurovision",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "eurovision",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "eurovision",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "jihad",
+    "action": "add-edge"
+  },
+  {
+    "source": "fighting",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "italy",
+    "action": "add-edge"
+  }
+]
