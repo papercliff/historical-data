@@ -1,0 +1,883 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 29,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 28,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 26,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclone",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 21,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mocha",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bangladesh",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "landfall",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "paris",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "fighting",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "family",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cease",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "territory",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "everest",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sherpa",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "record",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "results",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "amnesty",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "launchers",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "leadership",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "climbs",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "homeless",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tayyip",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "freedom",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "election",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "mocha",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "mocha",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "mocha",
+    "target": "bangladesh",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "mocha",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "bangladesh",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "paris",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "militants",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "fighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "militants",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "fighting",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "cease",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "launchers",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "launchers",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "territory",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "territory",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "everest",
+    "target": "record",
+    "action": "add-edge"
+  },
+  {
+    "source": "everest",
+    "target": "sherpa",
+    "action": "add-edge"
+  },
+  {
+    "source": "sherpa",
+    "target": "record",
+    "action": "add-edge"
+  },
+  {
+    "source": "everest",
+    "target": "climbs",
+    "action": "add-edge"
+  },
+  {
+    "source": "sherpa",
+    "target": "climbs",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "homeless",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "homeless",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "amnesty",
+    "action": "add-edge"
+  },
+  {
+    "source": "amnesty",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "weapons",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "amnesty",
+    "target": "launchers",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "family",
+    "target": "homeless",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "homeless",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "tayyip",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "tayyip",
+    "action": "add-edge"
+  },
+  {
+    "source": "fighting",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "results",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "results",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "freedom",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "freedom",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "protests",
+    "action": "add-edge"
+  }
+]
