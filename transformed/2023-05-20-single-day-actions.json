@@ -1,0 +1,607 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 25,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 24,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "hiroshima",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 14,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "amis",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "martin",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jets",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "novelist",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutor",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "plans",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "warrant",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "claims",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cardinal",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "people",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "displaced",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ceiling",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fighter",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "compromise",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "writer",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "amis",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "amis",
+    "target": "martin",
+    "action": "add-edge"
+  },
+  {
+    "source": "martin",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "amis",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "martin",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "hiroshima",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "cardinal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "cardinal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "novelist",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutor",
+    "target": "warrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "warrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "hiroshima",
+    "action": "add-edge"
+  },
+  {
+    "source": "plans",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "plans",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "compromise",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "compromise",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "plans",
+    "target": "compromise",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "compromise",
+    "action": "add-edge"
+  },
+  {
+    "source": "plans",
+    "target": "israelis",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutor",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "warrant",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "displaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "displaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "amis",
+    "target": "writer",
+    "action": "add-edge"
+  },
+  {
+    "source": "martin",
+    "target": "writer",
+    "action": "add-edge"
+  }
+]
