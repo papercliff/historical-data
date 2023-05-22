@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 30,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 25,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "stadium",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "salvador",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 20,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "stampede",
+    "weight": 20,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 18,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 15,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "soccer",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hiroshima",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "el",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ceasefire",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "denies",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "political",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 7,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "majority",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "mitsotakis",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "poisoning",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "warring",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sensitive",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nuke",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "japanese",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "partisan",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "exiles",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "thaw",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "factions",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "captured",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "challenge",
+    "weight": 5,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "fountain",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rome",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trevi",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bailout",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "memorial",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "fought",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "parliamentary",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "timor",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dilemma",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "threats",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "destruction",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "shortly",
+    "weight": 4,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "source": "stadium",
+    "target": "salvador",
+    "action": "add-edge"
+  },
+  {
+    "source": "salvador",
+    "target": "stampede",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadium",
+    "target": "stampede",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "salvador",
+    "target": "soccer",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "soccer",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadium",
+    "target": "soccer",
+    "action": "add-edge"
+  },
+  {
+    "source": "salvador",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadium",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "salvador",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadium",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "ceasefire",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "sensitive",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "sensitive",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "soccer",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "poisoning",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "poisoning",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "thaw",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "thaw",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceasefire",
+    "target": "factions",
+    "action": "add-edge"
+  },
+  {
+    "source": "warring",
+    "target": "factions",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "factions",
+    "action": "add-edge"
+  },
+  {
+    "source": "fountain",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "fountain",
+    "target": "trevi",
+    "action": "add-edge"
+  },
+  {
+    "source": "rome",
+    "target": "trevi",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "captured",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "captured",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "trevi",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "fountain",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "bailout",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "bailout",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "sensitive",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "majority",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "majority",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "memorial",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "memorial",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "soccer",
+    "target": "el",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "fought",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "fought",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fought",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "bailout",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "mitsotakis",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "mitsotakis",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "nuke",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "nuke",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "nuke",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliamentary",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "political",
+    "action": "add-edge"
+  },
+  {
+    "source": "political",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "political",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "political",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuke",
+    "target": "japanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "japanese",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuke",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuke",
+    "target": "dilemma",
+    "action": "add-edge"
+  },
+  {
+    "source": "dilemma",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "japanese",
+    "target": "dilemma",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "salvador",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "stampede",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "stadium",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "poisoning",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "hiroshima",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelensky",
+    "target": "hiroshima",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "partisan",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "partisan",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "shortly",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "shortly",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "exiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "exiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "challenge",
+    "action": "add-edge"
+  }
+]
