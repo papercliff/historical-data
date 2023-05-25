@@ -1,0 +1,828 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "desantis",
+    "weight": 23,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ron",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tina",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "turner",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bakhmut",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "tasered",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "florida",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mccann",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "guam",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "activists",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "typhoon",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belgorod",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "vehicles",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rock",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "governor",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "madeleine",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mawar",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "search",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "campaign",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "raids",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rape",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ramadan",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tariq",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "winds",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "islamic",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "portuguese",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "singer",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "grandmother",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bomber",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "checkpoint",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "fighters",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "tina",
+    "target": "rock",
+    "action": "add-edge"
+  },
+  {
+    "source": "turner",
+    "target": "rock",
+    "action": "add-edge"
+  },
+  {
+    "source": "tina",
+    "target": "turner",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "ron",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "ron",
+    "action": "add-edge"
+  },
+  {
+    "source": "guam",
+    "target": "mawar",
+    "action": "add-edge"
+  },
+  {
+    "source": "guam",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "mawar",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "tina",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "turner",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "bakhmut",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "tasered",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "tasered",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "raids",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "raids",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "raids",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "raids",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "ramadan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ramadan",
+    "target": "tariq",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "tariq",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vehicles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "governor",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "desantis",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "guam",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "mawar",
+    "target": "winds",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccann",
+    "target": "madeleine",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "madeleine",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "mccann",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "ramadan",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "tariq",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomber",
+    "target": "checkpoint",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "bomber",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "checkpoint",
+    "action": "add-edge"
+  },
+  {
+    "source": "madeleine",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccann",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "ron",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "tina",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "turner",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "grandmother",
+    "action": "add-edge"
+  },
+  {
+    "source": "tasered",
+    "target": "grandmother",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "checkpoint",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "rape",
+    "target": "islamic",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "bomber",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "belgorod",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belgorod",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "tasered",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "tina",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "turner",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "rock",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "madeleine",
+    "target": "portuguese",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccann",
+    "target": "portuguese",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "rock",
+    "action": "add-edge"
+  },
+  {
+    "source": "bakhmut",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "fighters",
+    "action": "add-edge"
+  }
+]
