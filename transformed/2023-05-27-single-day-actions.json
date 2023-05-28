@@ -1,0 +1,756 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "provocation",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "party",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "evidence",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "serbian",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "alert",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "envoy",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "strait",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kissinger",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "home",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "paxton",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "impeachment",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "airports",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "head",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "expel",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "birthday",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "delays",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomat",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fleeing",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sudanese",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomats",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "letter",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "removal",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "passport",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "steps",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "proceedings",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "warships",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "disbands",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "celebrates",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "gate",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "provocation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "provocation",
+    "action": "add-edge"
+  },
+  {
+    "source": "provocation",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "provocation",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbian",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "serbian",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "alert",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "kosovo",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "serbian",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "serbian",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "serbian",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "strait",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbian",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "alert",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "head",
+    "action": "add-edge"
+  },
+  {
+    "source": "head",
+    "target": "sudanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "sudanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "head",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "home",
+    "action": "add-edge"
+  },
+  {
+    "source": "head",
+    "target": "fleeing",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "fleeing",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "sudanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "home",
+    "target": "fleeing",
+    "action": "add-edge"
+  },
+  {
+    "source": "fleeing",
+    "target": "sudanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "expel",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "expel",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "expel",
+    "action": "add-edge"
+  },
+  {
+    "source": "expel",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "diplomats",
+    "action": "add-edge"
+  },
+  {
+    "source": "envoy",
+    "target": "removal",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "removal",
+    "action": "add-edge"
+  },
+  {
+    "source": "envoy",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "source": "envoy",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "source": "paxton",
+    "target": "impeachment",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "impeachment",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "paxton",
+    "action": "add-edge"
+  },
+  {
+    "source": "letter",
+    "target": "removal",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "removal",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "letter",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "steps",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbian",
+    "target": "steps",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "steps",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "steps",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbian",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "party",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "strait",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "warships",
+    "action": "add-edge"
+  },
+  {
+    "source": "strait",
+    "target": "warships",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "warships",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "proceedings",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "proceedings",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "warships",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "disbands",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "disbands",
+    "action": "add-edge"
+  },
+  {
+    "source": "airports",
+    "target": "gate",
+    "action": "add-edge"
+  },
+  {
+    "source": "airports",
+    "target": "passport",
+    "action": "add-edge"
+  },
+  {
+    "source": "passport",
+    "target": "gate",
+    "action": "add-edge"
+  },
+  {
+    "source": "airports",
+    "target": "delays",
+    "action": "add-edge"
+  },
+  {
+    "source": "delays",
+    "target": "gate",
+    "action": "add-edge"
+  },
+  {
+    "source": "delays",
+    "target": "passport",
+    "action": "add-edge"
+  },
+  {
+    "source": "birthday",
+    "target": "celebrates",
+    "action": "add-edge"
+  },
+  {
+    "source": "kissinger",
+    "target": "birthday",
+    "action": "add-edge"
+  },
+  {
+    "source": "kissinger",
+    "target": "celebrates",
+    "action": "add-edge"
+  },
+  {
+    "source": "birthday",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "kissinger",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomat",
+    "target": "celebrates",
+    "action": "add-edge"
+  }
+]
