@@ -1,0 +1,983 @@
+[
+  {
+    "id": "turkey",
+    "weight": 31,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 31,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 25,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 23,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ceiling",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "venice",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "canal",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "green",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deal",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "voters",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "door",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "default",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "liquid",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "agreement",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "boycott",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "decade",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "investigate",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lake",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "warring",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "raise",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "building",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "regional",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tourist",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "overturns",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "monday",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "imperfect",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "local",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "incumbent",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "convenes",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dissolved",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "erdogan",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "green",
+    "action": "add-edge"
+  },
+  {
+    "source": "venice",
+    "target": "canal",
+    "action": "add-edge"
+  },
+  {
+    "source": "venice",
+    "target": "green",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "liquid",
+    "action": "add-edge"
+  },
+  {
+    "source": "venice",
+    "target": "liquid",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "liquid",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "boycott",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "boycott",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "warring",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "green",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "venice",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "liquid",
+    "target": "investigate",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "deal",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "deal",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "raise",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "raise",
+    "action": "add-edge"
+  },
+  {
+    "source": "door",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "door",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "regional",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "regional",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "raise",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "agreement",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "agreement",
+    "action": "add-edge"
+  },
+  {
+    "source": "door",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "door",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "voters",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "voters",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "imperfect",
+    "action": "add-edge"
+  },
+  {
+    "source": "warring",
+    "target": "imperfect",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "imperfect",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "imperfect",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "decade",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "decade",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "boycott",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "local",
+    "action": "add-edge"
+  },
+  {
+    "source": "regional",
+    "target": "local",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "local",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourist",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "lake",
+    "action": "add-edge"
+  },
+  {
+    "source": "lake",
+    "target": "overturns",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "incumbent",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "incumbent",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "incumbent",
+    "action": "add-edge"
+  },
+  {
+    "source": "runoff",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "convenes",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "monday",
+    "target": "convenes",
+    "action": "add-edge"
+  },
+  {
+    "source": "monday",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "convenes",
+    "target": "dissolved",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "convenes",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "dissolved",
+    "action": "add-edge"
+  },
+  {
+    "source": "monday",
+    "target": "dissolved",
+    "action": "add-edge"
+  },
+  {
+    "source": "dissolved",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "monday",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "default",
+    "action": "add-edge"
+  }
+]
