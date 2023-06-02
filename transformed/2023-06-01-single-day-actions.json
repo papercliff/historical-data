@@ -1,0 +1,754 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 22,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 22,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 18,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "jordan",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "wedding",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ceiling",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "defamation",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "royal",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "passes",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ceremony",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deadline",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hostel",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crimes",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "moldova",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "falls",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "graduation",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "case",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pride",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "default",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bombardment",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bipartisan",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sister",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "republican",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "accused",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "debt",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "passes",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "passes",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "wedding",
+    "action": "add-edge"
+  },
+  {
+    "source": "wedding",
+    "target": "royal",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "graduation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceremony",
+    "target": "graduation",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "passes",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "jordan",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "bombardment",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bombardment",
+    "action": "add-edge"
+  },
+  {
+    "source": "defamation",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "falls",
+    "action": "add-edge"
+  },
+  {
+    "source": "falls",
+    "target": "graduation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceremony",
+    "target": "falls",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "jerusalem",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "sister",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "sister",
+    "action": "add-edge"
+  },
+  {
+    "source": "moldova",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moldova",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "bipartisan",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "bipartisan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "bipartisan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceremony",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "graduation",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostel",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostel",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "royal",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "wedding",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "zealand",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostel",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "defamation",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "case",
+    "action": "add-edge"
+  }
+]
