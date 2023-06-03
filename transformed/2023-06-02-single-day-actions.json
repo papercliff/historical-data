@@ -1,0 +1,508 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 24,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ceiling",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "default",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "passenger",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trains",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hundreds",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "envoy",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "derail",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "declines",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "derails",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "treaty",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "snap",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "panama",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jungle",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "smugglers",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "naked",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ecuador",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "debt",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "default",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "derail",
+    "action": "add-edge"
+  },
+  {
+    "source": "trains",
+    "target": "derail",
+    "action": "add-edge"
+  },
+  {
+    "source": "trains",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "treaty",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "treaty",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "default",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "envoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "passenger",
+    "target": "derail",
+    "action": "add-edge"
+  },
+  {
+    "source": "passenger",
+    "target": "trains",
+    "action": "add-edge"
+  },
+  {
+    "source": "passenger",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "jungle",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "smugglers",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "smugglers",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "panama",
+    "action": "add-edge"
+  },
+  {
+    "source": "panama",
+    "target": "jungle",
+    "action": "add-edge"
+  },
+  {
+    "source": "passenger",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "panama",
+    "target": "smugglers",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "naked",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "naked",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "declines",
+    "target": "ecuador",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "declines",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "ecuador",
+    "action": "add-edge"
+  },
+  {
+    "source": "snap",
+    "target": "ecuador",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "snap",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "derail",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "trains",
+    "action": "add-edge"
+  },
+  {
+    "source": "declines",
+    "target": "snap",
+    "action": "add-edge"
+  },
+  {
+    "source": "hundreds",
+    "target": "derail",
+    "action": "add-edge"
+  },
+  {
+    "source": "trains",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  }
+]
