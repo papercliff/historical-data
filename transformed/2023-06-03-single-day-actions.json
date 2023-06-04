@@ -1,0 +1,830 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 24,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 24,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 18,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "egyptian",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ceiling",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rail",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "senegal",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "oath",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "austin",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "belgrade",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "signs",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bullying",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "coercion",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "uganda",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flee",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "accident",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "odisha",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "supporters",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "calls",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "washington",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "injures",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "stand",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "streets",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rescuers",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gay",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "lgbtq",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sentiment",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "disasters",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "brink",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "ceiling",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "egyptian",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "egyptian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "signs",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "signs",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "signs",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "rail",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "rail",
+    "action": "add-edge"
+  },
+  {
+    "source": "austin",
+    "target": "bullying",
+    "action": "add-edge"
+  },
+  {
+    "source": "austin",
+    "target": "coercion",
+    "action": "add-edge"
+  },
+  {
+    "source": "bullying",
+    "target": "coercion",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "oath",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "senegal",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "bullying",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "coercion",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "austin",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "injures",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "injures",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "odisha",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "odisha",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "stand",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "streets",
+    "action": "add-edge"
+  },
+  {
+    "source": "stand",
+    "target": "streets",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgrade",
+    "target": "stand",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgrade",
+    "target": "streets",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "calls",
+    "action": "add-edge"
+  },
+  {
+    "source": "calls",
+    "target": "streets",
+    "action": "add-edge"
+  },
+  {
+    "source": "calls",
+    "target": "stand",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgrade",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "belgrade",
+    "target": "calls",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "senegal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "supporters",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "bullying",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "coercion",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "austin",
+    "target": "washington",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "sentiment",
+    "action": "add-edge"
+  },
+  {
+    "source": "uganda",
+    "target": "flee",
+    "action": "add-edge"
+  },
+  {
+    "source": "uganda",
+    "target": "sentiment",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "gay",
+    "action": "add-edge"
+  },
+  {
+    "source": "gay",
+    "target": "sentiment",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "sentiment",
+    "action": "add-edge"
+  },
+  {
+    "source": "uganda",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "gay",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "uganda",
+    "target": "gay",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "injures",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "rail",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "rail",
+    "target": "injures",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "disasters",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "odisha",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "odisha",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceiling",
+    "target": "brink",
+    "action": "add-edge"
+  },
+  {
+    "source": "debt",
+    "target": "brink",
+    "action": "add-edge"
+  },
+  {
+    "source": "signs",
+    "target": "brink",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "brink",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "sworn",
+    "action": "add-edge"
+  }
+]
