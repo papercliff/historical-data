@@ -1,0 +1,934 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dam",
+    "weight": 33,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 29,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "surgery",
+    "weight": 24,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "air",
+    "weight": 23,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 20,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "smoke",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 16,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "canada",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "york",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cnn",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "licht",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kakhovka",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ceo",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "chris",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sunak",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "destruction",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "abdominal",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "graduation",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "intestinal",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "destroyed",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "floodwaters",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "golf",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "miami",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "messi",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rishi",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "virginia",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "breach",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "genocide",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "flooded",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pga",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "case",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hacking",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "merger",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hacked",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "phone",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rwandan",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "lionel",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "dementia",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "deployment",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tabloid",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "inter",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hernia",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "undergo",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "cnn",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "licht",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "cnn",
+    "target": "licht",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "intestinal",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "intestinal",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "intestinal",
+    "action": "add-edge"
+  },
+  {
+    "source": "cnn",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "licht",
+    "target": "ceo",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "graduation",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "graduation",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ceo",
+    "target": "chris",
+    "action": "add-edge"
+  },
+  {
+    "source": "graduation",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "virginia",
+    "action": "add-edge"
+  },
+  {
+    "source": "smoke",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "smoke",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "sunak",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "floodwaters",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "floodwaters",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "hacking",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "hacking",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "genocide",
+    "target": "rwandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "genocide",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "rwandan",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "phone",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "phone",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "kakhovka",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kakhovka",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "air",
+    "target": "smoke",
+    "action": "add-edge"
+  },
+  {
+    "source": "air",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "hacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "hacked",
+    "action": "add-edge"
+  },
+  {
+    "source": "air",
+    "target": "deployment",
+    "action": "add-edge"
+  },
+  {
+    "source": "air",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "deployment",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sunak",
+    "action": "add-edge"
+  },
+  {
+    "source": "messi",
+    "target": "lionel",
+    "action": "add-edge"
+  },
+  {
+    "source": "miami",
+    "target": "lionel",
+    "action": "add-edge"
+  },
+  {
+    "source": "miami",
+    "target": "messi",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "golf",
+    "target": "pga",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "golf",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "pga",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "undergo",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "undergo",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "flooded",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "flooded",
+    "action": "add-edge"
+  },
+  {
+    "source": "graduation",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "golf",
+    "target": "merger",
+    "action": "add-edge"
+  },
+  {
+    "source": "pga",
+    "target": "merger",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "tabloid",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "tabloid",
+    "action": "add-edge"
+  },
+  {
+    "source": "smoke",
+    "target": "canada",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "canada",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rishi",
+    "action": "add-edge"
+  },
+  {
+    "source": "lionel",
+    "target": "inter",
+    "action": "add-edge"
+  },
+  {
+    "source": "messi",
+    "target": "inter",
+    "action": "add-edge"
+  },
+  {
+    "source": "hacked",
+    "target": "phone",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "miami",
+    "target": "inter",
+    "action": "add-edge"
+  },
+  {
+    "source": "abdominal",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwandan",
+    "target": "dementia",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "dementia",
+    "action": "add-edge"
+  },
+  {
+    "source": "genocide",
+    "target": "dementia",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "deployment",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "air",
+    "action": "add-edge"
+  },
+  {
+    "source": "graduation",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "destroyed",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dam",
+    "target": "breach",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "breach",
+    "action": "add-edge"
+  },
+  {
+    "source": "kakhovka",
+    "target": "destruction",
+    "action": "add-edge"
+  }
+]
