@@ -1,0 +1,940 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "johnson",
+    "weight": 27,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "boris",
+    "weight": 26,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indicted",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dam",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "knife",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "greta",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cuba",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "backpack",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "case",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "quits",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mp",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "annecy",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "partygate",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hero",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "justice",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lago",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tactical",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "graduates",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmaker",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ethiopia",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "seoul",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "striking",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "supplies",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "billion",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "documents",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "boris",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "quits",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "quits",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "mp",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "mp",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "case",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "cuba",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "cuba",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "quits",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "graduates",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "graduates",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "resigns",
+    "target": "mp",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "ethiopia",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "ethiopia",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "graduates",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "hero",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "knife",
+    "action": "add-edge"
+  },
+  {
+    "source": "knife",
+    "target": "hero",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "backpack",
+    "action": "add-edge"
+  },
+  {
+    "source": "knife",
+    "target": "backpack",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "lago",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "lago",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "seoul",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "seoul",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ethiopia",
+    "target": "supplies",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "annecy",
+    "action": "add-edge"
+  },
+  {
+    "source": "knife",
+    "target": "annecy",
+    "action": "add-edge"
+  },
+  {
+    "source": "quits",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "justice",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "justice",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "billion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "backpack",
+    "target": "hero",
+    "action": "add-edge"
+  }
+]
