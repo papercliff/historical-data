@@ -1,0 +1,946 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 33,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 29,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "jungle",
+    "weight": 24,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "colombian",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "johnson",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "unabomber",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "alive",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "lost",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "boris",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "colombia",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kaczynski",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "amazon",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "ted",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "lgbtq",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "survived",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "stabbing",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "explosives",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "actions",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "reactor",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pride",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "parade",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "desantis",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "exit",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "blast",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "public",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "defensive",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bombshell",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "intense",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "confiscates",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "exiles",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "nicaragua",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "toddlers",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "children",
+    "target": "jungle",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "jungle",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "colombian",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "colombian",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "colombian",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "kaczynski",
+    "target": "ted",
+    "action": "add-edge"
+  },
+  {
+    "source": "unabomber",
+    "target": "kaczynski",
+    "action": "add-edge"
+  },
+  {
+    "source": "unabomber",
+    "target": "ted",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "kaczynski",
+    "action": "add-edge"
+  },
+  {
+    "source": "unabomber",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "ted",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "flooding",
+    "target": "reactor",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "reactor",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "reactor",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "boris",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombian",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombian",
+    "target": "alive",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombian",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "survived",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "survived",
+    "action": "add-edge"
+  },
+  {
+    "source": "lost",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "survived",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "actions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "actions",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "stabbing",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombian",
+    "target": "survived",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "alive",
+    "target": "lost",
+    "action": "add-edge"
+  },
+  {
+    "source": "colombian",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "alive",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "explosives",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "explosives",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "actions",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "actions",
+    "target": "defensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "defensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "defensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "murder",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "bombshell",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "bombshell",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "bombshell",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "exit",
+    "target": "bombshell",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "exit",
+    "action": "add-edge"
+  },
+  {
+    "source": "flooding",
+    "target": "intense",
+    "action": "add-edge"
+  },
+  {
+    "source": "reactor",
+    "target": "intense",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "intense",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "intense",
+    "action": "add-edge"
+  },
+  {
+    "source": "confiscates",
+    "target": "nicaragua",
+    "action": "add-edge"
+  },
+  {
+    "source": "confiscates",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "nicaragua",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "exiles",
+    "target": "nicaragua",
+    "action": "add-edge"
+  },
+  {
+    "source": "exiles",
+    "target": "opposition",
+    "action": "add-edge"
+  },
+  {
+    "source": "confiscates",
+    "target": "exiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "pride",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "toddlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "stabbing",
+    "target": "toddlers",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "desantis",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "desantis",
+    "action": "add-edge"
+  },
+  {
+    "source": "counteroffensive",
+    "target": "trudeau",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "jungle",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "lgbtq",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "public",
+    "action": "add-edge"
+  }
+]
