@@ -1,0 +1,962 @@
+[
+  {
+    "story": "arrested-nicola-sturgeon",
+    "articles": 57,
+    "agencies": 22
+  },
+  {
+    "story": "nicola-scottish-sturgeon",
+    "articles": 52,
+    "agencies": 12
+  },
+  {
+    "story": "arrested-scottish-sturgeon",
+    "articles": 41,
+    "agencies": 12
+  },
+  {
+    "story": "arrested-nicola-scottish",
+    "articles": 41,
+    "agencies": 12
+  },
+  {
+    "story": "children-colombian-jungle",
+    "articles": 22,
+    "agencies": 9
+  },
+  {
+    "story": "nicola-scotland-sturgeon",
+    "articles": 15,
+    "agencies": 9
+  },
+  {
+    "story": "arrested-scotland-sturgeon",
+    "articles": 14,
+    "agencies": 9
+  },
+  {
+    "story": "arrested-nicola-scotland",
+    "articles": 14,
+    "agencies": 9
+  },
+  {
+    "story": "kaczynski-ted-unabomber",
+    "articles": 14,
+    "agencies": 9
+  },
+  {
+    "story": "nicola-police-sturgeon",
+    "articles": 36,
+    "agencies": 8
+  },
+  {
+    "story": "children-jungle-survived",
+    "articles": 18,
+    "agencies": 8
+  },
+  {
+    "story": "china-cuba-spy",
+    "articles": 10,
+    "agencies": 8
+  },
+  {
+    "story": "arrested-police-sturgeon",
+    "articles": 35,
+    "agencies": 7
+  },
+  {
+    "story": "arrested-nicola-police",
+    "articles": 35,
+    "agencies": 7
+  },
+  {
+    "story": "children-colombian-survived",
+    "articles": 17,
+    "agencies": 7
+  },
+  {
+    "story": "nicola-police-scottish",
+    "articles": 34,
+    "agencies": 6
+  },
+  {
+    "story": "police-scottish-sturgeon",
+    "articles": 34,
+    "agencies": 6
+  },
+  {
+    "story": "arrested-police-scottish",
+    "articles": 34,
+    "agencies": 6
+  },
+  {
+    "story": "collapse-dam-ukraine",
+    "articles": 32,
+    "agencies": 6
+  },
+  {
+    "story": "eu-montenegro-parliamentary",
+    "articles": 19,
+    "agencies": 6
+  },
+  {
+    "story": "colombian-jungle-survived",
+    "articles": 16,
+    "agencies": 6
+  },
+  {
+    "story": "kaczynski-suicide-unabomber",
+    "articles": 10,
+    "agencies": 6
+  },
+  {
+    "story": "kaczynski-suicide-ted",
+    "articles": 10,
+    "agencies": 6
+  },
+  {
+    "story": "suicide-ted-unabomber",
+    "articles": 10,
+    "agencies": 6
+  },
+  {
+    "story": "embassy-honduras-taiwan",
+    "articles": 36,
+    "agencies": 5
+  },
+  {
+    "story": "china-honduras-taiwan",
+    "articles": 36,
+    "agencies": 5
+  },
+  {
+    "story": "china-embassy-honduras",
+    "articles": 36,
+    "agencies": 5
+  },
+  {
+    "story": "china-embassy-taiwan",
+    "articles": 36,
+    "agencies": 5
+  },
+  {
+    "story": "australia-bus-crash",
+    "articles": 26,
+    "agencies": 5
+  },
+  {
+    "story": "boat-egypt-tourists",
+    "articles": 19,
+    "agencies": 5
+  },
+  {
+    "story": "attacks-russia-ukraine",
+    "articles": 19,
+    "agencies": 5
+  },
+  {
+    "story": "attacks-recaptured-russia",
+    "articles": 19,
+    "agencies": 5
+  },
+  {
+    "story": "recaptured-russia-ukraine",
+    "articles": 19,
+    "agencies": 5
+  },
+  {
+    "story": "attacks-recaptured-ukraine",
+    "articles": 19,
+    "agencies": 5
+  },
+  {
+    "story": "election-eu-montenegro",
+    "articles": 18,
+    "agencies": 5
+  },
+  {
+    "story": "election-eu-parliamentary",
+    "articles": 18,
+    "agencies": 5
+  },
+  {
+    "story": "earthquake-johannesburg-south",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "africa-earthquake-johannesburg",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "africa-earthquake-south",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "africa-johannesburg-south",
+    "articles": 12,
+    "agencies": 5
+  },
+  {
+    "story": "children-crash-survived",
+    "articles": 8,
+    "agencies": 5
+  },
+  {
+    "story": "died-kaczynski-unabomber",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "died-suicide-unabomber",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "djokovic-novak-slam",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "died-kaczynski-suicide",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "died-kaczynski-ted",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "died-suicide-ted",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "died-ted-unabomber",
+    "articles": 7,
+    "agencies": 5
+  },
+  {
+    "story": "catastrophe-dam-disaster",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "catastrophe-dam-ukraine",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "catastrophe-collapse-disaster",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "catastrophe-collapse-ukraine",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "collapse-disaster-ukraine",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "collapse-dam-disaster",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "dam-disaster-ukraine",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "catastrophe-disaster-ukraine",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "catastrophe-collapse-dam",
+    "articles": 30,
+    "agencies": 4
+  },
+  {
+    "story": "hungarian-injured-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "attacks-repelling-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-injured-shepherd",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-injured-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-shepherd-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "recaptured-repelling-russia",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "repelling-russia-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "bus-crash-police",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "attacks-recaptured-repelling",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-hungarian-shepherd",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-hungarian-injured",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "german-hungarian-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "attacks-repelling-russia",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "injured-shepherd-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "hungarian-injured-shepherd",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "hungarian-shepherd-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "recaptured-repelling-ukraine",
+    "articles": 18,
+    "agencies": 4
+  },
+  {
+    "story": "election-montenegro-parliamentary",
+    "articles": 17,
+    "agencies": 4
+  },
+  {
+    "story": "boat-sea-tourists",
+    "articles": 17,
+    "agencies": 4
+  },
+  {
+    "story": "russia-ukraine-war",
+    "articles": 16,
+    "agencies": 4
+  },
+  {
+    "story": "bus-crash-killed",
+    "articles": 14,
+    "agencies": 4
+  },
+  {
+    "story": "colombian-harrowing-jungle",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "colombian-harrowing-survived",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "children-colombian-harrowing",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "harrowing-jungle-survived",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "children-harrowing-jungle",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "children-harrowing-survived",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "montenegro-parliamentary-snap",
+    "articles": 13,
+    "agencies": 4
+  },
+  {
+    "story": "bus-crash-wedding",
+    "articles": 12,
+    "agencies": 4
+  },
+  {
+    "story": "boat-egypt-missing",
+    "articles": 6,
+    "agencies": 4
+  },
+  {
+    "story": "donald-indictment-trump",
+    "articles": 6,
+    "agencies": 4
+  },
+  {
+    "story": "boat-missing-tourists",
+    "articles": 5,
+    "agencies": 4
+  },
+  {
+    "story": "children-colombia-jungle",
+    "articles": 5,
+    "agencies": 4
+  },
+  {
+    "story": "collapses-highway-philadelphia",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "dead-france-shot",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "aid-eu-tunisia",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "offensive-ukraine-villages",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "federal-indictment-trump",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "election-johnson-opposition",
+    "articles": 4,
+    "agencies": 4
+  },
+  {
+    "story": "leaders-migration-tunisia",
+    "articles": 55,
+    "agencies": 3
+  },
+  {
+    "story": "european-leaders-tunisia",
+    "articles": 33,
+    "agencies": 3
+  },
+  {
+    "story": "aid-migration-tunisia",
+    "articles": 30,
+    "agencies": 3
+  },
+  {
+    "story": "ambassador-korean-seoul",
+    "articles": 24,
+    "agencies": 3
+  },
+  {
+    "story": "ambassador-beijing-seoul",
+    "articles": 24,
+    "agencies": 3
+  },
+  {
+    "story": "ambassador-beijing-korean",
+    "articles": 24,
+    "agencies": 3
+  },
+  {
+    "story": "ambassador-korean-seoul",
+    "articles": 24,
+    "agencies": 3
+  },
+  {
+    "story": "damage-earthquake-japan",
+    "articles": 21,
+    "agencies": 3
+  },
+  {
+    "story": "damage-earthquake-rattles",
+    "articles": 21,
+    "agencies": 3
+  },
+  {
+    "story": "damage-japan-rattles",
+    "articles": 21,
+    "agencies": 3
+  },
+  {
+    "story": "earthquake-japan-rattles",
+    "articles": 21,
+    "agencies": 3
+  },
+  {
+    "story": "australia-crash-police",
+    "articles": 17,
+    "agencies": 3
+  },
+  {
+    "story": "australia-bus-police",
+    "articles": 17,
+    "agencies": 3
+  },
+  {
+    "story": "boat-egypt-sea",
+    "articles": 16,
+    "agencies": 3
+  },
+  {
+    "story": "coast-sea-tourists",
+    "articles": 16,
+    "agencies": 3
+  },
+  {
+    "story": "egypt-sea-tourists",
+    "articles": 16,
+    "agencies": 3
+  },
+  {
+    "story": "francis-hospitalized-pope",
+    "articles": 15,
+    "agencies": 3
+  },
+  {
+    "story": "election-parliamentary-snap",
+    "articles": 12,
+    "agencies": 3
+  },
+  {
+    "story": "eu-montenegro-snap",
+    "articles": 12,
+    "agencies": 3
+  },
+  {
+    "story": "election-montenegro-snap",
+    "articles": 12,
+    "agencies": 3
+  },
+  {
+    "story": "election-eu-snap",
+    "articles": 12,
+    "agencies": 3
+  },
+  {
+    "story": "eu-parliamentary-snap",
+    "articles": 12,
+    "agencies": 3
+  },
+  {
+    "story": "children-playground-stabbing",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "families-playground-stabbing",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "families-stabbing-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "families-playground-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "children-stabbing-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "children-playground-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "playground-stabbing-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "children-families-stabbing",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "children-families-playground",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "children-families-wounded",
+    "articles": 11,
+    "agencies": 3
+  },
+  {
+    "story": "city-earthquake-johannesburg",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "africa-city-south",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "africa-city-johannesburg",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "africa-city-earthquake",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "australia-bus-killed",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "city-johannesburg-south",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "city-earthquake-south",
+    "articles": 10,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-cows-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-evacuated-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-philippine-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-evacuated-philippine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "evacuated-philippine-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-cows-evacuated",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "cows-evacuated-philippine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "cows-evacuated-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "cows-philippine-volcano",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "buffaloes-cows-philippine",
+    "articles": 8,
+    "agencies": 3
+  },
+  {
+    "story": "bus-crash-driver",
+    "articles": 7,
+    "agencies": 3
+  },
+  {
+    "story": "crash-plane-survived",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "children-crash-plane",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "children-forest-survived",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "collapses-philadelphia-vehicle",
+    "articles": 6,
+    "agencies": 3
+  },
+  {
+    "story": "detained-leake-travis",
+    "articles": 5,
+    "agencies": 3
+  },
+  {
+    "story": "boat-flames-missing",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "egypt-missing-tourists",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "children-jungle-plane",
+    "articles": 4,
+    "agencies": 3
+  },
+  {
+    "story": "baseless-rifts-taliban",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "faint-prince-william",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "baseless-indictment-trump",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "baseless-conflict-taliban",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "baseless-conflict-rifts",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "farce-johnson-opposition",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "hospitalized-medical-pope",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "conflict-rifts-taliban",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "caribbean-sodomy-won",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "hospitalized-lunches-pope",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "election-farce-johnson",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "election-farce-opposition",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "china-cuba-spying",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "francis-lunches-pope",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "francis-medical-pope",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "hospitalized-lunches-medical",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "documents-judge-lago",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "activist-sodomy-won",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "collapses-highway-tanker",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "children-jungle-reunited",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "missing-sea-tourists",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "lunches-medical-pope",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "activist-caribbean-won",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "montenegro-parliamentary-vote",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "activist-caribbean-sodomy",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "police-scotland-sturgeon",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "arabia-china-saudi",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "children-colombian-plane",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "killed-shooting-stockholm",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "francis-hospitalized-lunches",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "child-dies-flight",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "iran-nuclear-west",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "eu-parliamentary-vote",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "francis-hospitalized-medical",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "ceasefire-fighting-sudan",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "investigation-nicola-sturgeon",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "francis-lunches-medical",
+    "articles": 3,
+    "agencies": 3
+  },
+  {
+    "story": "iran-khamenei-nuclear",
+    "articles": 3,
+    "agencies": 3
+  }
+]
