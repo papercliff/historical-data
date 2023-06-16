@@ -1,0 +1,923 @@
+[
+  {
+    "id": "greece",
+    "weight": 28,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 27,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 26,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "boris",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 25,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 23,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "misled",
+    "weight": 22,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "johnson",
+    "weight": 20,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 17,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 17,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 16,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "partygate",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclone",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 14,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "castle",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "shipwreck",
+    "weight": 13,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "billion",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "glenda",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jackson",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "biparjoy",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "oscar",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ballistic",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "budget",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "holocaust",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "allegations",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "senator",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sinking",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "landfall",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "actress",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "baja",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "misconduct",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "neuschwanstein",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sank",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "feared",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "stoltenberg",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnapped",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sur",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "imf",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "boris",
+    "target": "johnson",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "boris",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "johnson",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "misled",
+    "action": "add-edge"
+  },
+  {
+    "source": "misled",
+    "target": "johnson",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "misled",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "misled",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "shipwreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "shipwreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "glenda",
+    "target": "jackson",
+    "action": "add-edge"
+  },
+  {
+    "source": "glenda",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "source": "jackson",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "billion",
+    "action": "add-edge"
+  },
+  {
+    "source": "billion",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "glenda",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "jackson",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "biparjoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "biparjoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "cyclone",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "billion",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "holocaust",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "oscar",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "misled",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "ballistic",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "glenda",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "jackson",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "castle",
+    "action": "add-edge"
+  },
+  {
+    "source": "castle",
+    "target": "neuschwanstein",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "neuschwanstein",
+    "action": "add-edge"
+  },
+  {
+    "source": "biparjoy",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "stoltenberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "support",
+    "target": "stoltenberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "sinking",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "sinking",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "sinking",
+    "action": "add-edge"
+  },
+  {
+    "source": "ballistic",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "kidnapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "kidnapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "kosovo",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "baja",
+    "action": "add-edge"
+  },
+  {
+    "source": "baja",
+    "target": "sur",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "sur",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "allegations",
+    "action": "add-edge"
+  },
+  {
+    "source": "senator",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "senator",
+    "action": "add-edge"
+  },
+  {
+    "source": "allegations",
+    "target": "senator",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "allegations",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "budget",
+    "target": "imf",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "budget",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imf",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "baja",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "sur",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "migrants",
+    "action": "add-edge"
+  }
+]
