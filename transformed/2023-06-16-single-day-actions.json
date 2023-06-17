@@ -1,0 +1,1173 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 25,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 21,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 19,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 19,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 19,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bus",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 18,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "surgery",
+    "weight": 15,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ellsberg",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclone",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 12,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "age",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "consent",
+    "weight": 12,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "american",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "castle",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "shipwreck",
+    "weight": 10,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 10,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "biparjoy",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "seniors",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rome",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jinping",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "gates",
+    "weight": 9,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tornado",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "landfall",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "truck",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "meghan",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "cyclist",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "floyd",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "feared",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "minneapolis",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hernia",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "secrets",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "whistleblower",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "harry",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "spotify",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "suisse",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vietnam",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "condemns",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "daniel",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "leaked",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "casino",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "poverty",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "abdominal",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "source": "hospital",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "age",
+    "target": "consent",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "age",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "consent",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "biparjoy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biparjoy",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "ellsberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "ellsberg",
+    "target": "whistleblower",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "whistleblower",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "ellsberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "whistleblower",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "harry",
+    "target": "spotify",
+    "action": "add-edge"
+  },
+  {
+    "source": "meghan",
+    "target": "spotify",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "jinping",
+    "target": "gates",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "gates",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "gates",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "peace",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "ellsberg",
+    "target": "secrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ellsberg",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "secrets",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "meghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "spotify",
+    "action": "add-edge"
+  },
+  {
+    "source": "prince",
+    "target": "harry",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "seniors",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "seniors",
+    "target": "truck",
+    "action": "add-edge"
+  },
+  {
+    "source": "ellsberg",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "american",
+    "target": "castle",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "american",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "castle",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "rome",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "shipwreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "shipwreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "ellsberg",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "secrets",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "cyclist",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "suisse",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclist",
+    "target": "suisse",
+    "action": "add-edge"
+  },
+  {
+    "source": "pentagon",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "floyd",
+    "target": "minneapolis",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "floyd",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "minneapolis",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "hernia",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bus",
+    "target": "casino",
+    "action": "add-edge"
+  },
+  {
+    "source": "seniors",
+    "target": "casino",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "tornado",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "tornado",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "poverty",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "poverty",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "poverty",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "tornado",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "whistleblower",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "tornado",
+    "action": "add-edge"
+  },
+  {
+    "source": "american",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "castle",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "tensions",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "shipwreck",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "secrets",
+    "target": "leaked",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "gates",
+    "action": "add-edge"
+  },
+  {
+    "source": "chinese",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "abdominal",
+    "action": "add-edge"
+  },
+  {
+    "source": "biparjoy",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyclone",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "cyclist",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "suisse",
+    "action": "add-edge"
+  },
+  {
+    "source": "mission",
+    "target": "leaders",
+    "action": "add-edge"
+  }
+]
