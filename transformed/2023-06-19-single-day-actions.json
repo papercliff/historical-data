@@ -1,0 +1,1525 @@
+[
+  {
+    "id": "china",
+    "weight": 34,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "titanic",
+    "weight": 32,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 31,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 27,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 20,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "navalny",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 18,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "boris",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "submersible",
+    "weight": 18,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "submarine",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "johnson",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "search",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "tourist",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 14,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "underway",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 13,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "atlantic",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "partygate",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dam",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sub",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "referendum",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "indigenous",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jinping",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wreckage",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "meets",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "restaurants",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "opens",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jenin",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "mps",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wreck",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "axe",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "report",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "qatar",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "antony",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "raid",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "extremism",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "ocean",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "refugees",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmakers",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "senate",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sank",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "traffickers",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "diners",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "billionaire",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "uae",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "progress",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "continent",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "zealand",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "replaces",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hamish",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "embassies",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "cabinet",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "warming",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "shortcoming",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shakeup",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "harding",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "reopen",
+    "weight": 4,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "appoints",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "defends",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "fastest",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "china",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "johnson",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "partygate",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "submarine",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "atlantic",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "atlantic",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "search",
+    "target": "underway",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "underway",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "search",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "underway",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "mps",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "mps",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "search",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "launch",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "traffickers",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "traffickers",
+    "action": "add-edge"
+  },
+  {
+    "source": "referendum",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "referendum",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "axe",
+    "target": "diners",
+    "action": "add-edge"
+  },
+  {
+    "source": "restaurants",
+    "target": "axe",
+    "action": "add-edge"
+  },
+  {
+    "source": "restaurants",
+    "target": "diners",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "indigenous",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "referendum",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "partygate",
+    "target": "mps",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "partygate",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "dam",
+    "action": "add-edge"
+  },
+  {
+    "source": "atlantic",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "boris",
+    "target": "report",
+    "action": "add-edge"
+  },
+  {
+    "source": "johnson",
+    "target": "report",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "tourist",
+    "action": "add-edge"
+  },
+  {
+    "source": "axe",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "restaurants",
+    "target": "zealand",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "underway",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "embassies",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "embassies",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "uae",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "wreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "wreck",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "opens",
+    "action": "add-edge"
+  },
+  {
+    "source": "opens",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "underway",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "opens",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "opens",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "antony",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "antony",
+    "action": "add-edge"
+  },
+  {
+    "source": "partygate",
+    "target": "report",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "progress",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "progress",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "refugees",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugees",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "report",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "launch",
+    "target": "shortcoming",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "shortcoming",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "shortcoming",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "shortcoming",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "sank",
+    "target": "traffickers",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "wounded",
+    "target": "diners",
+    "action": "add-edge"
+  },
+  {
+    "source": "restaurants",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "replaces",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "replaces",
+    "action": "add-edge"
+  },
+  {
+    "source": "axe",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "sub",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourist",
+    "target": "sub",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "replaces",
+    "target": "shakeup",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "shakeup",
+    "action": "add-edge"
+  },
+  {
+    "source": "billionaire",
+    "target": "hamish",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "billionaire",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "hamish",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "senate",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "senate",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "referendum",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "billionaire",
+    "target": "harding",
+    "action": "add-edge"
+  },
+  {
+    "source": "hamish",
+    "target": "harding",
+    "action": "add-edge"
+  },
+  {
+    "source": "indigenous",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassies",
+    "target": "reopen",
+    "action": "add-edge"
+  },
+  {
+    "source": "qatar",
+    "target": "reopen",
+    "action": "add-edge"
+  },
+  {
+    "source": "uae",
+    "target": "reopen",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "cabinet",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "cabinet",
+    "target": "appoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "appoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "appoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "appoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "fastest",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "warming",
+    "action": "add-edge"
+  },
+  {
+    "source": "warming",
+    "target": "fastest",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourist",
+    "target": "atlantic",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "fastest",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "warming",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "continent",
+    "action": "add-edge"
+  },
+  {
+    "source": "continent",
+    "target": "warming",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "continent",
+    "action": "add-edge"
+  },
+  {
+    "source": "continent",
+    "target": "fastest",
+    "action": "add-edge"
+  },
+  {
+    "source": "axe",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "restaurants",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "navalny",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "wreckage",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "wreckage",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "antony",
+    "action": "add-edge"
+  },
+  {
+    "source": "extremism",
+    "target": "defends",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "defends",
+    "action": "add-edge"
+  }
+]
