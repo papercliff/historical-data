@@ -1,0 +1,949 @@
+[
+  {
+    "id": "russian",
+    "weight": 30,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "titanic",
+    "weight": 29,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "titan",
+    "weight": 27,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "implosion",
+    "weight": 26,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "submersible",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cameron",
+    "weight": 17,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "catastrophic",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sub",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomat",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "coast",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "tragedy",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "probe",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "deep",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "father",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenary",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "armed",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "watchdog",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rebellion",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "threats",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dawood",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "infighting",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "dysfunction",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "airfield",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "family",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sank",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistanis",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "shahzada",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "graves",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "thais",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "voter",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "carrier",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "threatens",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vietnam",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "director",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "interference",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "embassy",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "implosion",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "implosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "implosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "implosion",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "implosion",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "infighting",
+    "target": "dysfunction",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "dysfunction",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "infighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "probe",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "graves",
+    "action": "add-edge"
+  },
+  {
+    "source": "graves",
+    "target": "thais",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "thais",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "graves",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "malaysia",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "thais",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trafficking",
+    "target": "thais",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "graves",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "voter",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "watchdog",
+    "target": "voter",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "titan",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "deep",
+    "action": "add-edge"
+  },
+  {
+    "source": "deep",
+    "target": "dysfunction",
+    "action": "add-edge"
+  },
+  {
+    "source": "deep",
+    "target": "infighting",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "sank",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "tragedy",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "tragedy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "threats",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "probe",
+    "action": "add-edge"
+  },
+  {
+    "source": "father",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "family",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "sank",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "voter",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "pakistanis",
+    "action": "add-edge"
+  },
+  {
+    "source": "implosion",
+    "target": "sub",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "sub",
+    "action": "add-edge"
+  },
+  {
+    "source": "chief",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "dawood",
+    "target": "shahzada",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "dawood",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "shahzada",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "cameron",
+    "target": "sub",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "cameron",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "carrier",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "carrier",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "carrier",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "serbia",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "threatens",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "cameron",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "cameron",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "cameron",
+    "target": "director",
+    "action": "add-edge"
+  },
+  {
+    "source": "titanic",
+    "target": "director",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "submersible",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "airfield",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "airfield",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "interference",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "interference",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "sanctions",
+    "action": "add-edge"
+  }
+]
