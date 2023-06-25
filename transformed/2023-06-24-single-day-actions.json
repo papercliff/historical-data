@@ -1,0 +1,862 @@
+[
+  {
+    "id": "wagner",
+    "weight": 42,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 39,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 39,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 33,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rebellion",
+    "weight": 29,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenary",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "armed",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rostov",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "group",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "lab",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "treason",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "yevgeny",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "evidence",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "fighters",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "troops",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wuhan",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "betrayal",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "egypt",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "stab",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "generals",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "uprising",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "defend",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rebelling",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "accused",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fled",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "origins",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "checkpoint",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "lab",
+    "action": "add-edge"
+  },
+  {
+    "source": "lab",
+    "target": "evidence",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "treason",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "treason",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "wuhan",
+    "action": "add-edge"
+  },
+  {
+    "source": "lab",
+    "target": "wuhan",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rostov",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "rostov",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "betrayal",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "betrayal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "rostov",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "rostov",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "stab",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "stab",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "evidence",
+    "target": "wuhan",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "betrayal",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "defend",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "defend",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "defend",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "checkpoint",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "checkpoint",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "treason",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "rebelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "rebelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "egypt",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "troops",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "group",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "group",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "fled",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "fled",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "origins",
+    "action": "add-edge"
+  },
+  {
+    "source": "lab",
+    "target": "origins",
+    "action": "add-edge"
+  }
+]
