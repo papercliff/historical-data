@@ -1,0 +1,890 @@
+[
+  {
+    "id": "russia",
+    "weight": 37,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 34,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 32,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rebellion",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "revolt",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenary",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "conservative",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "exile",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "coaster",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "roller",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "victory",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "guatemalans",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cracks",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "conservatives",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "landslide",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "armed",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "electoral",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "derails",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomat",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "julian",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sands",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "worker",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prosperous",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "park",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "undermines",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "comfortable",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "actor",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "remains",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "amusement",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "coaster",
+    "target": "roller",
+    "action": "add-edge"
+  },
+  {
+    "source": "coaster",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "roller",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "guatemalans",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "guatemalans",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "revolt",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "cracks",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "cracks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "guatemalans",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "vote",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "prosperous",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "prosperous",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "conservatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "conservatives",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenaries",
+    "target": "undermines",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "undermines",
+    "action": "add-edge"
+  },
+  {
+    "source": "revolt",
+    "target": "undermines",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "undermines",
+    "action": "add-edge"
+  },
+  {
+    "source": "coaster",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "roller",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "diplomat",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "cracks",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "vote",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "prosperous",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "comfortable",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "comfortable",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "conservative",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "conservative",
+    "action": "add-edge"
+  },
+  {
+    "source": "julian",
+    "target": "actor",
+    "action": "add-edge"
+  },
+  {
+    "source": "sands",
+    "target": "actor",
+    "action": "add-edge"
+  },
+  {
+    "source": "julian",
+    "target": "sands",
+    "action": "add-edge"
+  },
+  {
+    "source": "coaster",
+    "target": "amusement",
+    "action": "add-edge"
+  },
+  {
+    "source": "roller",
+    "target": "amusement",
+    "action": "add-edge"
+  },
+  {
+    "source": "derails",
+    "target": "amusement",
+    "action": "add-edge"
+  },
+  {
+    "source": "coaster",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "park",
+    "target": "amusement",
+    "action": "add-edge"
+  },
+  {
+    "source": "derails",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "roller",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "victory",
+    "action": "add-edge"
+  },
+  {
+    "source": "victory",
+    "target": "landslide",
+    "action": "add-edge"
+  },
+  {
+    "source": "julian",
+    "target": "remains",
+    "action": "add-edge"
+  },
+  {
+    "source": "sands",
+    "target": "remains",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "worker",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "cracks",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "prigozhin",
+    "action": "add-edge"
+  }
+]
