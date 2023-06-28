@@ -1,0 +1,722 @@
+[
+  {
+    "id": "russia",
+    "weight": 38,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 37,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 31,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 25,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rebellion",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "epstein",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lukashenko",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "civilians",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tape",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "detainees",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "audio",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "leone",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "gold",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tortured",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "misconduct",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "negligence",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "executed",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jeffrey",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drops",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sierra",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "group",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "secret",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jet",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "runoff",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "conversation",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "epstein",
+    "target": "negligence",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "epstein",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "negligence",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "drops",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drops",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "epstein",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "misconduct",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "lukashenko",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "lukashenko",
+    "action": "add-edge"
+  },
+  {
+    "source": "epstein",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "drops",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "gold",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "gold",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "secret",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "tape",
+    "action": "add-edge"
+  },
+  {
+    "source": "tape",
+    "target": "secret",
+    "action": "add-edge"
+  },
+  {
+    "source": "misconduct",
+    "target": "negligence",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "drops",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "leone",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "leone",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "leone",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "civilians",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "tape",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detainees",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "detainees",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "group",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "group",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "sierra",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "leone",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "runoff",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tortured",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tortured",
+    "action": "add-edge"
+  },
+  {
+    "source": "negligence",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "civilians",
+    "target": "tortured",
+    "action": "add-edge"
+  },
+  {
+    "source": "tortured",
+    "target": "executed",
+    "action": "add-edge"
+  },
+  {
+    "source": "misconduct",
+    "target": "jeffrey",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "secret",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "tortured",
+    "action": "add-edge"
+  },
+  {
+    "source": "detainees",
+    "target": "tortured",
+    "action": "add-edge"
+  },
+  {
+    "source": "detainees",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "audio",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "audio",
+    "target": "conversation",
+    "action": "add-edge"
+  },
+  {
+    "source": "classified",
+    "target": "conversation",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "conversation",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "audio",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "civilians",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "executed",
+    "target": "detained",
+    "action": "add-edge"
+  }
+]
