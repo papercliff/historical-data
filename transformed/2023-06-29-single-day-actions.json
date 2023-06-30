@@ -1,0 +1,965 @@
+[
+  {
+    "id": "police",
+    "weight": 31,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 28,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 25,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 20,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "admissions",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rwanda",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "race",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "affirmative",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "generals",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "officers",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "remains",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "unlawful",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "unrest",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "violent",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutor",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "titan",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rebellion",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "parkland",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "leg",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "quran",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tsipras",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "college",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "koreans",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "recovered",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "baghdad",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bans",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rumours",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "homicide",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "younger",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wreckage",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sleep",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "acquitted",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "appeals",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ages",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "amputated",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "alexis",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "weekend",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "submersible",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "deputy",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "police",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "unlawful",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "unlawful",
+    "action": "add-edge"
+  },
+  {
+    "source": "seekers",
+    "target": "unlawful",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "admissions",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "admissions",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "admissions",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "admissions",
+    "target": "affirmative",
+    "action": "add-edge"
+  },
+  {
+    "source": "admissions",
+    "target": "college",
+    "action": "add-edge"
+  },
+  {
+    "source": "affirmative",
+    "target": "college",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "affirmative",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "affirmative",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "violent",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "violent",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "rwanda",
+    "action": "add-edge"
+  },
+  {
+    "source": "admissions",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "race",
+    "target": "bans",
+    "action": "add-edge"
+  },
+  {
+    "source": "rwanda",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "seekers",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "unlawful",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "college",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "koreans",
+    "target": "ages",
+    "action": "add-edge"
+  },
+  {
+    "source": "younger",
+    "target": "ages",
+    "action": "add-edge"
+  },
+  {
+    "source": "koreans",
+    "target": "younger",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "koreans",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "younger",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "ages",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "remains",
+    "target": "recovered",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "recovered",
+    "action": "add-edge"
+  },
+  {
+    "source": "remains",
+    "target": "titan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "generals",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rebellion",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "tsipras",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsipras",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "tsipras",
+    "action": "add-edge"
+  },
+  {
+    "source": "generals",
+    "target": "rumours",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rumours",
+    "action": "add-edge"
+  },
+  {
+    "source": "parkland",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "parkland",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "mutiny",
+    "target": "rumours",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "prosecutor",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutor",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "acquitted",
+    "target": "deputy",
+    "action": "add-edge"
+  },
+  {
+    "source": "parkland",
+    "target": "deputy",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "officer",
+    "target": "homicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "homicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "race",
+    "target": "affirmative",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "leg",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "leg",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "amputated",
+    "action": "add-edge"
+  },
+  {
+    "source": "leg",
+    "target": "amputated",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "officers",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "alexis",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsipras",
+    "target": "alexis",
+    "action": "add-edge"
+  },
+  {
+    "source": "recovered",
+    "target": "wreckage",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "wreckage",
+    "action": "add-edge"
+  },
+  {
+    "source": "remains",
+    "target": "wreckage",
+    "action": "add-edge"
+  },
+  {
+    "source": "generals",
+    "target": "weekend",
+    "action": "add-edge"
+  },
+  {
+    "source": "rebellion",
+    "target": "weekend",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "weekend",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "remains",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "titan",
+    "target": "submersible",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "sleep",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "baghdad",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "baghdad",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "quran",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "quran",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "deputy",
+    "action": "add-edge"
+  },
+  {
+    "source": "teen",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "baghdad",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "generals",
+    "action": "add-edge"
+  }
+]
