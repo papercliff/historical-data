@@ -1,0 +1,1084 @@
+[
+  {
+    "id": "france",
+    "weight": 32,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 16,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dutch",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "slavery",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "wounded",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kenya",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rioting",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fatally",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "rioters",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "apologizes",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "racism",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "people",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "funeral",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mexican",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "abolition",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnapping",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "accident",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "armed",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "teenager",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "building",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "camp",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "moldova",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "social",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tajik",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bosnia",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "serb",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "buried",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "fighters",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "apologises",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "netherlands",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bishop",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "gusmao",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "independence",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "timor",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "argentine",
+    "weight": 4,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "law",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "annul",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bosnian",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "incumbent",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "leone",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sierra",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cartel",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "vigilante",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "brutality",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "source": "dutch",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "slavery",
+    "action": "add-edge"
+  },
+  {
+    "source": "slavery",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "abolition",
+    "action": "add-edge"
+  },
+  {
+    "source": "slavery",
+    "target": "abolition",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapping",
+    "target": "moldova",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "kidnapping",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "moldova",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapping",
+    "target": "tajik",
+    "action": "add-edge"
+  },
+  {
+    "source": "moldova",
+    "target": "tajik",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "tajik",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "kenya",
+    "action": "add-edge"
+  },
+  {
+    "source": "people",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "kenya",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "people",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "building",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "apologises",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "apologises",
+    "action": "add-edge"
+  },
+  {
+    "source": "slavery",
+    "target": "apologises",
+    "action": "add-edge"
+  },
+  {
+    "source": "fatally",
+    "target": "moldova",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "fatally",
+    "action": "add-edge"
+  },
+  {
+    "source": "fatally",
+    "target": "kidnapping",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "rioters",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "social",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "social",
+    "action": "add-edge"
+  },
+  {
+    "source": "fatally",
+    "target": "tajik",
+    "action": "add-edge"
+  },
+  {
+    "source": "gusmao",
+    "target": "independence",
+    "action": "add-edge"
+  },
+  {
+    "source": "gusmao",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "gusmao",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "independence",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "timor",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "argentine",
+    "action": "add-edge"
+  },
+  {
+    "source": "vatican",
+    "target": "argentine",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "argentine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "apologizes",
+    "target": "abolition",
+    "action": "add-edge"
+  },
+  {
+    "source": "slavery",
+    "target": "apologizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "bosnia",
+    "target": "law",
+    "action": "add-edge"
+  },
+  {
+    "source": "bosnia",
+    "target": "serb",
+    "action": "add-edge"
+  },
+  {
+    "source": "serb",
+    "target": "law",
+    "action": "add-edge"
+  },
+  {
+    "source": "bosnia",
+    "target": "bosnian",
+    "action": "add-edge"
+  },
+  {
+    "source": "serb",
+    "target": "bosnian",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "bosnian",
+    "action": "add-edge"
+  },
+  {
+    "source": "law",
+    "target": "annul",
+    "action": "add-edge"
+  },
+  {
+    "source": "serb",
+    "target": "annul",
+    "action": "add-edge"
+  },
+  {
+    "source": "bosnia",
+    "target": "annul",
+    "action": "add-edge"
+  },
+  {
+    "source": "annul",
+    "target": "bosnian",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "presidential",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "apologizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "leone",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "leone",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "incumbent",
+    "action": "add-edge"
+  },
+  {
+    "source": "incumbent",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "leone",
+    "action": "add-edge"
+  },
+  {
+    "source": "incumbent",
+    "target": "leone",
+    "action": "add-edge"
+  },
+  {
+    "source": "incumbent",
+    "target": "sierra",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "buried",
+    "action": "add-edge"
+  },
+  {
+    "source": "buried",
+    "target": "vigilante",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "vigilante",
+    "action": "add-edge"
+  },
+  {
+    "source": "buried",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "cartel",
+    "target": "vigilante",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexican",
+    "target": "armed",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "vigilante",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "buried",
+    "action": "add-edge"
+  },
+  {
+    "source": "armed",
+    "target": "cartel",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "apologizes",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "funeral",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "teenager",
+    "action": "add-edge"
+  },
+  {
+    "source": "funeral",
+    "target": "teenager",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "slavery",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "wounded",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "racism",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "racism",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "brutality",
+    "action": "add-edge"
+  },
+  {
+    "source": "racism",
+    "target": "brutality",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "racism",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "brutality",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "brutality",
+    "action": "add-edge"
+  }
+]
