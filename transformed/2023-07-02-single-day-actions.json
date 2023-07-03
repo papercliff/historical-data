@@ -1,0 +1,600 @@
+[
+  {
+    "id": "france",
+    "weight": 28,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 24,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "french",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "violence",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "baltimore",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rioting",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "european",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dozens",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mass",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "explodes",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crack",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "powers",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hotel",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "workers",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "finland",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "kyiv",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "violence",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "baltimore",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "baltimore",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "injured",
+    "action": "add-edge"
+  },
+  {
+    "source": "baltimore",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "dozens",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "teen",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "baltimore",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "european",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "violence",
+    "target": "rioting",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "explodes",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "explodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "crack",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "crack",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "crack",
+    "target": "powers",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "powers",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "powers",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "hotel",
+    "action": "add-edge"
+  },
+  {
+    "source": "hotel",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "baltimore",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "baltimore",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "french",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "french",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "finland",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "summit",
+    "action": "add-edge"
+  }
+]
