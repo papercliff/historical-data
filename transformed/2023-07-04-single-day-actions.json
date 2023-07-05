@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "russia",
+    "weight": 35,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 30,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 18,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 18,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "jenin",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chechnya",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "stoltenberg",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "activists",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "riots",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "reporter",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "aviv",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flee",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "beauty",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "salons",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "crisis",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "detained",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sco",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "white",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "foiled",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jens",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cocaine",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bounties",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mandate",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "life",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "threads",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rival",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "refugee",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "saakashvili",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "social",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "civilians",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "condemns",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meta",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crowdfunding",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "powder",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "milashina",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hands",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "hong",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "beauty",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalist",
+    "target": "chechnya",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "chechnya",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "foiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "foiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "foiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "jens",
+    "action": "add-edge"
+  },
+  {
+    "source": "stoltenberg",
+    "target": "jens",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "stoltenberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "bounties",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "bounties",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "stoltenberg",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "flee",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "flee",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "mandate",
+    "action": "add-edge"
+  },
+  {
+    "source": "stoltenberg",
+    "target": "mandate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "sco",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "sco",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "mandate",
+    "target": "hands",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "hands",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "hands",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "mandate",
+    "action": "add-edge"
+  },
+  {
+    "source": "stoltenberg",
+    "target": "hands",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "life",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "life",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "life",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "aviv",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "aviv",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "militants",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "civilians",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "teen",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "crisis",
+    "action": "add-edge"
+  },
+  {
+    "source": "teen",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "threads",
+    "action": "add-edge"
+  },
+  {
+    "source": "officer",
+    "target": "crowdfunding",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "crowdfunding",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "crowdfunding",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "rival",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "rival",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "rival",
+    "action": "add-edge"
+  },
+  {
+    "source": "detained",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "flee",
+    "action": "add-edge"
+  },
+  {
+    "source": "flee",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detained",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "cocaine",
+    "target": "powder",
+    "action": "add-edge"
+  },
+  {
+    "source": "white",
+    "target": "cocaine",
+    "action": "add-edge"
+  },
+  {
+    "source": "white",
+    "target": "powder",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "saakashvili",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "saakashvili",
+    "action": "add-edge"
+  },
+  {
+    "source": "protests",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "saakashvili",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "condemns",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "saakashvili",
+    "action": "add-edge"
+  },
+  {
+    "source": "chechnya",
+    "target": "milashina",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalist",
+    "target": "milashina",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "riots",
+    "action": "add-edge"
+  },
+  {
+    "source": "riots",
+    "target": "macron",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "foiled",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "social",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "social",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "cocaine",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "white",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "bank",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ukrainian",
+    "action": "add-edge"
+  }
+]
