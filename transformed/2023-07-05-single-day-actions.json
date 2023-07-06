@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 35,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 24,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 18,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinians",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jenin",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "day",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "july",
+    "weight": 13,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 13,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "cocaine",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "leak",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hottest",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "bank",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netherlands",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "raid",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "greta",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "thunberg",
+    "weight": 11,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "race",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "threads",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "white",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tankers",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "world",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "beijing",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "zaporizhzhia",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "coco",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "lee",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "meta",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ends",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "destruction",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "powder",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "plant",
+    "weight": 8,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "flights",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "refugee",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "disobeying",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "house",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "salons",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "philadelphia",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "debt",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "diplomat",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "accuse",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "withdrawal",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "militants",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "schiphol",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hormuz",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rockets",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shots",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hungary",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "monday",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "beauty",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "threads",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "disobeying",
+    "action": "add-edge"
+  },
+  {
+    "source": "thunberg",
+    "target": "disobeying",
+    "action": "add-edge"
+  },
+  {
+    "source": "greta",
+    "target": "disobeying",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "greta",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "thunberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "palestinians",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "coco",
+    "action": "add-edge"
+  },
+  {
+    "source": "coco",
+    "target": "lee",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "lee",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "coco",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "lee",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "protest",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "coco",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "lee",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "cocaine",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "cocaine",
+    "target": "white",
+    "action": "add-edge"
+  },
+  {
+    "source": "white",
+    "target": "house",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "accuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "hottest",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "hottest",
+    "target": "world",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "raid",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "ends",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "ends",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "bank",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "philadelphia",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "philadelphia",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "ends",
+    "action": "add-edge"
+  },
+  {
+    "source": "cocaine",
+    "target": "powder",
+    "action": "add-edge"
+  },
+  {
+    "source": "white",
+    "target": "powder",
+    "action": "add-edge"
+  },
+  {
+    "source": "meta",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "disobeying",
+    "action": "add-edge"
+  },
+  {
+    "source": "salons",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "destruction",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "militants",
+    "action": "add-edge"
+  },
+  {
+    "source": "plant",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "plant",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "debt",
+    "action": "add-edge"
+  },
+  {
+    "source": "beijing",
+    "target": "plant",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "beijing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "flights",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "flights",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooting",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "schiphol",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "schiphol",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "airport",
+    "target": "schiphol",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "philadelphia",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "diplomat",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "destruction",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "jenin",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "hormuz",
+    "action": "add-edge"
+  },
+  {
+    "source": "tankers",
+    "target": "hormuz",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "hormuz",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "accuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "hormuz",
+    "target": "shots",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "shots",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "monday",
+    "action": "add-edge"
+  },
+  {
+    "source": "hottest",
+    "target": "monday",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "hungary",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "hungary",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "accuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "rockets",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "withdrawal",
+    "action": "add-edge"
+  },
+  {
+    "source": "jenin",
+    "target": "withdrawal",
+    "action": "add-edge"
+  },
+  {
+    "source": "leak",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinians",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "salons",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "day",
+    "target": "july",
+    "action": "add-edge"
+  },
+  {
+    "source": "july",
+    "target": "hottest",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "withdrawal",
+    "target": "rockets",
+    "action": "add-edge"
+  }
+]
