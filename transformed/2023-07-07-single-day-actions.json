@@ -1,0 +1,714 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cluster",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 23,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "munitions",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dutch",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "threads",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "meta",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "package",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "collapses",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drugs",
+    "weight": 10,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "migration",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "coalition",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "app",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "deadly",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "monsoon",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "send",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "explosives",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "anti",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rallies",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "muslims",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "catholics",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "priest",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "vatican",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "iraq",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cooperation",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "roof",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zaporizhzhia",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "cluster",
+    "target": "munitions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "cluster",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "munitions",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "meta",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "threads",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "munitions",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "threads",
+    "target": "app",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "app",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "migration",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "migration",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "munitions",
+    "target": "send",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "migration",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "package",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "muslims",
+    "action": "add-edge"
+  },
+  {
+    "source": "rallies",
+    "target": "muslims",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "rallies",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "catholics",
+    "action": "add-edge"
+  },
+  {
+    "source": "catholics",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "priest",
+    "action": "add-edge"
+  },
+  {
+    "source": "priest",
+    "target": "vatican",
+    "action": "add-edge"
+  },
+  {
+    "source": "catholics",
+    "target": "priest",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "iraq",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "anti",
+    "action": "add-edge"
+  },
+  {
+    "source": "drugs",
+    "target": "anti",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drugs",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "cooperation",
+    "action": "add-edge"
+  },
+  {
+    "source": "drugs",
+    "target": "cooperation",
+    "action": "add-edge"
+  },
+  {
+    "source": "anti",
+    "target": "cooperation",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "roof",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "roof",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "munitions",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "muslims",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "rallies",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "school",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapses",
+    "target": "coalition",
+    "action": "add-edge"
+  },
+  {
+    "source": "collapses",
+    "target": "migration",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "explosives",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosives",
+    "target": "roof",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "explosives",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "roof",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "dutch",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "zaporizhzhia",
+    "action": "add-edge"
+  },
+  {
+    "source": "meta",
+    "target": "app",
+    "action": "add-edge"
+  },
+  {
+    "source": "coalition",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "monsoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "monsoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "package",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "munitions",
+    "target": "aid",
+    "action": "add-edge"
+  }
+]
