@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 39,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 29,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 21,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "general",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 18,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sudan",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "bodies",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "grave",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "pill",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "actors",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "europe",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hollywood",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "finland",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "counter",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "darfur",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "prisoner",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kosovo",
+    "weight": 11,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "kevin",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rights",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "edwards",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bbc",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "approves",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "brawl",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "fda",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "strategy",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "reporter",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "prime",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "spacey",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "accused",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "huw",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "presenter",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mass",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "asean",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "scandal",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "penalty",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "activist",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "writers",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "serbia",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "transgender",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dismissal",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jury",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cluster",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "burned",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "terrorism",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "approval",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fired",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "leadership",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "senator",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodian",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "offices",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "union",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pittsburgh",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "screenwriters",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shooter",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "swap",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "icc",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "munitions",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "actors",
+    "target": "hollywood",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "actors",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "hollywood",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "grave",
+    "action": "add-edge"
+  },
+  {
+    "source": "grave",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "grave",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "brawl",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "brawl",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "kosovo",
+    "action": "add-edge"
+  },
+  {
+    "source": "counter",
+    "target": "fda",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "counter",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "fda",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "edwards",
+    "target": "huw",
+    "action": "add-edge"
+  },
+  {
+    "source": "edwards",
+    "target": "presenter",
+    "action": "add-edge"
+  },
+  {
+    "source": "huw",
+    "target": "presenter",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "bodies",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "grave",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "general",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "general",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "counter",
+    "target": "approves",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "approves",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prisoner",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "darfur",
+    "target": "mass",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "general",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "general",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "general",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "edwards",
+    "target": "bbc",
+    "action": "add-edge"
+  },
+  {
+    "source": "bbc",
+    "target": "huw",
+    "action": "add-edge"
+  },
+  {
+    "source": "actors",
+    "target": "screenwriters",
+    "action": "add-edge"
+  },
+  {
+    "source": "hollywood",
+    "target": "screenwriters",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "screenwriters",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "strategy",
+    "action": "add-edge"
+  },
+  {
+    "source": "strategy",
+    "target": "germany",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "parliament",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "counter",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "pill",
+    "target": "approval",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "europe",
+    "action": "add-edge"
+  },
+  {
+    "source": "europe",
+    "target": "finland",
+    "action": "add-edge"
+  },
+  {
+    "source": "actors",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "hollywood",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fired",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "brawl",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "kosovo",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "serbia",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "general",
+    "target": "dismissal",
+    "action": "add-edge"
+  },
+  {
+    "source": "dismissal",
+    "target": "leadership",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "dismissal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "dismissal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "approves",
+    "target": "fda",
+    "action": "add-edge"
+  },
+  {
+    "source": "edwards",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "huw",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "asean",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "asean",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "presenter",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "offices",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "offices",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "offices",
+    "action": "add-edge"
+  },
+  {
+    "source": "activist",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "activist",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "senator",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "darfur",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "burned",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "burned",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "accused",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "terrorism",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "burned",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "prisoner",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "penalty",
+    "target": "jury",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "shooter",
+    "action": "add-edge"
+  },
+  {
+    "source": "penalty",
+    "target": "shooter",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "swap",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "pittsburgh",
+    "action": "add-edge"
+  },
+  {
+    "source": "penalty",
+    "target": "pittsburgh",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "actors",
+    "target": "union",
+    "action": "add-edge"
+  },
+  {
+    "source": "hollywood",
+    "target": "union",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "pittsburgh",
+    "target": "shooter",
+    "action": "add-edge"
+  },
+  {
+    "source": "cluster",
+    "target": "munitions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "cluster",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "munitions",
+    "action": "add-edge"
+  },
+  {
+    "source": "darfur",
+    "target": "icc",
+    "action": "add-edge"
+  },
+  {
+    "source": "sudan",
+    "target": "icc",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "war",
+    "action": "add-edge"
+  }
+]
