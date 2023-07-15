@@ -1,0 +1,919 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 23,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 22,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "moon",
+    "weight": 20,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 17,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bastille",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "actors",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "gender",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 14,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "defense",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "killings",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "aspartame",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hollywood",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "celebrates",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "student",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "unrest",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmakers",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wang",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rights",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sweetener",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pomp",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "burning",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "day",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fukushima",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "yi",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "traditional",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "loan",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "parade",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "banning",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "honour",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "safe",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "writers",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "indonesia",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "million",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "campaign",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "haiti",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "carcinogenic",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rover",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "outlawing",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "deploys",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "training",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnappings",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "actors",
+    "target": "hollywood",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "actors",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "hollywood",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "moon",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "celebrates",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "bastille",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "celebrates",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "pomp",
+    "action": "add-edge"
+  },
+  {
+    "source": "celebrates",
+    "target": "pomp",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "pomp",
+    "action": "add-edge"
+  },
+  {
+    "source": "gender",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "gender",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "lawmakers",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "wang",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "wang",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "unrest",
+    "target": "pomp",
+    "action": "add-edge"
+  },
+  {
+    "source": "celebrates",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "wang",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "actors",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "gender",
+    "target": "outlawing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "outlawing",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawmakers",
+    "target": "outlawing",
+    "action": "add-edge"
+  },
+  {
+    "source": "hollywood",
+    "target": "writers",
+    "action": "add-edge"
+  },
+  {
+    "source": "army",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "unrest",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "unrest",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "wang",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "yi",
+    "target": "indonesia",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "fukushima",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "fukushima",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "lawmakers",
+    "target": "traditional",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "traditional",
+    "action": "add-edge"
+  },
+  {
+    "source": "gender",
+    "target": "traditional",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "kidnappings",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "kidnappings",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "rights",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "killings",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "rights",
+    "target": "kidnappings",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "kidnappings",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "defense",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "defense",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "student",
+    "action": "add-edge"
+  },
+  {
+    "source": "student",
+    "target": "loan",
+    "action": "add-edge"
+  },
+  {
+    "source": "aspartame",
+    "target": "safe",
+    "action": "add-edge"
+  },
+  {
+    "source": "aspartame",
+    "target": "sweetener",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweetener",
+    "target": "safe",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "rover",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "unrest",
+    "target": "burning",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "deploys",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "burning",
+    "action": "add-edge"
+  },
+  {
+    "source": "traditional",
+    "target": "outlawing",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "fukushima",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "training",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "training",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "million",
+    "action": "add-edge"
+  },
+  {
+    "source": "million",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "defense",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "mission",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "aspartame",
+    "target": "carcinogenic",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweetener",
+    "target": "carcinogenic",
+    "action": "add-edge"
+  },
+  {
+    "source": "bastille",
+    "target": "honour",
+    "action": "add-edge"
+  },
+  {
+    "source": "parade",
+    "target": "honour",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "gender",
+    "target": "banning",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "banning",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "honour",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "rocket",
+    "action": "add-edge"
+  }
+]
