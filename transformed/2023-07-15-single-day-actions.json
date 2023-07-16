@@ -1,0 +1,676 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 20,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rushed",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "flights",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "landslides",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rain",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "yoon",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tourism",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "dehydration",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "unacceptable",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "torrential",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "bishop",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "shanghai",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "benjamin",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "budapest",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pride",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suk",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "yeol",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "canceled",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "appointment",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "hollywood",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hungary",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "actors",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "lgbtq",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "delivery",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "netanyahu",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "rushed",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "rushed",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "flights",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "rushed",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslides",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "landslides",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslides",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "tourism",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "tourism",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "tourism",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "rushed",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "yeol",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "yoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "yoon",
+    "target": "yeol",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "suk",
+    "action": "add-edge"
+  },
+  {
+    "source": "suk",
+    "target": "yeol",
+    "action": "add-edge"
+  },
+  {
+    "source": "yoon",
+    "target": "suk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "yoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "flights",
+    "target": "canceled",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "canceled",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourism",
+    "target": "canceled",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "canceled",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "yoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "appointment",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "appointment",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "bishop",
+    "action": "add-edge"
+  },
+  {
+    "source": "bishop",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "source": "shanghai",
+    "target": "appointment",
+    "action": "add-edge"
+  },
+  {
+    "source": "budapest",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "budapest",
+    "target": "pride",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "unacceptable",
+    "action": "add-edge"
+  },
+  {
+    "source": "unacceptable",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "unacceptable",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "torrential",
+    "action": "add-edge"
+  },
+  {
+    "source": "landslides",
+    "target": "torrential",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "suk",
+    "action": "add-edge"
+  },
+  {
+    "source": "korean",
+    "target": "yeol",
+    "action": "add-edge"
+  },
+  {
+    "source": "rain",
+    "target": "torrential",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "bishop",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "shanghai",
+    "action": "add-edge"
+  },
+  {
+    "source": "hollywood",
+    "target": "actors",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "actors",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "hollywood",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "benjamin",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "benjamin",
+    "action": "add-edge"
+  },
+  {
+    "source": "budapest",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "lgbtq",
+    "action": "add-edge"
+  },
+  {
+    "source": "hungary",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "hungary",
+    "action": "add-edge"
+  },
+  {
+    "source": "budapest",
+    "target": "hungary",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "delivery",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "delivery",
+    "action": "add-edge"
+  },
+  {
+    "source": "unacceptable",
+    "target": "delivery",
+    "action": "add-edge"
+  },
+  {
+    "source": "damascus",
+    "target": "delivery",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "dehydration",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "dehydration",
+    "action": "add-edge"
+  }
+]
