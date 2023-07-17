@@ -1,0 +1,696 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "birkin",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "jane",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "singer",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "stockpile",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wimbledon",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "actress",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "djokovic",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "alcaraz",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "discharged",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cooperation",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "iraqi",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tsunami",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "alaska",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "carlos",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dizzy",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "paris",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "novak",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "warning",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "quit",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ben",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wallace",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "magnitude",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wounding",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "bides",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "forces",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "striking",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lawmaker",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "birkin",
+    "target": "jane",
+    "action": "add-edge"
+  },
+  {
+    "source": "birkin",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "jane",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "birkin",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "jane",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "alcaraz",
+    "action": "add-edge"
+  },
+  {
+    "source": "wimbledon",
+    "target": "alcaraz",
+    "action": "add-edge"
+  },
+  {
+    "source": "wimbledon",
+    "target": "djokovic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "bombs",
+    "target": "stockpile",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "stockpile",
+    "action": "add-edge"
+  },
+  {
+    "source": "birkin",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "jane",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "stockpile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "actress",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "discharged",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "discharged",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "discharged",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "alaska",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "alaska",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "actress",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "iraqi",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "iraqi",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "novak",
+    "action": "add-edge"
+  },
+  {
+    "source": "wimbledon",
+    "target": "novak",
+    "action": "add-edge"
+  },
+  {
+    "source": "alcaraz",
+    "target": "novak",
+    "action": "add-edge"
+  },
+  {
+    "source": "alcaraz",
+    "target": "carlos",
+    "action": "add-edge"
+  },
+  {
+    "source": "djokovic",
+    "target": "carlos",
+    "action": "add-edge"
+  },
+  {
+    "source": "wimbledon",
+    "target": "carlos",
+    "action": "add-edge"
+  },
+  {
+    "source": "carlos",
+    "target": "novak",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "dizzy",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "dizzy",
+    "action": "add-edge"
+  },
+  {
+    "source": "birkin",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "jane",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "stockpile",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "dizzy",
+    "action": "add-edge"
+  },
+  {
+    "source": "quit",
+    "target": "ben",
+    "action": "add-edge"
+  },
+  {
+    "source": "ben",
+    "target": "wallace",
+    "action": "add-edge"
+  },
+  {
+    "source": "quit",
+    "target": "wallace",
+    "action": "add-edge"
+  },
+  {
+    "source": "cooperation",
+    "target": "iraqi",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "cooperation",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "cooperation",
+    "action": "add-edge"
+  },
+  {
+    "source": "alaska",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "magnitude",
+    "action": "add-edge"
+  },
+  {
+    "source": "gunman",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "gunman",
+    "target": "wounding",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "wounding",
+    "action": "add-edge"
+  },
+  {
+    "source": "gunman",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "wounding",
+    "action": "add-edge"
+  },
+  {
+    "source": "west",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "paris",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "bides",
+    "action": "add-edge"
+  },
+  {
+    "source": "bides",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bides",
+    "action": "add-edge"
+  },
+  {
+    "source": "bides",
+    "target": "forces",
+    "action": "add-edge"
+  },
+  {
+    "source": "forces",
+    "target": "striking",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "forces",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "forces",
+    "action": "add-edge"
+  },
+  {
+    "source": "discharged",
+    "target": "dizzy",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "quit",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "wallace",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "ben",
+    "action": "add-edge"
+  },
+  {
+    "source": "ben",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "wallace",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "secretary",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "quit",
+    "target": "lawmaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "alaska",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "tsunami",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  }
+]
