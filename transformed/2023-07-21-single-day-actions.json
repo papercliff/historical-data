@@ -1,0 +1,809 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ai",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "protest",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "lioness",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "berlin",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "tony",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bennett",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ships",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "date",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "amsterdam",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cyprus",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "manslaughter",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "igor",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "girkin",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "safeguards",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "boar",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "cruise",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "bombs",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "singer",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "amazon",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tourism",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "energy",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "firms",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wild",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "loose",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "terminal",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sri",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "manipur",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crooner",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "classified",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "storage",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "aged",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "yemen",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "bennett",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "bennett",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "bennett",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "boar",
+    "action": "add-edge"
+  },
+  {
+    "source": "lioness",
+    "target": "berlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "lioness",
+    "target": "boar",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bombs",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "igor",
+    "target": "girkin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "girkin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "igor",
+    "action": "add-edge"
+  },
+  {
+    "source": "ai",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ai",
+    "target": "safeguards",
+    "action": "add-edge"
+  },
+  {
+    "source": "safeguards",
+    "target": "amazon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "ban",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "bennett",
+    "target": "crooner",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "crooner",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "loose",
+    "action": "add-edge"
+  },
+  {
+    "source": "lioness",
+    "target": "loose",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "classified",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "storage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "storage",
+    "action": "add-edge"
+  },
+  {
+    "source": "bennett",
+    "target": "aged",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "aged",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "manslaughter",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "storage",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "storage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ships",
+    "target": "amsterdam",
+    "action": "add-edge"
+  },
+  {
+    "source": "amsterdam",
+    "target": "terminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ships",
+    "target": "terminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "manslaughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "cyprus",
+    "action": "add-edge"
+  },
+  {
+    "source": "cyprus",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "amsterdam",
+    "target": "tourism",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourism",
+    "target": "terminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "ai",
+    "target": "firms",
+    "action": "add-edge"
+  },
+  {
+    "source": "safeguards",
+    "target": "firms",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "girkin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "igor",
+    "action": "add-edge"
+  },
+  {
+    "source": "bennett",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "tony",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "food",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "yemen",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "energy",
+    "action": "add-edge"
+  },
+  {
+    "source": "energy",
+    "target": "sri",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "sri",
+    "action": "add-edge"
+  },
+  {
+    "source": "berlin",
+    "target": "wild",
+    "action": "add-edge"
+  },
+  {
+    "source": "lioness",
+    "target": "wild",
+    "action": "add-edge"
+  },
+  {
+    "source": "boar",
+    "target": "wild",
+    "action": "add-edge"
+  },
+  {
+    "source": "amsterdam",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "ships",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "protest",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "manipur",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "manipur",
+    "action": "add-edge"
+  }
+]
