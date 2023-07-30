@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 30,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "laundering",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopter",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "warehouse",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "christmas",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "fireworks",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "crew",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "son",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "colombian",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "package",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "colombia",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "traditions",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "polish",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "logo",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ousted",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "holiday",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dec",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "francisco",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "unflagging",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "san",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "arrested",
+    "target": "laundering",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "laundering",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "colombian",
+    "action": "add-edge"
+  },
+  {
+    "source": "laundering",
+    "target": "colombian",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "package",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "laundering",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "traditions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "traditions",
+    "action": "add-edge"
+  },
+  {
+    "source": "fireworks",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "warehouse",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "warehouse",
+    "target": "fireworks",
+    "action": "add-edge"
+  },
+  {
+    "source": "fireworks",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "warehouse",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "crew",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "crew",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "colombia",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "christmas",
+    "target": "dec",
+    "action": "add-edge"
+  },
+  {
+    "source": "traditions",
+    "target": "dec",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dec",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "polish",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "ousted",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "unflagging",
+    "action": "add-edge"
+  },
+  {
+    "source": "ousted",
+    "target": "unflagging",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "christmas",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "crew",
+    "action": "add-edge"
+  },
+  {
+    "source": "traditions",
+    "target": "holiday",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "polish",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "fireworks",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "warehouse",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "logo",
+    "target": "francisco",
+    "action": "add-edge"
+  },
+  {
+    "source": "francisco",
+    "target": "san",
+    "action": "add-edge"
+  },
+  {
+    "source": "logo",
+    "target": "san",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "laundering",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "francisco",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "san",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "logo",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  }
+]
