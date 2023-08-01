@@ -1,0 +1,723 @@
+[
+  {
+    "id": "election",
+    "weight": 26,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 25,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rhodes",
+    "weight": 19,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "odesa",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "votes",
+    "weight": 16,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cathedral",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "vote",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "logo",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "pacemaker",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hun",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodia",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sen",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "emergency",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bird",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "damaged",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "overhaul",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "conservative",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "medical",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "heart",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "recovers",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "parties",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "socialists",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "voting",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "change",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "unrest",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protesters",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "senators",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "musk",
+    "target": "logo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "logo",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "votes",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "pacemaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "pacemaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "hun",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "cathedral",
+    "action": "add-edge"
+  },
+  {
+    "source": "cathedral",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "logo",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "cambodia",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "bird",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "polls",
+    "action": "add-edge"
+  },
+  {
+    "source": "pacemaker",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "conservative",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "conservative",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "cathedral",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "logo",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "heart",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "heart",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "overhaul",
+    "action": "add-edge"
+  },
+  {
+    "source": "cathedral",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "damaged",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "damaged",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "recovers",
+    "action": "add-edge"
+  },
+  {
+    "source": "overhaul",
+    "target": "recovers",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "eu",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "cathedral",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "voting",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "voting",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "parties",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "parties",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "socialists",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "socialists",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "emergency",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "medical",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "medical",
+    "action": "add-edge"
+  },
+  {
+    "source": "emergency",
+    "target": "medical",
+    "action": "add-edge"
+  },
+  {
+    "source": "medical",
+    "target": "unrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "vote",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "vote",
+    "target": "protesters",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "twitter",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "protesters",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "vote",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "hun",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "votes",
+    "target": "cambodia",
+    "action": "add-edge"
+  }
+]

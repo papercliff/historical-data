@@ -1,0 +1,728 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 36,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 34,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 33,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 29,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 27,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 24,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 23,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "whales",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "eu",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "push",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "democracy",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "food",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "documents",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "army",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "counteroffensive",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "meets",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "euthanized",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "lawyers",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "promises",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "beached",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "microsoft",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "lago",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "extremism",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "attempted",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopter",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bazoum",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "teams",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "overthrown",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "siberia",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "antitrust",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "lawyers",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "lawyers",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescue",
+    "target": "euthanized",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "euthanized",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "documents",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "attempted",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "attempted",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "africa",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescue",
+    "target": "beached",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "beached",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "lago",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "lago",
+    "action": "add-edge"
+  },
+  {
+    "source": "documents",
+    "target": "lago",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "attempted",
+    "action": "add-edge"
+  },
+  {
+    "source": "extremism",
+    "target": "attempted",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "democracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "bazoum",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "bazoum",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "meets",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "euthanized",
+    "target": "beached",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "helicopter",
+    "action": "add-edge"
+  },
+  {
+    "source": "helicopter",
+    "target": "siberia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "siberia",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "antitrust",
+    "action": "add-edge"
+  },
+  {
+    "source": "microsoft",
+    "target": "antitrust",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "microsoft",
+    "action": "add-edge"
+  },
+  {
+    "source": "eu",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "microsoft",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "promises",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "promises",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "food",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "lawyers",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "army",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "euthanized",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "push",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "counteroffensive",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "push",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "add-edge"
+  }
+]

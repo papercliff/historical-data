@@ -1,0 +1,442 @@
+[
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "rhodes",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "band",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pacemaker",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "crimean",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ammunition",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hundreds",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuations",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bandmate",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "music",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "healy",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cruise",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jerusalem",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "fires",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "rhodes",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ammunition",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ammunition",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimean",
+    "target": "ammunition",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimean",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "crimean",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "hundreds",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "cruise",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "band",
+    "action": "add-edge"
+  },
+  {
+    "source": "band",
+    "target": "music",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "music",
+    "action": "add-edge"
+  },
+  {
+    "source": "march",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "jerusalem",
+    "action": "add-edge"
+  },
+  {
+    "source": "island",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "rhodes",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "evacuations",
+    "action": "add-edge"
+  },
+  {
+    "source": "greek",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "pacemaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "pacemaker",
+    "action": "add-edge"
+  },
+  {
+    "source": "bandmate",
+    "target": "healy",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "bandmate",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "healy",
+    "action": "add-edge"
+  }
+]

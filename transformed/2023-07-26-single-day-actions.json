@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "whales",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 17,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kevin",
+    "weight": 17,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "spacey",
+    "weight": 17,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 16,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "connor",
+    "weight": 16,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "singer",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "cargo",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "hunter",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pleads",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "coast",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "news",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hun",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sen",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "foreign",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 12,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "irish",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "plea",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodia",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 10,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "population",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "farage",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "natwest",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "nigel",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "rates",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "cars",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "injured",
+    "weight": 9,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "son",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sinead",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "york",
+    "weight": 8,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "sin\u00e9ad",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "lewis",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "insider",
+    "weight": 8,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "beach",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "raises",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "conference",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mcconnell",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "dutch",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 8,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "fed",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "crane",
+    "weight": 7,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodian",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "stranding",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "beauty",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 7,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "acquitted",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "collapses",
+    "weight": 6,
+    "cluster": 3,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "highest",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "billionaire",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "owner",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "residents",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trading",
+    "weight": 6,
+    "cluster": 5,
+    "action": "add-node"
+  },
+  {
+    "id": "blinken",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "qin",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tonga",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "guards",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "wang",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "yi",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "london",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "cleared",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "resign",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mitch",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "salons",
+    "weight": 5,
+    "cluster": 4,
+    "action": "add-node"
+  },
+  {
+    "id": "condemn",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 5,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "delegation",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "freezing",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "biden",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "hunter",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "hunter",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "singer",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "irish",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacey",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "hunter",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "plea",
+    "action": "add-edge"
+  },
+  {
+    "source": "hunter",
+    "target": "plea",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "insider",
+    "action": "add-edge"
+  },
+  {
+    "source": "lewis",
+    "target": "insider",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "lewis",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "irish",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "irish",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacey",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "farage",
+    "target": "natwest",
+    "action": "add-edge"
+  },
+  {
+    "source": "farage",
+    "target": "nigel",
+    "action": "add-edge"
+  },
+  {
+    "source": "natwest",
+    "target": "nigel",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "singer",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "cambodian",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "billionaire",
+    "action": "add-edge"
+  },
+  {
+    "source": "lewis",
+    "target": "billionaire",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "cambodia",
+    "action": "add-edge"
+  },
+  {
+    "source": "raises",
+    "target": "fed",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "fed",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "raises",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "trading",
+    "action": "add-edge"
+  },
+  {
+    "source": "lewis",
+    "target": "trading",
+    "action": "add-edge"
+  },
+  {
+    "source": "insider",
+    "target": "trading",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "crane",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "york",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "york",
+    "target": "crane",
+    "action": "add-edge"
+  },
+  {
+    "source": "irish",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "plea",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "cleared",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacey",
+    "target": "cleared",
+    "action": "add-edge"
+  },
+  {
+    "source": "insider",
+    "target": "billionaire",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "kevin",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "spacey",
+    "action": "add-edge"
+  },
+  {
+    "source": "beauty",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghanistan",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "beauty",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "cars",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "cars",
+    "action": "add-edge"
+  },
+  {
+    "source": "coast",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "coast",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "condemn",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "delegation",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "delegation",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "conference",
+    "target": "freezing",
+    "action": "add-edge"
+  },
+  {
+    "source": "news",
+    "target": "conference",
+    "action": "add-edge"
+  },
+  {
+    "source": "news",
+    "target": "freezing",
+    "action": "add-edge"
+  },
+  {
+    "source": "farage",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "natwest",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "fed",
+    "target": "highest",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "highest",
+    "action": "add-edge"
+  },
+  {
+    "source": "pleads",
+    "target": "plea",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "population",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "residents",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "residents",
+    "action": "add-edge"
+  },
+  {
+    "source": "population",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "residents",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "hun",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "insider",
+    "target": "owner",
+    "action": "add-edge"
+  },
+  {
+    "source": "joe",
+    "target": "owner",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "lewis",
+    "target": "owner",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "blinken",
+    "action": "add-edge"
+  },
+  {
+    "source": "blinken",
+    "target": "tonga",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "tonga",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "foreign",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "foreign",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "hunter",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "conference",
+    "target": "mcconnell",
+    "action": "add-edge"
+  },
+  {
+    "source": "conference",
+    "target": "mitch",
+    "action": "add-edge"
+  },
+  {
+    "source": "mcconnell",
+    "target": "mitch",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "salons",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "beauty",
+    "action": "add-edge"
+  },
+  {
+    "source": "pleads",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "injured",
+    "target": "collapses",
+    "action": "add-edge"
+  },
+  {
+    "source": "injured",
+    "target": "crane",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "injured",
+    "target": "york",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "stranding",
+    "action": "add-edge"
+  },
+  {
+    "source": "beach",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "whales",
+    "target": "beach",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "wang",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "wang",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "delegation",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "mcconnell",
+    "target": "freezing",
+    "action": "add-edge"
+  },
+  {
+    "source": "news",
+    "target": "mcconnell",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "kevin",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacey",
+    "target": "london",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "assault",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "qin",
+    "target": "wang",
+    "action": "add-edge"
+  },
+  {
+    "source": "qin",
+    "target": "yi",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "coast",
+    "action": "add-edge"
+  }
+]

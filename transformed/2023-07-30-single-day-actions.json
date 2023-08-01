@@ -1,0 +1,566 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 24,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "blast",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "haiti",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kidnapped",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lebanon",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "refugee",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nurse",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "airport",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "daughter",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "clashes",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "public",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "account",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "kanye",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gaza",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hamas",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "threaten",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "twitter",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "lebanon",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "refugee",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugee",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "blast",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "kidnapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "nurse",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "nurse",
+    "action": "add-edge"
+  },
+  {
+    "source": "lebanon",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "refugee",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "kidnapped",
+    "target": "daughter",
+    "action": "add-edge"
+  },
+  {
+    "source": "blast",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "gaza",
+    "target": "hamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "public",
+    "target": "hamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "hamas",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "public",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "gaza",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "airport",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "blast",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaders",
+    "target": "threaten",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "threaten",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "account",
+    "target": "kanye",
+    "action": "add-edge"
+  },
+  {
+    "source": "account",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "kanye",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "account",
+    "target": "twitter",
+    "action": "add-edge"
+  },
+  {
+    "source": "kanye",
+    "target": "twitter",
+    "action": "add-edge"
+  }
+]
