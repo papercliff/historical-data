@@ -1,0 +1,760 @@
+[
+  {
+    "id": "moscow",
+    "weight": 28,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 24,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suu",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kyi",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "citizens",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "indicted",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "zoo",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "barbenheimer",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "bear",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "aung",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crane",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuate",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "abuse",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tower",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "workers",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "accuses",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "skyscraper",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "collapse",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "belarusian",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "junta",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "childcare",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sun",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuation",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "memes",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bridge",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "helicopters",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuating",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "burkina",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "costume",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "faso",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "human",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mali",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "kyi",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "suu",
+    "target": "kyi",
+    "action": "add-edge"
+  },
+  {
+    "source": "suu",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "suu",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "aung",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "skyscraper",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "skyscraper",
+    "action": "add-edge"
+  },
+  {
+    "source": "crane",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "workers",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "crane",
+    "target": "workers",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "belarusian",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "airspace",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "belarusian",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "accuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "barbenheimer",
+    "action": "add-edge"
+  },
+  {
+    "source": "barbenheimer",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "bear",
+    "target": "human",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "bear",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "human",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "mali",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "burkina",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "mali",
+    "action": "add-edge"
+  },
+  {
+    "source": "barbenheimer",
+    "target": "memes",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "memes",
+    "action": "add-edge"
+  },
+  {
+    "source": "burkina",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "faso",
+    "target": "mali",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "faso",
+    "action": "add-edge"
+  },
+  {
+    "source": "crane",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "collapse",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "crane",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "citizens",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarusian",
+    "target": "helicopters",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "helicopters",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "helicopters",
+    "action": "add-edge"
+  },
+  {
+    "source": "bear",
+    "target": "sun",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "sun",
+    "action": "add-edge"
+  },
+  {
+    "source": "bear",
+    "target": "costume",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "costume",
+    "action": "add-edge"
+  },
+  {
+    "source": "sun",
+    "target": "costume",
+    "action": "add-edge"
+  },
+  {
+    "source": "myanmar",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "suu",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyi",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "childcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "childcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "citizens",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "citizens",
+    "target": "evacuating",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuating",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "childcare",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "abuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "australian",
+    "action": "add-edge"
+  }
+]
