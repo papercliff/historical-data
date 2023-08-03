@@ -1,0 +1,854 @@
+[
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 21,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 19,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wife",
+    "weight": 19,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "justin",
+    "weight": 16,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "portugal",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "foreign",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fitch",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "credit",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "typhoon",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sophie",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "indicted",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "separation",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "shooter",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "synagogue",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "downgrades",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tensions",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "abuse",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rating",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "scandal",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuate",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "separate",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "canadian",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "pittsburgh",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "youth",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "okinawa",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "church",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "clergy",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuation",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "separating",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fighters",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "penalty",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "marriage",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "aaa",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "catholic",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "khanun",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "trudeau",
+    "target": "justin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "justin",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "wife",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "portugal",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "separation",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "separation",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "separation",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "fitch",
+    "target": "credit",
+    "action": "add-edge"
+  },
+  {
+    "source": "credit",
+    "target": "rating",
+    "action": "add-edge"
+  },
+  {
+    "source": "fitch",
+    "target": "rating",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "foreign",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "tensions",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "okinawa",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "okinawa",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "separate",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "separate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "credit",
+    "target": "downgrades",
+    "action": "add-edge"
+  },
+  {
+    "source": "fitch",
+    "target": "downgrades",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "clergy",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "clergy",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "tensions",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "scandal",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "separate",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooter",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooter",
+    "target": "synagogue",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "youth",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "abuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "abuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "clergy",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "sophie",
+    "target": "separate",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "separating",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "separating",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "fighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "pittsburgh",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "synagogue",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "pittsburgh",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "marriage",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "marriage",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "pittsburgh",
+    "target": "penalty",
+    "action": "add-edge"
+  },
+  {
+    "source": "synagogue",
+    "target": "penalty",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "okinawa",
+    "action": "add-edge"
+  },
+  {
+    "source": "downgrades",
+    "target": "aaa",
+    "action": "add-edge"
+  },
+  {
+    "source": "fitch",
+    "target": "aaa",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "separating",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "downgrades",
+    "target": "rating",
+    "action": "add-edge"
+  },
+  {
+    "source": "shooter",
+    "target": "pittsburgh",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "catholic",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "catholic",
+    "action": "add-edge"
+  },
+  {
+    "source": "sophie",
+    "target": "separation",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "khanun",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "khanun",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "port",
+    "action": "add-edge"
+  }
+]
