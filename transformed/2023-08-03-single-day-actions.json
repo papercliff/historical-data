@@ -1,0 +1,801 @@
+[
+  {
+    "id": "niger",
+    "weight": 28,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 20,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 18,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "embassy",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pleads",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trudeau",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "wife",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "warns",
+    "weight": 11,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "rio",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "pedestrians",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "justin",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rally",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuation",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "car",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "body",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "criminal",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "stabs",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "floating",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "canadian",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "junta",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "conspiracy",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sidewalk",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "overturn",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "grande",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "orders",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bodies",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jamboree",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "scout",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "smartphone",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "spying",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sophie",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "travis",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "guilty",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "justin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "justin",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "wife",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "rally",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "car",
+    "target": "sidewalk",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "sidewalk",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "pedestrians",
+    "action": "add-edge"
+  },
+  {
+    "source": "pedestrians",
+    "target": "sidewalk",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "stabs",
+    "action": "add-edge"
+  },
+  {
+    "source": "stabs",
+    "target": "sidewalk",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "embassy",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "body",
+    "action": "add-edge"
+  },
+  {
+    "source": "rio",
+    "target": "body",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "rio",
+    "action": "add-edge"
+  },
+  {
+    "source": "car",
+    "target": "stabs",
+    "action": "add-edge"
+  },
+  {
+    "source": "pedestrians",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "grande",
+    "action": "add-edge"
+  },
+  {
+    "source": "rio",
+    "target": "grande",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "rio",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jamboree",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "evacuation",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "pedestrians",
+    "target": "stabs",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "conspiracy",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "nato",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "floating",
+    "action": "add-edge"
+  },
+  {
+    "source": "rio",
+    "target": "floating",
+    "action": "add-edge"
+  },
+  {
+    "source": "body",
+    "target": "floating",
+    "action": "add-edge"
+  },
+  {
+    "source": "grande",
+    "target": "bodies",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "smartphone",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "smartphone",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "criminal",
+    "action": "add-edge"
+  },
+  {
+    "source": "embassy",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuation",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "orders",
+    "action": "add-edge"
+  },
+  {
+    "source": "justin",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "trudeau",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "warns",
+    "action": "add-edge"
+  },
+  {
+    "source": "warns",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wife",
+    "target": "sophie",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "overturn",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "overturn",
+    "action": "add-edge"
+  },
+  {
+    "source": "pleads",
+    "target": "overturn",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "conspiracy",
+    "action": "add-edge"
+  }
+]
