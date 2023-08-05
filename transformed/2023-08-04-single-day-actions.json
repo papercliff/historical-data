@@ -1,0 +1,862 @@
+[
+  {
+    "id": "navalny",
+    "weight": 36,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 24,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 22,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "tate",
+    "weight": 20,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "alexei",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "andrew",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "extremism",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pleads",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "conviction",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "influencer",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gandhi",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rahul",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "navy",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "zoo",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "barley",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "defamation",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jail",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trafficking",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "frozen",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sailors",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "spying",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "tariffs",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "arraignment",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "verdict",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "animals",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "meals",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "accused",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "virus",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cats",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "surname",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cyprus",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "romania",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "arrest",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "andrew",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "tate",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "alexei",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "alexei",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "trial",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "conviction",
+    "target": "gandhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "conviction",
+    "target": "rahul",
+    "action": "add-edge"
+  },
+  {
+    "source": "gandhi",
+    "target": "rahul",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "pleads",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "pleads",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "barley",
+    "action": "add-edge"
+  },
+  {
+    "source": "barley",
+    "target": "tariffs",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "tariffs",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "frozen",
+    "target": "animals",
+    "action": "add-edge"
+  },
+  {
+    "source": "animals",
+    "target": "meals",
+    "action": "add-edge"
+  },
+  {
+    "source": "frozen",
+    "target": "meals",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "animals",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "frozen",
+    "action": "add-edge"
+  },
+  {
+    "source": "zoo",
+    "target": "meals",
+    "action": "add-edge"
+  },
+  {
+    "source": "andrew",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "conviction",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "rahul",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "gandhi",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "gandhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "rahul",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "verdict",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "verdict",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "cats",
+    "action": "add-edge"
+  },
+  {
+    "source": "virus",
+    "target": "cats",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "virus",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "navy",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "verdict",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "navalny",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "extremism",
+    "action": "add-edge"
+  },
+  {
+    "source": "alexei",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "arraignment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "arraignment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "conviction",
+    "target": "surname",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "surname",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "cyprus",
+    "action": "add-edge"
+  },
+  {
+    "source": "virus",
+    "target": "cyprus",
+    "action": "add-edge"
+  },
+  {
+    "source": "cats",
+    "target": "cyprus",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "sailors",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "influencer",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "spying",
+    "action": "add-edge"
+  },
+  {
+    "source": "navy",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "spying",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "sailors",
+    "target": "accused",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "defamation",
+    "action": "add-edge"
+  },
+  {
+    "source": "barley",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tariffs",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "trafficking",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "tate",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ship",
+    "action": "add-edge"
+  }
+]
