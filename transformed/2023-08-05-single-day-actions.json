@@ -1,0 +1,832 @@
+[
+  {
+    "id": "khan",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 25,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 23,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tanker",
+    "weight": 22,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 18,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jamboree",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jail",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "scout",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "scouts",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "corruption",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistani",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "canal",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "suez",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tugboat",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "order",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "texas",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "conviction",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "cambodia",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hun",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sen",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "born",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rubble",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "abortion",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "peace",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "electoral",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "party",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "protective",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "adopted",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jamboree",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "pakistani",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "pakistani",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "scouts",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "scouts",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "suez",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "tugboat",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "tugboat",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "suez",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "tugboat",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "canal",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "pakistani",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "cambodia",
+    "target": "hun",
+    "action": "add-edge"
+  },
+  {
+    "source": "cambodia",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "sen",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "corruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "corruption",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubble",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "sentenced",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "order",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "order",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistani",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "cambodia",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "cambodia",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "hun",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "sen",
+    "target": "electoral",
+    "action": "add-edge"
+  },
+  {
+    "source": "electoral",
+    "target": "party",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "scouts",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "born",
+    "action": "add-edge"
+  },
+  {
+    "source": "born",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "born",
+    "target": "rubble",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubble",
+    "target": "adopted",
+    "action": "add-edge"
+  },
+  {
+    "source": "syrian",
+    "target": "adopted",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "adopted",
+    "action": "add-edge"
+  },
+  {
+    "source": "born",
+    "target": "adopted",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "abortion",
+    "action": "add-edge"
+  },
+  {
+    "source": "texas",
+    "target": "abortion",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "texas",
+    "action": "add-edge"
+  },
+  {
+    "source": "order",
+    "target": "protective",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutors",
+    "target": "protective",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "protective",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "peace",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  }
+]
