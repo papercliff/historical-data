@@ -1,0 +1,635 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 29,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 24,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deadline",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "derails",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "blood",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "derailment",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "cannon",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hiroshima",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "philippines",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "atomic",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "transfusion",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "soviet",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zuckerberg",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "fight",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "legal",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "streamed",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cage",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bridge",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deterrence",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "fund",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "pakistan",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "derails",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "derailment",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "derailment",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "kyiv",
+    "target": "soviet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "soviet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "blood",
+    "target": "transfusion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "blood",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "transfusion",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "fight",
+    "action": "add-edge"
+  },
+  {
+    "source": "zuckerberg",
+    "target": "fight",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "streamed",
+    "action": "add-edge"
+  },
+  {
+    "source": "zuckerberg",
+    "target": "streamed",
+    "action": "add-edge"
+  },
+  {
+    "source": "deadline",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "atomic",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "atomic",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "cannon",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "boat",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "cannon",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "atomic",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "hiroshima",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "blood",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "blood",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "cage",
+    "action": "add-edge"
+  },
+  {
+    "source": "zuckerberg",
+    "target": "cage",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "transfusion",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "streamed",
+    "target": "cage",
+    "action": "add-edge"
+  },
+  {
+    "source": "fight",
+    "target": "streamed",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "blood",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "cannon",
+    "action": "add-edge"
+  },
+  {
+    "source": "cannon",
+    "target": "philippines",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hiroshima",
+    "target": "deterrence",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "deterrence",
+    "action": "add-edge"
+  },
+  {
+    "source": "bomb",
+    "target": "deterrence",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "legal",
+    "target": "fund",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "fund",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "legal",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bridge",
+    "action": "add-edge"
+  }
+]
