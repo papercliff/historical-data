@@ -1,0 +1,909 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "airspace",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jamboree",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "junta",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "scouts",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "deadline",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "typhoon",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "barge",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "suicide",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "sentenced",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "asylum",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "floyd",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuate",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "surgery",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "closes",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "officer",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "seekers",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "damascus",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jeddah",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zuckerberg",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "aramco",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "scout",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "graft",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "lithuania",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "lunar",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "george",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "airspace",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "airspace",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "junta",
+    "target": "deadline",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "jamboree",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "barge",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "asylum",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "barge",
+    "target": "seekers",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "scouts",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "scouts",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "floyd",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "floyd",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "officer",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "scouts",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "prison",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "jamboree",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "scout",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "lithuania",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "lithuania",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "lithuania",
+    "action": "add-edge"
+  },
+  {
+    "source": "airspace",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "deadline",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "floyd",
+    "target": "george",
+    "action": "add-edge"
+  },
+  {
+    "source": "officer",
+    "target": "george",
+    "action": "add-edge"
+  },
+  {
+    "source": "sentenced",
+    "target": "george",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "surgery",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "surgery",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "aramco",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "aramco",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "damascus",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "damascus",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "asylum",
+    "action": "add-edge"
+  },
+  {
+    "source": "barge",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "graft",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "graft",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jeddah",
+    "action": "add-edge"
+  },
+  {
+    "source": "talks",
+    "target": "jeddah",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "junta",
+    "target": "closes",
+    "action": "add-edge"
+  },
+  {
+    "source": "suicide",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "imran",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "suicide",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "scouts",
+    "target": "evacuate",
+    "action": "add-edge"
+  },
+  {
+    "source": "launch",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "mission",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "launch",
+    "target": "mission",
+    "action": "add-edge"
+  }
+]
