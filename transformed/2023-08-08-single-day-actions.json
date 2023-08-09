@@ -1,0 +1,640 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 33,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 25,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "connor",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "portugal",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hottest",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "month",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "july",
+    "weight": 12,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ireland",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "amazon",
+    "weight": 11,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "imran",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "banks",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "italian",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missiles",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "pokrovsk",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "strikes",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cheese",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "campaign",
+    "weight": 8,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "brazil",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sinead",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 8,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "parliamentary",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "conviction",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "windfall",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "firefighters",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "monument",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "grand",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sin\u00e9ad",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "heatwave",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "falling",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mourners",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rainforest",
+    "weight": 5,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "graft",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "canyon",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crimes",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "myanmar",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "scientists",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "source": "hottest",
+    "target": "july",
+    "action": "add-edge"
+  },
+  {
+    "source": "hottest",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "month",
+    "target": "july",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "imran",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "banks",
+    "target": "tax",
+    "action": "add-edge"
+  },
+  {
+    "source": "banks",
+    "target": "windfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "windfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "mourners",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "sinead",
+    "target": "mourners",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "ireland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "sinead",
+    "action": "add-edge"
+  },
+  {
+    "source": "missiles",
+    "target": "pokrovsk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "pokrovsk",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "parliamentary",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "campaign",
+    "action": "add-edge"
+  },
+  {
+    "source": "conviction",
+    "target": "graft",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "graft",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "brazil",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "rainforest",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "rainforest",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "canyon",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "monument",
+    "action": "add-edge"
+  },
+  {
+    "source": "monument",
+    "target": "canyon",
+    "action": "add-edge"
+  },
+  {
+    "source": "connor",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "sin\u00e9ad",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "heatwave",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "heatwave",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "pokrovsk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "banks",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "cheese",
+    "action": "add-edge"
+  },
+  {
+    "source": "italian",
+    "target": "cheese",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "italian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ireland",
+    "target": "mourners",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "amazon",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "brazil",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "canyon",
+    "action": "add-edge"
+  },
+  {
+    "source": "monument",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "windfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimes",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "myanmar",
+    "action": "add-edge"
+  },
+  {
+    "source": "hottest",
+    "target": "scientists",
+    "action": "add-edge"
+  },
+  {
+    "source": "july",
+    "target": "scientists",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "hottest",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "july",
+    "action": "add-edge"
+  },
+  {
+    "source": "month",
+    "target": "scientists",
+    "action": "add-edge"
+  },
+  {
+    "source": "climate",
+    "target": "month",
+    "action": "add-edge"
+  },
+  {
+    "source": "portugal",
+    "target": "firefighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "firefighters",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "strikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "missiles",
+    "action": "add-edge"
+  },
+  {
+    "source": "cheese",
+    "target": "falling",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "falling",
+    "action": "add-edge"
+  }
+]
