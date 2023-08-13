@@ -1,0 +1,688 @@
+[
+  {
+    "id": "russia",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 20,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 19,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hawaii",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "boat",
+    "weight": 15,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "migrant",
+    "weight": 14,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "threat",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "eiffel",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tower",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bridge",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "soldiers",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "armenia",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "council",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "nagorno",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "channel",
+    "weight": 6,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "bomb",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "iranian",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "universities",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "karabakh",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "crossing",
+    "weight": 5,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "shippers",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "waters",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "claims",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "responsibility",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "syrian",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "readmit",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "blockade",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "allies",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "overthrown",
+    "weight": 4,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "crimea",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "hawaii",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "migrant",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "bridge",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "armenia",
+    "target": "karabakh",
+    "action": "add-edge"
+  },
+  {
+    "source": "armenia",
+    "target": "nagorno",
+    "action": "add-edge"
+  },
+  {
+    "source": "nagorno",
+    "target": "karabakh",
+    "action": "add-edge"
+  },
+  {
+    "source": "armenia",
+    "target": "council",
+    "action": "add-edge"
+  },
+  {
+    "source": "council",
+    "target": "nagorno",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "wildfires",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "crossing",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuated",
+    "target": "eiffel",
+    "action": "add-edge"
+  },
+  {
+    "source": "eiffel",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuated",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "eiffel",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "tower",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "threat",
+    "target": "iranian",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "threat",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "iranian",
+    "target": "shippers",
+    "action": "add-edge"
+  },
+  {
+    "source": "threat",
+    "target": "shippers",
+    "action": "add-edge"
+  },
+  {
+    "source": "shippers",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "responsibility",
+    "action": "add-edge"
+  },
+  {
+    "source": "responsibility",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "responsibility",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "claims",
+    "target": "responsibility",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldiers",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "claims",
+    "target": "syrian",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "soldiers",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "readmit",
+    "action": "add-edge"
+  },
+  {
+    "source": "universities",
+    "target": "readmit",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "readmit",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "universities",
+    "action": "add-edge"
+  },
+  {
+    "source": "afghan",
+    "target": "readmit",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "armenia",
+    "target": "blockade",
+    "action": "add-edge"
+  },
+  {
+    "source": "council",
+    "target": "blockade",
+    "action": "add-edge"
+  },
+  {
+    "source": "council",
+    "target": "karabakh",
+    "action": "add-edge"
+  },
+  {
+    "source": "nagorno",
+    "target": "blockade",
+    "action": "add-edge"
+  },
+  {
+    "source": "karabakh",
+    "target": "blockade",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuated",
+    "target": "bomb",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "overthrown",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "boat",
+    "target": "channel",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrant",
+    "target": "channel",
+    "action": "add-edge"
+  }
+]
