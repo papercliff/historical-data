@@ -1,0 +1,378 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "maui",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hawaii",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kherson",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "fires",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "shrine",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "shelling",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "deadliest",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ship",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cargo",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "fight",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shiite",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "cage",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zuckerberg",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "gunman",
+    "weight": 4,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "warship",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "killed",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kherson",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "shiite",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "shrine",
+    "action": "add-edge"
+  },
+  {
+    "source": "shrine",
+    "target": "shiite",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "maui",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "maui",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "hawaii",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "cage",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "cage",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "fight",
+    "target": "cage",
+    "action": "add-edge"
+  },
+  {
+    "source": "fight",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "cargo",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "fight",
+    "target": "zuckerberg",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "deadliest",
+    "action": "add-edge"
+  },
+  {
+    "source": "deadliest",
+    "target": "wildfire",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "shrine",
+    "target": "gunman",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "kills",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "kherson",
+    "target": "shelling",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "ship",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "cargo",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "ship",
+    "action": "add-edge"
+  },
+  {
+    "source": "fires",
+    "target": "warship",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "shrine",
+    "action": "add-edge"
+  }
+]
