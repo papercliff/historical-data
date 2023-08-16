@@ -1,0 +1,771 @@
+[
+  {
+    "id": "russia",
+    "weight": 34,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 23,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 22,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 21,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "indictment",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "indicted",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dagestan",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "gas",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 12,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ruble",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jury",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "australian",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rate",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "final",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "petrol",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "grand",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "eiffel",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rates",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "indictments",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "drunk",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tower",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "poland",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "parade",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "support",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "travis",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rouble",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "allies",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hikes",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "disillusioned",
+    "weight": 4,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "son",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "barrage",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sleeping",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "explosion",
+    "target": "dagestan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "dagestan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "indictment",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "dagestan",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "gas",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "jury",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "eiffel",
+    "action": "add-edge"
+  },
+  {
+    "source": "eiffel",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "gas",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "dagestan",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "jury",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "eiffel",
+    "target": "drunk",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "drunk",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "poland",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "petrol",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "petrol",
+    "action": "add-edge"
+  },
+  {
+    "source": "final",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "drunk",
+    "target": "tower",
+    "action": "add-edge"
+  },
+  {
+    "source": "indictment",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "dagestan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "indicted",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "sweden",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "indictments",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "indictments",
+    "action": "add-edge"
+  },
+  {
+    "source": "australian",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "australian",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "indictments",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rate",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "poland",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "disillusioned",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "disillusioned",
+    "action": "add-edge"
+  },
+  {
+    "source": "ruble",
+    "target": "rate",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ruble",
+    "action": "add-edge"
+  },
+  {
+    "source": "dagestan",
+    "target": "petrol",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "rouble",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rates",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "rouble",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "allies",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "support",
+    "target": "allies",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "support",
+    "action": "add-edge"
+  },
+  {
+    "source": "support",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "rates",
+    "target": "hikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "hikes",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "barrage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "barrage",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "barrage",
+    "action": "add-edge"
+  },
+  {
+    "source": "eiffel",
+    "target": "sleeping",
+    "action": "add-edge"
+  },
+  {
+    "source": "tower",
+    "target": "sleeping",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "sleeping",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "travis",
+    "action": "add-edge"
+  }
+]
