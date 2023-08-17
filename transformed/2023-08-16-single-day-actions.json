@@ -1,0 +1,516 @@
+[
+  {
+    "id": "korea",
+    "weight": 27,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "soldier",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "england",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hawaii",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "travis",
+    "weight": 14,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "victims",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "clashes",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "maui",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "discrimination",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "militias",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cup",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "final",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dominican",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lithuania",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "refuge",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "checkpoints",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tripoli",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "korea",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "soldier",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "clashes",
+    "target": "militias",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "militias",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "clashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "lithuania",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "lithuania",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "militias",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "checkpoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "checkpoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "lithuania",
+    "target": "checkpoints",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "travis",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "maui",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "victims",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "maui",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "dominican",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "explosion",
+    "target": "dominican",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "dominican",
+    "action": "add-edge"
+  },
+  {
+    "source": "clashes",
+    "target": "tripoli",
+    "action": "add-edge"
+  },
+  {
+    "source": "militias",
+    "target": "tripoli",
+    "action": "add-edge"
+  },
+  {
+    "source": "cup",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "maui",
+    "action": "add-edge"
+  },
+  {
+    "source": "victims",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "final",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "discrimination",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "discrimination",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "hawaii",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "hawaii",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "refuge",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "refuge",
+    "action": "add-edge"
+  },
+  {
+    "source": "soldier",
+    "target": "discrimination",
+    "action": "add-edge"
+  }
+]
