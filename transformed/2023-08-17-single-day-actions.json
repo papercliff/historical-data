@@ -1,0 +1,762 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 23,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfire",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 15,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tenerife",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "island",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "malaysia",
+    "weight": 13,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 12,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "germany",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "transgender",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "chess",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hillsong",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 10,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 10,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "sweden",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "threat",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "guilty",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 9,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "father",
+    "weight": 9,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "federation",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "billion",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "church",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "terror",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "seized",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "burnings",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "google",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "prince",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "convicted",
+    "weight": 7,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "jet",
+    "weight": 7,
+    "cluster": 9,
+    "action": "add-node"
+  },
+  {
+    "id": "quran",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "competing",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "defense",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "executes",
+    "weight": 6,
+    "cluster": 8,
+    "action": "add-node"
+  },
+  {
+    "id": "houston",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "tests",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crimes",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "pangolin",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "scales",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "defence",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "transgender",
+    "target": "chess",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "chess",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "transgender",
+    "action": "add-edge"
+  },
+  {
+    "source": "chess",
+    "target": "federation",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "federation",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "tenerife",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "spain",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "tenerife",
+    "action": "add-edge"
+  },
+  {
+    "source": "chess",
+    "target": "competing",
+    "action": "add-edge"
+  },
+  {
+    "source": "transgender",
+    "target": "competing",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "competing",
+    "action": "add-edge"
+  },
+  {
+    "source": "transgender",
+    "target": "federation",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "father",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "federation",
+    "target": "competing",
+    "action": "add-edge"
+  },
+  {
+    "source": "hillsong",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "church",
+    "target": "houston",
+    "action": "add-edge"
+  },
+  {
+    "source": "hillsong",
+    "target": "houston",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "church",
+    "action": "add-edge"
+  },
+  {
+    "source": "hillsong",
+    "target": "guilty",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "burnings",
+    "action": "add-edge"
+  },
+  {
+    "source": "threat",
+    "target": "burnings",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "threat",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "terror",
+    "action": "add-edge"
+  },
+  {
+    "source": "threat",
+    "target": "terror",
+    "action": "add-edge"
+  },
+  {
+    "source": "burnings",
+    "target": "quran",
+    "action": "add-edge"
+  },
+  {
+    "source": "sweden",
+    "target": "quran",
+    "action": "add-edge"
+  },
+  {
+    "source": "convicted",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "father",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "billion",
+    "target": "defense",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "billion",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "defense",
+    "action": "add-edge"
+  },
+  {
+    "source": "tenerife",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfire",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "island",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "houston",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "guilty",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "hillsong",
+    "target": "crimes",
+    "action": "add-edge"
+  },
+  {
+    "source": "pangolin",
+    "target": "scales",
+    "action": "add-edge"
+  },
+  {
+    "source": "seized",
+    "target": "pangolin",
+    "action": "add-edge"
+  },
+  {
+    "source": "seized",
+    "target": "scales",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "scales",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "pangolin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "google",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "google",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "tests",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "tests",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "burnings",
+    "action": "add-edge"
+  },
+  {
+    "source": "terror",
+    "target": "quran",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "prince",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashes",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "father",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "convicted",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "executes",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "malaysia",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "germany",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "defence",
+    "action": "add-edge"
+  }
+]
