@@ -1,0 +1,489 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hurricane",
+    "weight": 18,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 17,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 16,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hilary",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "warning",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drills",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "chernihiv",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "chinese",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "catastrophic",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israelis",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "california",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "palestinian",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "wash",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "activists",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "egyptian",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "freed",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "uprising",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "generals",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "hurricane",
+    "target": "hilary",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "warning",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "flooding",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "california",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "california",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "drills",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "palestinian",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "wash",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "wash",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "chernihiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "chernihiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "drills",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "warning",
+    "target": "chinese",
+    "action": "add-edge"
+  },
+  {
+    "source": "israelis",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "palestinian",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "wash",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "chernihiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "egyptian",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "freed",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "activists",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "uprising",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "egyptian",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "egyptian",
+    "action": "add-edge"
+  },
+  {
+    "source": "activists",
+    "target": "freed",
+    "action": "add-edge"
+  },
+  {
+    "source": "missile",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "warning",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "generals",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "generals",
+    "action": "add-edge"
+  }
+]
