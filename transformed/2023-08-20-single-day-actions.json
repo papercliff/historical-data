@@ -1,0 +1,766 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "moon",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hilary",
+    "weight": 17,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "luna",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "netherlands",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jets",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "california",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "mexico",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "england",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "spacecraft",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "denmark",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "hurricane",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "tropical",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "cup",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "landfall",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "polls",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "win",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "primary",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "voters",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ecuadorians",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "debates",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "skip",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "fighter",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "historic",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pride",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dutch",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "head",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "change",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "guatemalans",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "choosing",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "scare",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "flag",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tanker",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tehran",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "catastrophic",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "moon",
+    "target": "luna",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "luna",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "luna",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "netherlands",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "luna",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "england",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "england",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "women",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "denmark",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "california",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "cup",
+    "action": "add-edge"
+  },
+  {
+    "source": "debates",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "debates",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "landfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuadorians",
+    "target": "choosing",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "choosing",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "ecuadorians",
+    "action": "add-edge"
+  },
+  {
+    "source": "voters",
+    "target": "choosing",
+    "action": "add-edge"
+  },
+  {
+    "source": "voters",
+    "target": "ecuadorians",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "voters",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuadorians",
+    "target": "scare",
+    "action": "add-edge"
+  },
+  {
+    "source": "voters",
+    "target": "scare",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "california",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "england",
+    "target": "win",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "win",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "win",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "pride",
+    "action": "add-edge"
+  },
+  {
+    "source": "pride",
+    "target": "flag",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "netherlands",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "tehran",
+    "action": "add-edge"
+  },
+  {
+    "source": "tanker",
+    "target": "tehran",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "tehran",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "hilary",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "head",
+    "target": "guatemalans",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "guatemalans",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "head",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "guatemalans",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "head",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "change",
+    "target": "guatemalans",
+    "action": "add-edge"
+  },
+  {
+    "source": "polls",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "head",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "change",
+    "action": "add-edge"
+  },
+  {
+    "source": "choosing",
+    "target": "scare",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "scare",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "flooding",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "catastrophic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "california",
+    "target": "mexico",
+    "action": "add-edge"
+  },
+  {
+    "source": "mexico",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "primary",
+    "target": "debates",
+    "action": "add-edge"
+  },
+  {
+    "source": "primary",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "primary",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "historic",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "historic",
+    "action": "add-edge"
+  }
+]
