@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "wagner",
+    "weight": 37,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 33,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 33,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 29,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 28,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "moon",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crashed",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "brics",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jet",
+    "weight": 20,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "spacecraft",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 19,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "passenger",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 16,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cable",
+    "weight": 14,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "landing",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenary",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "debate",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "chandrayaan",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "giuliani",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mutiny",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "stranded",
+    "weight": 12,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "canal",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "suez",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "land",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 10,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lunar",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 9,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 9,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "rudy",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "rocket",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "car",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "boss",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pole",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "republican",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gop",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hospital",
+    "weight": 7,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "armageddon",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "surrender",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "mission",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "orbit",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "expansion",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 7,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "tanker",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kills",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thaksin",
+    "weight": 6,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "punjab",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "country",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 6,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "surrenders",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tankers",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "exile",
+    "weight": 4,
+    "cluster": 7,
+    "action": "add-node"
+  },
+  {
+    "id": "failed",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "lands",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "india",
+    "target": "moon",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "spacecraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "landing",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "landing",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "jet",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashed",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "giuliani",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "rudy",
+    "action": "add-edge"
+  },
+  {
+    "source": "giuliani",
+    "target": "rudy",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "land",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "land",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "land",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "orbit",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "orbit",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "gop",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "gop",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "pole",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "pole",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "suez",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "tanker",
+    "action": "add-edge"
+  },
+  {
+    "source": "landing",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "crashed",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "hospital",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "thaksin",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "thaksin",
+    "action": "add-edge"
+  },
+  {
+    "source": "chandrayaan",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "landing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "rocket",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "orbit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "brics",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "surrenders",
+    "action": "add-edge"
+  },
+  {
+    "source": "giuliani",
+    "target": "surrenders",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "boss",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "boss",
+    "action": "add-edge"
+  },
+  {
+    "source": "canal",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "suez",
+    "target": "tankers",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "hospital",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "thailand",
+    "target": "exile",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "armageddon",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "armageddon",
+    "action": "add-edge"
+  },
+  {
+    "source": "land",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacecraft",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "country",
+    "action": "add-edge"
+  },
+  {
+    "source": "rocket",
+    "target": "orbit",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "brics",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "kills",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "niger",
+    "action": "add-edge"
+  },
+  {
+    "source": "stranded",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "stranded",
+    "target": "niger",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "stranded",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "niger",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "niger",
+    "action": "add-edge"
+  },
+  {
+    "source": "stranded",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "giuliani",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "rudy",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "landing",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "chandrayaan",
+    "target": "lands",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "lands",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "passenger",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "expansion",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "brics",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "expansion",
+    "action": "add-edge"
+  },
+  {
+    "source": "cable",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "cable",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "chandrayaan",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "cable",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "car",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mutiny",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "mission",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "evacuated",
+    "target": "punjab",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "punjab",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "pole",
+    "action": "add-edge"
+  },
+  {
+    "source": "cable",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "cable",
+    "target": "stranded",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "stranded",
+    "action": "add-edge"
+  }
+]
