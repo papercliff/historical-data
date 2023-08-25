@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "prigozhin",
+    "weight": 36,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 32,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 31,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "brics",
+    "weight": 29,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 27,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 26,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 24,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fukushima",
+    "weight": 24,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 21,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "debate",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 20,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 20,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "saudi",
+    "weight": 19,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "wastewater",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "seafood",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "chief",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 16,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "republican",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arabia",
+    "weight": 15,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "independence",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenary",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "jailed",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "reporter",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "water",
+    "weight": 13,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nations",
+    "weight": 13,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jail",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "explosion",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "yevgeny",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "satellite",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "day",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "radioactive",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "candidates",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "moon",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pakistan",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "surrender",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "gop",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "silence",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "japanese",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crashed",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "jets",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "missile",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sues",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ocean",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "norway",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "fighter",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "launch",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "border",
+    "weight": 8,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "chandrayaan",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "spacex",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mistakes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sanctions",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ramaswamy",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tucker",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "carlson",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "khan",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "lunar",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rover",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "atlanta",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "operation",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "appeal",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "vivek",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "discrimination",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "foes",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pacific",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "donate",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "failed",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "nigeria",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 5,
+    "cluster": 6,
+    "action": "add-node"
+  },
+  {
+    "id": "conviction",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "walk",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "building",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "pentagon",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "boss",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "demise",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "justice",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "prigozhin",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "satellite",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "seafood",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "wastewater",
+    "action": "add-edge"
+  },
+  {
+    "source": "wastewater",
+    "target": "seafood",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "nations",
+    "action": "add-edge"
+  },
+  {
+    "source": "saudi",
+    "target": "nations",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "wastewater",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "nations",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "seafood",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "wastewater",
+    "action": "add-edge"
+  },
+  {
+    "source": "arabia",
+    "target": "nations",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launch",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "water",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "japanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "seafood",
+    "target": "japanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "independence",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "independence",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "silence",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "silence",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "silence",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "republican",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "candidates",
+    "action": "add-edge"
+  },
+  {
+    "source": "republican",
+    "target": "candidates",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "mistakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "mistakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacex",
+    "target": "discrimination",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "discrimination",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "spacex",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "jail",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "seafood",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "satellite",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "mercenary",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "donate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "donate",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "norway",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "jets",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "silence",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "rover",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "walk",
+    "action": "add-edge"
+  },
+  {
+    "source": "rover",
+    "target": "walk",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "crashed",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "mercenary",
+    "action": "add-edge"
+  },
+  {
+    "source": "jail",
+    "target": "atlanta",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "atlanta",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "missile",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "operation",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "operation",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mistakes",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "carlson",
+    "action": "add-edge"
+  },
+  {
+    "source": "tucker",
+    "target": "carlson",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "tucker",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "moon",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "rover",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "wastewater",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "sanctions",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sanctions",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "jailed",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "radioactive",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "radioactive",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "sea",
+    "target": "radioactive",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "jailed",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "moscow",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "reporter",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "radioactive",
+    "action": "add-edge"
+  },
+  {
+    "source": "water",
+    "target": "radioactive",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "chief",
+    "action": "add-edge"
+  },
+  {
+    "source": "launch",
+    "target": "failed",
+    "action": "add-edge"
+  },
+  {
+    "source": "jets",
+    "target": "donate",
+    "action": "add-edge"
+  },
+  {
+    "source": "norway",
+    "target": "fighter",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "appeal",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "khan",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "arabia",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "lunar",
+    "action": "add-edge"
+  },
+  {
+    "source": "lunar",
+    "target": "rover",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "court",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "saudi",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "nigeria",
+    "target": "building",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "nigeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "gop",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "gop",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "day",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "independence",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "ramaswamy",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "vivek",
+    "action": "add-edge"
+  },
+  {
+    "source": "ramaswamy",
+    "target": "vivek",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "pakistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "khan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "conviction",
+    "action": "add-edge"
+  },
+  {
+    "source": "pakistan",
+    "target": "appeal",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "carlson",
+    "action": "add-edge"
+  },
+  {
+    "source": "debate",
+    "target": "tucker",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "pentagon",
+    "action": "add-edge"
+  },
+  {
+    "source": "foes",
+    "target": "demise",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "demise",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "foes",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "demise",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "foes",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "surrender",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "boss",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "boss",
+    "action": "add-edge"
+  },
+  {
+    "source": "spacex",
+    "target": "justice",
+    "action": "add-edge"
+  },
+  {
+    "source": "sues",
+    "target": "justice",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "pacific",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "pacific",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "wastewater",
+    "target": "japanese",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "reporter",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "seafood",
+    "target": "ocean",
+    "action": "add-edge"
+  },
+  {
+    "source": "moon",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "chandrayaan",
+    "target": "rover",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "border",
+    "action": "add-edge"
+  },
+  {
+    "source": "border",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "brics",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "chandrayaan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "candidates",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "explosion",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "yevgeny",
+    "action": "add-edge"
+  }
+]
