@@ -1,0 +1,744 @@
+[
+  {
+    "id": "prigozhin",
+    "weight": 31,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 23,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 22,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "spain",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mugshot",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "donald",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "kiss",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "deaths",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "jail",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "museum",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "director",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "crimea",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rubiales",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "greece",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "resign",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "resigns",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "junta",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "canadian",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "denies",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "campaign",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sarkozy",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "mug",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "refuses",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "leave",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "thefts",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "financing",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "nicolas",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "uk",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "harm",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crooked",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "pub",
+    "weight": 4,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "mug",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "mug",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "director",
+    "action": "add-edge"
+  },
+  {
+    "source": "director",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "resigns",
+    "action": "add-edge"
+  },
+  {
+    "source": "director",
+    "target": "thefts",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "thefts",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "crimea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "mugshot",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "mugshot",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "donald",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "georgia",
+    "action": "add-edge"
+  },
+  {
+    "source": "junta",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "mugshot",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "jail",
+    "action": "add-edge"
+  },
+  {
+    "source": "crimea",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "kiss",
+    "target": "refuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "kiss",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "resign",
+    "target": "refuses",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "junta",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "kiss",
+    "target": "rubiales",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "kiss",
+    "action": "add-edge"
+  },
+  {
+    "source": "spain",
+    "target": "rubiales",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "mug",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "leave",
+    "action": "add-edge"
+  },
+  {
+    "source": "donald",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "sarkozy",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "sarkozy",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "canadian",
+    "action": "add-edge"
+  },
+  {
+    "source": "canadian",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "uk",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "canadian",
+    "target": "harm",
+    "action": "add-edge"
+  },
+  {
+    "source": "deaths",
+    "target": "harm",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "mug",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "greece",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "greece",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "campaign",
+    "target": "nicolas",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "nicolas",
+    "action": "add-edge"
+  },
+  {
+    "source": "sarkozy",
+    "target": "nicolas",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "crooked",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrested",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "crooked",
+    "target": "pub",
+    "action": "add-edge"
+  },
+  {
+    "source": "financing",
+    "target": "nicolas",
+    "action": "add-edge"
+  },
+  {
+    "source": "sarkozy",
+    "target": "financing",
+    "action": "add-edge"
+  },
+  {
+    "source": "kremlin",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "plane",
+    "target": "denies",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "resign",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "election",
+    "action": "add-edge"
+  }
+]
