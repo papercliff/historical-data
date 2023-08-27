@@ -1,0 +1,443 @@
+[
+  {
+    "id": "russia",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 21,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 17,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "museum",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mercenaries",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 10,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "appeals",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "detention",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wildfires",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bob",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "barker",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "gershkovich",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "loch",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ness",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "monster",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mnangagwa",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "recovered",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "zimbabwe",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "oath",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "items",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "stolen",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "arrest",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "emmerson",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pretrial",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "host",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "arson",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "greek",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "price",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hunt",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "russia",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "mercenaries",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "loch",
+    "target": "monster",
+    "action": "add-edge"
+  },
+  {
+    "source": "loch",
+    "target": "ness",
+    "action": "add-edge"
+  },
+  {
+    "source": "ness",
+    "target": "monster",
+    "action": "add-edge"
+  },
+  {
+    "source": "appeals",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "appeals",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "appeals",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "detention",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "items",
+    "action": "add-edge"
+  },
+  {
+    "source": "items",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "gershkovich",
+    "action": "add-edge"
+  },
+  {
+    "source": "museum",
+    "target": "recovered",
+    "action": "add-edge"
+  },
+  {
+    "source": "recovered",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "recovered",
+    "target": "items",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "bob",
+    "target": "barker",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "barker",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "bob",
+    "action": "add-edge"
+  },
+  {
+    "source": "arson",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "arson",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "appeals",
+    "target": "pretrial",
+    "action": "add-edge"
+  },
+  {
+    "source": "detention",
+    "target": "pretrial",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "pretrial",
+    "action": "add-edge"
+  },
+  {
+    "source": "gershkovich",
+    "target": "pretrial",
+    "action": "add-edge"
+  },
+  {
+    "source": "barker",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "source": "bob",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "source": "barker",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "bob",
+    "target": "host",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "greek",
+    "action": "add-edge"
+  },
+  {
+    "source": "wildfires",
+    "target": "arrest",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrest",
+    "target": "arson",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "price",
+    "action": "add-edge"
+  },
+  {
+    "source": "mnangagwa",
+    "target": "emmerson",
+    "action": "add-edge"
+  },
+  {
+    "source": "zimbabwe",
+    "target": "emmerson",
+    "action": "add-edge"
+  },
+  {
+    "source": "mnangagwa",
+    "target": "zimbabwe",
+    "action": "add-edge"
+  },
+  {
+    "source": "mnangagwa",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "zimbabwe",
+    "target": "president",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "oath",
+    "action": "add-edge"
+  },
+  {
+    "source": "loch",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "monster",
+    "target": "hunt",
+    "action": "add-edge"
+  },
+  {
+    "source": "ness",
+    "target": "hunt",
+    "action": "add-edge"
+  }
+]
