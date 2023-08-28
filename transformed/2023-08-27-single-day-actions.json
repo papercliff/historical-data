@@ -1,0 +1,677 @@
+[
+  {
+    "id": "crash",
+    "weight": 32,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 31,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 30,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 28,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "marines",
+    "weight": 19,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "women",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "aircraft",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "australia",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "opposition",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zimbabwe",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "military",
+    "weight": 12,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "gang",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "yevgeny",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "syria",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "haiti",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "taliban",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mnangagwa",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "park",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "crashes",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "genetic",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "died",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "met",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "congress",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "libyan",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "northwest",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "criminals",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "crowd",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "parishioners",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "afghan",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "afghanistan",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "source": "crash",
+    "target": "prigozhin",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "marines",
+    "action": "add-edge"
+  },
+  {
+    "source": "marines",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "marines",
+    "target": "aircraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "marines",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "aircraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "australia",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "aircraft",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "yevgeny",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "syria",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "congress",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "aircraft",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "military",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "northwest",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "northwest",
+    "action": "add-edge"
+  },
+  {
+    "source": "congress",
+    "target": "northwest",
+    "action": "add-edge"
+  },
+  {
+    "source": "syria",
+    "target": "northwest",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "gang",
+    "target": "criminals",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "criminals",
+    "action": "add-edge"
+  },
+  {
+    "source": "gang",
+    "target": "haiti",
+    "action": "add-edge"
+  },
+  {
+    "source": "marines",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "australia",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "marines",
+    "target": "crashes",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "park",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "taliban",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "genetic",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "genetic",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "met",
+    "action": "add-edge"
+  },
+  {
+    "source": "met",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "libyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "libyan",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "libyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "met",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "met",
+    "target": "libyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "criminals",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "criminals",
+    "target": "parishioners",
+    "action": "add-edge"
+  },
+  {
+    "source": "crowd",
+    "target": "parishioners",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "gang",
+    "target": "parishioners",
+    "action": "add-edge"
+  },
+  {
+    "source": "gang",
+    "target": "crowd",
+    "action": "add-edge"
+  },
+  {
+    "source": "haiti",
+    "target": "parishioners",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "military",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghan",
+    "action": "add-edge"
+  },
+  {
+    "source": "taliban",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "women",
+    "target": "afghanistan",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "genetic",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "genetic",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "mnangagwa",
+    "action": "add-edge"
+  },
+  {
+    "source": "zimbabwe",
+    "target": "mnangagwa",
+    "action": "add-edge"
+  },
+  {
+    "source": "opposition",
+    "target": "zimbabwe",
+    "action": "add-edge"
+  }
+]
