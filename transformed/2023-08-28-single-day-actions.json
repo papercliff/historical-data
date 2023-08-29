@@ -1,0 +1,627 @@
+[
+  {
+    "id": "china",
+    "weight": 24,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "trial",
+    "weight": 17,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "covid",
+    "weight": 15,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "prigozhin",
+    "weight": 15,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "idalia",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "wagner",
+    "weight": 14,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rubiales",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "japan",
+    "weight": 13,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 12,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "florida",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "foxconn",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "crash",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "march",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "fukushima",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "mother",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "strike",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "hunger",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "harassment",
+    "weight": 10,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "tropical",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "gou",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "date",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "federal",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "birth",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "commerce",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hurricane",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "macron",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "niger",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "ambassador",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "presidential",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "stolen",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "protests",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "test",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "economic",
+    "weight": 7,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "terry",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "plane",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "interference",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "secretary",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "son",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "founder",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "junta",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "foxconn",
+    "target": "gou",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "foxconn",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "gou",
+    "action": "add-edge"
+  },
+  {
+    "source": "idalia",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "idalia",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "foxconn",
+    "target": "terry",
+    "action": "add-edge"
+  },
+  {
+    "source": "gou",
+    "target": "terry",
+    "action": "add-edge"
+  },
+  {
+    "source": "idalia",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "florida",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "idalia",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "florida",
+    "target": "tropical",
+    "action": "add-edge"
+  },
+  {
+    "source": "tropical",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "mother",
+    "target": "birth",
+    "action": "add-edge"
+  },
+  {
+    "source": "birth",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "mother",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "covid",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "covid",
+    "target": "test",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "libya",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "terry",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "hurricane",
+    "action": "add-edge"
+  },
+  {
+    "source": "march",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "march",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "harassment",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "japan",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "harassment",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "fukushima",
+    "action": "add-edge"
+  },
+  {
+    "source": "japan",
+    "target": "fukushima",
+    "action": "add-edge"
+  },
+  {
+    "source": "fukushima",
+    "target": "harassment",
+    "action": "add-edge"
+  },
+  {
+    "source": "foxconn",
+    "target": "founder",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "founder",
+    "action": "add-edge"
+  },
+  {
+    "source": "mother",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "mother",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "strike",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "mother",
+    "target": "strike",
+    "action": "add-edge"
+  },
+  {
+    "source": "birth",
+    "target": "son",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "march",
+    "target": "date",
+    "action": "add-edge"
+  },
+  {
+    "source": "federal",
+    "target": "interference",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "federal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trial",
+    "target": "interference",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "commerce",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "commerce",
+    "target": "secretary",
+    "action": "add-edge"
+  },
+  {
+    "source": "crash",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "wagner",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "protests",
+    "action": "add-edge"
+  },
+  {
+    "source": "ambassador",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "niger",
+    "target": "junta",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "ambassador",
+    "action": "add-edge"
+  },
+  {
+    "source": "macron",
+    "target": "niger",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "crash",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "plane",
+    "action": "add-edge"
+  },
+  {
+    "source": "prigozhin",
+    "target": "wagner",
+    "action": "add-edge"
+  },
+  {
+    "source": "foxconn",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "presidential",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "interference",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "economic",
+    "action": "add-edge"
+  },
+  {
+    "source": "march",
+    "target": "federal",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "hunger",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "strike",
+    "action": "add-edge"
+  }
+]
