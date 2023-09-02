@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 28,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 23,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "typhoon",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "saola",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 16,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "prison",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "shot",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "school",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ecuador",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "woman",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "moscow",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "years",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tourists",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "thaksin",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "foreign",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mohamed",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "hostage",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "proud",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "capitol",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "security",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "african",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "belarus",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "video",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "al",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fayed",
+    "weight": 9,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "nazi",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "boys",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "bear",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "algerian",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pope",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "prime",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "child",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "range",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "shinawatra",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "thai",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kyiv",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mongolia",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "abuse",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "prize",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "italy",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "agent",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "muratov",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "camp",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cubs",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "murder",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thailand",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "arrested",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jet",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dmitry",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ski",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "guard",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "guards",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "died",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "fragile",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "prisons",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "shooting",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "moroccan",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ceremony",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "franke",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "long",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ruby",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "algeria",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "pregnant",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "charged",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "gets",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "harrods",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "waters",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "diana",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "local",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "shootout",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "saola",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "saola",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "saola",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "shot",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "tourists",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "hong",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "saola",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "capitol",
+    "target": "boys",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "boys",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "capitol",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "thaksin",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "thaksin",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "foreign",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "foreign",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "shinawatra",
+    "action": "add-edge"
+  },
+  {
+    "source": "thaksin",
+    "target": "shinawatra",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "shinawatra",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "muratov",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "muratov",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "agent",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "agent",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "muratov",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "agent",
+    "action": "add-edge"
+  },
+  {
+    "source": "agent",
+    "target": "muratov",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "mongolia",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "mongolia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "pope",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "thai",
+    "action": "add-edge"
+  },
+  {
+    "source": "thaksin",
+    "target": "thai",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "ski",
+    "action": "add-edge"
+  },
+  {
+    "source": "al",
+    "target": "fayed",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "al",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "fayed",
+    "action": "add-edge"
+  },
+  {
+    "source": "muratov",
+    "target": "dmitry",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "dmitry",
+    "action": "add-edge"
+  },
+  {
+    "source": "agent",
+    "target": "dmitry",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "dmitry",
+    "action": "add-edge"
+  },
+  {
+    "source": "foreign",
+    "target": "dmitry",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuador",
+    "target": "hostage",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuador",
+    "target": "prisons",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "prisons",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuador",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "guards",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "capitol",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "proud",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "mongolia",
+    "action": "add-edge"
+  },
+  {
+    "source": "thaksin",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "thaksin",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "prime",
+    "target": "shinawatra",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "prime",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "prime",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "shinawatra",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "shinawatra",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "bear",
+    "target": "cubs",
+    "action": "add-edge"
+  },
+  {
+    "source": "bear",
+    "target": "italy",
+    "action": "add-edge"
+  },
+  {
+    "source": "italy",
+    "target": "cubs",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "prize",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "prize",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "franke",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "ruby",
+    "action": "add-edge"
+  },
+  {
+    "source": "franke",
+    "target": "ruby",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "pregnant",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "woman",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "pregnant",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "franke",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "ruby",
+    "action": "add-edge"
+  },
+  {
+    "source": "fayed",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "abuse",
+    "action": "add-edge"
+  },
+  {
+    "source": "prison",
+    "target": "thai",
+    "action": "add-edge"
+  },
+  {
+    "source": "fayed",
+    "target": "harrods",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "harrods",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "guard",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "camp",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "guard",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "fragile",
+    "action": "add-edge"
+  },
+  {
+    "source": "fragile",
+    "target": "prisons",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "fragile",
+    "action": "add-edge"
+  },
+  {
+    "source": "hostage",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "algerian",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "algerian",
+    "action": "add-edge"
+  },
+  {
+    "source": "security",
+    "target": "prisons",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuador",
+    "target": "security",
+    "action": "add-edge"
+  },
+  {
+    "source": "ecuador",
+    "target": "fragile",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "kyiv",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "moscow",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "bear",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "bear",
+    "action": "add-edge"
+  },
+  {
+    "source": "thaksin",
+    "target": "thailand",
+    "action": "add-edge"
+  },
+  {
+    "source": "range",
+    "target": "long",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "long",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "range",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "prize",
+    "target": "ceremony",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "belarus",
+    "action": "add-edge"
+  },
+  {
+    "source": "belarus",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "iran",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "jet",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "video",
+    "target": "pregnant",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "algeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "algeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "video",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "algeria",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "proud",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "al",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "drone",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "mongolia",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "pope",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "abuse",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "child",
+    "target": "arrested",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "gets",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "gets",
+    "action": "add-edge"
+  },
+  {
+    "source": "capitol",
+    "target": "gets",
+    "action": "add-edge"
+  },
+  {
+    "source": "capitol",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "proud",
+    "target": "gets",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "murder",
+    "action": "add-edge"
+  },
+  {
+    "source": "years",
+    "target": "capitol",
+    "action": "add-edge"
+  },
+  {
+    "source": "algerian",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "woman",
+    "target": "shooting",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "algerian",
+    "action": "add-edge"
+  },
+  {
+    "source": "shot",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "tourists",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "camp",
+    "target": "charged",
+    "action": "add-edge"
+  },
+  {
+    "source": "nazi",
+    "target": "charged",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "waters",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "african",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "police",
+    "action": "add-edge"
+  },
+  {
+    "source": "african",
+    "target": "shootout",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "shootout",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "shootout",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "killed",
+    "target": "shootout",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "francis",
+    "action": "add-edge"
+  },
+  {
+    "source": "fayed",
+    "target": "diana",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "diana",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "school",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "local",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "local",
+    "action": "add-edge"
+  },
+  {
+    "source": "fayed",
+    "target": "died",
+    "action": "add-edge"
+  },
+  {
+    "source": "mohamed",
+    "target": "died",
+    "action": "add-edge"
+  }
+]
