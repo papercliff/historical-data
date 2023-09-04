@@ -1,0 +1,855 @@
+[
+  {
+    "id": "ukraine",
+    "weight": 27,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "burning",
+    "weight": 16,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rain",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "typhoon",
+    "weight": 11,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "defence",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "festival",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "man",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "zelenskyy",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ban",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "haikui",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "taiwan",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "odesa",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "attacks",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 8,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "france",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "zelensky",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "migrants",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "oleksii",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "reznikov",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "drone",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "elizabeth",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "queen",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "desert",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "disposable",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "eritrean",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "stranded",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "smoking",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vapes",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mud",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "deported",
+    "weight": 5,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "electoral",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "guatemala",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "replaced",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "buckingham",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "corgis",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "palace",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "parade",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "memorial",
+    "weight": 4,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "elect",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "evacuated",
+    "weight": 4,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "replace",
+    "weight": 4,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "suspension",
+    "weight": 4,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "source": "haikui",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "haikui",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelensky",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "festival",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "man",
+    "action": "add-edge"
+  },
+  {
+    "source": "festival",
+    "target": "man",
+    "action": "add-edge"
+  },
+  {
+    "source": "oleksii",
+    "target": "reznikov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "oleksii",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "reznikov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "disposable",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "france",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "disposable",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "man",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "desert",
+    "action": "add-edge"
+  },
+  {
+    "source": "man",
+    "target": "desert",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "rain",
+    "target": "man",
+    "action": "add-edge"
+  },
+  {
+    "source": "rain",
+    "target": "festival",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "smoking",
+    "action": "add-edge"
+  },
+  {
+    "source": "disposable",
+    "target": "smoking",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "smoking",
+    "action": "add-edge"
+  },
+  {
+    "source": "ban",
+    "target": "vapes",
+    "action": "add-edge"
+  },
+  {
+    "source": "smoking",
+    "target": "vapes",
+    "action": "add-edge"
+  },
+  {
+    "source": "france",
+    "target": "vapes",
+    "action": "add-edge"
+  },
+  {
+    "source": "disposable",
+    "target": "vapes",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "eritrean",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "eritrean",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "eritrean",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "eritrean",
+    "target": "deported",
+    "action": "add-edge"
+  },
+  {
+    "source": "migrants",
+    "target": "deported",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "deported",
+    "action": "add-edge"
+  },
+  {
+    "source": "defence",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "zelenskyy",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "migrants",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "port",
+    "target": "attacks",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "festival",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "odesa",
+    "target": "drone",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "oleksii",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "reznikov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "replaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "zelenskyy",
+    "target": "replaced",
+    "action": "add-edge"
+  },
+  {
+    "source": "corgis",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "corgis",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "corgis",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "palace",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "corgis",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "buckingham",
+    "action": "add-edge"
+  },
+  {
+    "source": "buckingham",
+    "target": "parade",
+    "action": "add-edge"
+  },
+  {
+    "source": "buckingham",
+    "target": "corgis",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "buckingham",
+    "action": "add-edge"
+  },
+  {
+    "source": "buckingham",
+    "target": "palace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "stranded",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "stranded",
+    "action": "add-edge"
+  },
+  {
+    "source": "festival",
+    "target": "desert",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "burning",
+    "target": "mud",
+    "action": "add-edge"
+  },
+  {
+    "source": "man",
+    "target": "mud",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "festival",
+    "target": "mud",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "memorial",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "memorial",
+    "action": "add-edge"
+  },
+  {
+    "source": "rain",
+    "target": "mud",
+    "action": "add-edge"
+  },
+  {
+    "source": "israel",
+    "target": "deported",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "haikui",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "typhoon",
+    "action": "add-edge"
+  },
+  {
+    "source": "guatemala",
+    "target": "elect",
+    "action": "add-edge"
+  },
+  {
+    "source": "elect",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "guatemala",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "electoral",
+    "target": "guatemala",
+    "action": "add-edge"
+  },
+  {
+    "source": "electoral",
+    "target": "suspension",
+    "action": "add-edge"
+  },
+  {
+    "source": "electoral",
+    "target": "elect",
+    "action": "add-edge"
+  },
+  {
+    "source": "taiwan",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "taiwan",
+    "action": "add-edge"
+  },
+  {
+    "source": "haikui",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "typhoon",
+    "target": "evacuated",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "replace",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "nuclear",
+    "action": "add-edge"
+  }
+]
