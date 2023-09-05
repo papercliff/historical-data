@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "putin",
+    "weight": 32,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 31,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "grain",
+    "weight": 26,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "president",
+    "weight": 21,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "africa",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "minister",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "climate",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "leader",
+    "weight": 16,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "iran",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "gabon",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sworn",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "erdogan",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "india",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "xi",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "coup",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "asean",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "francis",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "mongolia",
+    "weight": 10,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "defence",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "chancellor",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "demands",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "scholz",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 8,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "west",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "drones",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "port",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jogging",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "german",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "smash",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "vladimir",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "romania",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "skip",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "eye",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "interim",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "olaf",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "uranium",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "papal",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "clinic",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "southeast",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "dies",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "accident",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rustem",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "umerov",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "harwell",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "jinping",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "mouth",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "steve",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "disappointed",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "picture",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "slows",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "enrichment",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "nato",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "erdo\u011fan",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tweets",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "watchdog",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "source": "putin",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "grain",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "gabon",
+    "action": "add-edge"
+  },
+  {
+    "source": "gabon",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "gabon",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "gabon",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "sworn",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "leader",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "africa",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "climate",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "demands",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "demands",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "coup",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "port",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "erdogan",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "skip",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "india",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "jogging",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "scholz",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "jogging",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "mongolia",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "papal",
+    "action": "add-edge"
+  },
+  {
+    "source": "mongolia",
+    "target": "papal",
+    "action": "add-edge"
+  },
+  {
+    "source": "mongolia",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "papal",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "demands",
+    "target": "west",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "erdogan",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "defence",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "minister",
+    "action": "add-edge"
+  },
+  {
+    "source": "smash",
+    "target": "mouth",
+    "action": "add-edge"
+  },
+  {
+    "source": "mouth",
+    "target": "steve",
+    "action": "add-edge"
+  },
+  {
+    "source": "smash",
+    "target": "steve",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "jogging",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "eye",
+    "action": "add-edge"
+  },
+  {
+    "source": "jogging",
+    "target": "eye",
+    "action": "add-edge"
+  },
+  {
+    "source": "harwell",
+    "target": "mouth",
+    "action": "add-edge"
+  },
+  {
+    "source": "harwell",
+    "target": "steve",
+    "action": "add-edge"
+  },
+  {
+    "source": "smash",
+    "target": "harwell",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "eye",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "disappointed",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "disappointed",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "vladimir",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "enrichment",
+    "action": "add-edge"
+  },
+  {
+    "source": "uranium",
+    "target": "enrichment",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "uranium",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "papal",
+    "target": "clinic",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "clinic",
+    "action": "add-edge"
+  },
+  {
+    "source": "mongolia",
+    "target": "clinic",
+    "action": "add-edge"
+  },
+  {
+    "source": "francis",
+    "target": "clinic",
+    "action": "add-edge"
+  },
+  {
+    "source": "asean",
+    "target": "southeast",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "asean",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "southeast",
+    "action": "add-edge"
+  },
+  {
+    "source": "romania",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "nato",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "drones",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "demands",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "grain",
+    "target": "erdo\u011fan",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "erdo\u011fan",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "china",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "drones",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "romania",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "umerov",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "umerov",
+    "action": "add-edge"
+  },
+  {
+    "source": "minister",
+    "target": "rustem",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "rustem",
+    "action": "add-edge"
+  },
+  {
+    "source": "rustem",
+    "target": "umerov",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "eye",
+    "action": "add-edge"
+  },
+  {
+    "source": "gabon",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "jogging",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "eye",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "jogging",
+    "target": "olaf",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "olaf",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "german",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "picture",
+    "action": "add-edge"
+  },
+  {
+    "source": "picture",
+    "target": "tweets",
+    "action": "add-edge"
+  },
+  {
+    "source": "scholz",
+    "target": "tweets",
+    "action": "add-edge"
+  },
+  {
+    "source": "eye",
+    "target": "tweets",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "olaf",
+    "action": "add-edge"
+  },
+  {
+    "source": "eye",
+    "target": "picture",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "xi",
+    "action": "add-edge"
+  },
+  {
+    "source": "xi",
+    "target": "disappointed",
+    "action": "add-edge"
+  },
+  {
+    "source": "jogging",
+    "target": "picture",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "nuclear",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "slows",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "slows",
+    "action": "add-edge"
+  },
+  {
+    "source": "chancellor",
+    "target": "picture",
+    "action": "add-edge"
+  },
+  {
+    "source": "german",
+    "target": "accident",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "mouth",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "steve",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "jinping",
+    "action": "add-edge"
+  },
+  {
+    "source": "smash",
+    "target": "dies",
+    "action": "add-edge"
+  },
+  {
+    "source": "dies",
+    "target": "harwell",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "uranium",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "uranium",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "coup",
+    "target": "interim",
+    "action": "add-edge"
+  },
+  {
+    "source": "gabon",
+    "target": "interim",
+    "action": "add-edge"
+  },
+  {
+    "source": "leader",
+    "target": "interim",
+    "action": "add-edge"
+  },
+  {
+    "source": "president",
+    "target": "interim",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "meet",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "sworn",
+    "target": "interim",
+    "action": "add-edge"
+  },
+  {
+    "source": "enrichment",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "enrichment",
+    "action": "add-edge"
+  },
+  {
+    "source": "iran",
+    "target": "watchdog",
+    "action": "add-edge"
+  },
+  {
+    "source": "uranium",
+    "target": "slows",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "arms",
+    "action": "add-edge"
+  }
+]
