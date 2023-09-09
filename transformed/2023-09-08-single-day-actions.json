@@ -1,0 +1,1342 @@
+[
+  {
+    "id": "india",
+    "weight": 32,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 31,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 26,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nuclear",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "summit",
+    "weight": 24,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "submarine",
+    "weight": 20,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "attack",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "musk",
+    "weight": 19,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "modi",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 16,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "hong",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kong",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "elections",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "queen",
+    "weight": 15,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "south",
+    "weight": 15,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "elizabeth",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "georgia",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ukrainian",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jury",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "hurricane",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "lee",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cave",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "charles",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "king",
+    "weight": 11,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "spanish",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rubiales",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 11,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "leaders",
+    "weight": 11,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "charges",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ties",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "elon",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "global",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "regions",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "killing",
+    "weight": 10,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "year",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "delhi",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "anniversary",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "sexual",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 8,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "luis",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "rain",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "occupied",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "launches",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "suspect",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecutors",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "assault",
+    "weight": 8,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "arrests",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "class",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "cuba",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "tactical",
+    "weight": 8,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "yoga",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "grand",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "graham",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "lindsey",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "starlink",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "escaped",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 7,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "ports",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "trapped",
+    "weight": 6,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "strengthens",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "terrorism",
+    "weight": 6,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "category",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dangerous",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "feet",
+    "weight": 5,
+    "cluster": 10,
+    "action": "add-node"
+  },
+  {
+    "id": "senators",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "chip",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 5,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "teen",
+    "weight": 5,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rainfall",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "nuclear",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "submarine",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "submarine",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "lee",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "lee",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "luis",
+    "action": "add-edge"
+  },
+  {
+    "source": "spanish",
+    "target": "luis",
+    "action": "add-edge"
+  },
+  {
+    "source": "spanish",
+    "target": "rubiales",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "kong",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "rain",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "modi",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrests",
+    "target": "cuba",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "cuba",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russia",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "jury",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "graham",
+    "action": "add-edge"
+  },
+  {
+    "source": "graham",
+    "target": "lindsey",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "lindsey",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "charles",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "elizabeth",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "occupied",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "occupied",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "prosecutors",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "spanish",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "spanish",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "sexual",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "spanish",
+    "target": "sexual",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "sexual",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "summit",
+    "action": "add-edge"
+  },
+  {
+    "source": "sexual",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "rubiales",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "class",
+    "action": "add-edge"
+  },
+  {
+    "source": "class",
+    "target": "yoga",
+    "action": "add-edge"
+  },
+  {
+    "source": "killing",
+    "target": "yoga",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "cuba",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arrests",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "graham",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "charges",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "lindsey",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "king",
+    "action": "add-edge"
+  },
+  {
+    "source": "musk",
+    "target": "starlink",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "starlink",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "occupied",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "ukrainian",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "class",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "yoga",
+    "action": "add-edge"
+  },
+  {
+    "source": "regions",
+    "target": "occupied",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "regions",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukrainian",
+    "target": "regions",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "regions",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "launches",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "graham",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "lindsey",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "graham",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "lindsey",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "category",
+    "action": "add-edge"
+  },
+  {
+    "source": "lee",
+    "target": "category",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "category",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "russian",
+    "target": "ports",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "ports",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "musk",
+    "action": "add-edge"
+  },
+  {
+    "source": "elections",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "elections",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "delhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "delhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "hong",
+    "target": "rainfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "kong",
+    "target": "rainfall",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "elizabeth",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "queen",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "killing",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "south",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "south",
+    "action": "add-edge"
+  },
+  {
+    "source": "launches",
+    "target": "tactical",
+    "action": "add-edge"
+  },
+  {
+    "source": "charges",
+    "target": "grand",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "dangerous",
+    "action": "add-edge"
+  },
+  {
+    "source": "lee",
+    "target": "dangerous",
+    "action": "add-edge"
+  },
+  {
+    "source": "grand",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "jury",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "georgia",
+    "target": "senators",
+    "action": "add-edge"
+  },
+  {
+    "source": "hurricane",
+    "target": "strengthens",
+    "action": "add-edge"
+  },
+  {
+    "source": "lee",
+    "target": "strengthens",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "strengthens",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "elon",
+    "target": "starlink",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "modi",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "chip",
+    "action": "add-edge"
+  },
+  {
+    "source": "chip",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "teen",
+    "action": "add-edge"
+  },
+  {
+    "source": "attack",
+    "target": "elon",
+    "action": "add-edge"
+  },
+  {
+    "source": "leaders",
+    "target": "delhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "leaders",
+    "action": "add-edge"
+  },
+  {
+    "source": "nuclear",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "submarine",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "attack",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "delhi",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "charles",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "king",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "elizabeth",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "queen",
+    "target": "year",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "luis",
+    "target": "assault",
+    "action": "add-edge"
+  },
+  {
+    "source": "sexual",
+    "target": "luis",
+    "action": "add-edge"
+  },
+  {
+    "source": "luis",
+    "target": "prosecutors",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "anniversary",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "suspect",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "terrorism",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "feet",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "feet",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "trapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "trapped",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "ties",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "summit",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "india",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "escaped",
+    "action": "add-edge"
+  },
+  {
+    "source": "suspect",
+    "target": "escaped",
+    "action": "add-edge"
+  }
+]
