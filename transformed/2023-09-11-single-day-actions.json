@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "morocco",
+    "weight": 31,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russia",
+    "weight": 30,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 29,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "china",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "earthquake",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 26,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 23,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "vietnam",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "quake",
+    "weight": 19,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "aid",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 18,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 18,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 15,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "visit",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "global",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 14,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "survivors",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "cave",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "killed",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "police",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "trapped",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 13,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "storm",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "spy",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "moroccan",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "claims",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "rescuers",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "case",
+    "weight": 10,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "turkey",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "hit",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "parliament",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "race",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "teams",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "researcher",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "korean",
+    "weight": 9,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "live",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mark",
+    "weight": 8,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "deadly",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "reach",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "battle",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "election",
+    "weight": 7,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "kremlin",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "children",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "hawaii",
+    "weight": 7,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "american",
+    "weight": 7,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "scientist",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "confirms",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dickey",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "judge",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "federal",
+    "weight": 6,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "sara",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "sharif",
+    "weight": 6,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "daniel",
+    "weight": 6,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "kilauea",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "volcano",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "caver",
+    "weight": 6,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arms",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meeting",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "efforts",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "outreach",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "erupts",
+    "weight": 5,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dolly",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "ian",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "sheep",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "towns",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "weapons",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "biden",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "vietnam",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "earthquake",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "case",
+    "target": "federal",
+    "action": "add-edge"
+  },
+  {
+    "source": "case",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "judge",
+    "target": "federal",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "sara",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "sharif",
+    "action": "add-edge"
+  },
+  {
+    "source": "sara",
+    "target": "sharif",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "kilauea",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "volcano",
+    "action": "add-edge"
+  },
+  {
+    "source": "kilauea",
+    "target": "volcano",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "daniel",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "moroccan",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "sara",
+    "action": "add-edge"
+  },
+  {
+    "source": "children",
+    "target": "sharif",
+    "action": "add-edge"
+  },
+  {
+    "source": "police",
+    "target": "children",
+    "action": "add-edge"
+  },
+  {
+    "source": "hawaii",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "volcano",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "kilauea",
+    "target": "erupts",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "federal",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "case",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "researcher",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "researcher",
+    "action": "add-edge"
+  },
+  {
+    "source": "mark",
+    "target": "dickey",
+    "action": "add-edge"
+  },
+  {
+    "source": "trapped",
+    "target": "dickey",
+    "action": "add-edge"
+  },
+  {
+    "source": "trapped",
+    "target": "mark",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "researcher",
+    "action": "add-edge"
+  },
+  {
+    "source": "scientist",
+    "target": "dolly",
+    "action": "add-edge"
+  },
+  {
+    "source": "dolly",
+    "target": "sheep",
+    "action": "add-edge"
+  },
+  {
+    "source": "scientist",
+    "target": "sheep",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "teams",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "survivors",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescuers",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "confirms",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "confirms",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "visit",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "efforts",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "efforts",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "spy",
+    "action": "add-edge"
+  },
+  {
+    "source": "spy",
+    "target": "parliament",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "killed",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "war",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "live",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "china",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "outreach",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "outreach",
+    "action": "add-edge"
+  },
+  {
+    "source": "global",
+    "target": "outreach",
+    "action": "add-edge"
+  },
+  {
+    "source": "vietnam",
+    "target": "global",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "case",
+    "target": "election",
+    "action": "add-edge"
+  },
+  {
+    "source": "election",
+    "target": "judge",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "scientist",
+    "target": "ian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ian",
+    "target": "sheep",
+    "action": "add-edge"
+  },
+  {
+    "source": "moroccan",
+    "target": "hit",
+    "action": "add-edge"
+  },
+  {
+    "source": "hit",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "moroccan",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "hit",
+    "action": "add-edge"
+  },
+  {
+    "source": "hit",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "moroccan",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "teams",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "battle",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "hit",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "teams",
+    "action": "add-edge"
+  },
+  {
+    "source": "survivors",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "claims",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "claims",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "hit",
+    "action": "add-edge"
+  },
+  {
+    "source": "teams",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "reach",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "hit",
+    "action": "add-edge"
+  },
+  {
+    "source": "hit",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "aid",
+    "target": "moroccan",
+    "action": "add-edge"
+  },
+  {
+    "source": "moroccan",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "aid",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "battle",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "toll",
+    "target": "reach",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "reach",
+    "target": "towns",
+    "action": "add-edge"
+  },
+  {
+    "source": "dolly",
+    "target": "ian",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "rescuers",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "american",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "american",
+    "action": "add-edge"
+  },
+  {
+    "source": "rescued",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "visit",
+    "target": "kremlin",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "storm",
+    "action": "add-edge"
+  },
+  {
+    "source": "dickey",
+    "target": "caver",
+    "action": "add-edge"
+  },
+  {
+    "source": "mark",
+    "target": "caver",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "quake",
+    "action": "add-edge"
+  },
+  {
+    "source": "quake",
+    "target": "race",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arms",
+    "action": "add-edge"
+  },
+  {
+    "source": "earthquake",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "morocco",
+    "target": "deadly",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "confirms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "confirms",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korean",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "weapons",
+    "action": "add-edge"
+  },
+  {
+    "source": "trapped",
+    "target": "caver",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkey",
+    "target": "caver",
+    "action": "add-edge"
+  },
+  {
+    "source": "trapped",
+    "target": "turkey",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "confirms",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "storm",
+    "target": "floods",
+    "action": "add-edge"
+  }
+]
