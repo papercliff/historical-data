@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "russia",
+    "weight": 36,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "putin",
+    "weight": 34,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "kim",
+    "weight": 34,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "libya",
+    "weight": 34,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "floods",
+    "weight": 29,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "jong",
+    "weight": 27,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "thousands",
+    "weight": 27,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "biden",
+    "weight": 26,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "ukraine",
+    "weight": 25,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "dead",
+    "weight": 25,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "court",
+    "weight": 25,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "korea",
+    "weight": 22,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "impeachment",
+    "weight": 21,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "missing",
+    "weight": 21,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "north",
+    "weight": 21,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "supreme",
+    "weight": 18,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "trump",
+    "weight": 17,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "feared",
+    "weight": 17,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "train",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "russian",
+    "weight": 16,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "inquiry",
+    "weight": 15,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "van",
+    "weight": 15,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "tax",
+    "weight": 15,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "cave",
+    "weight": 14,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "arrives",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "meeting",
+    "weight": 14,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "stolen",
+    "weight": 14,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "maria",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "ressa",
+    "weight": 14,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "oil",
+    "weight": 13,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "mccarthy",
+    "weight": 13,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "death",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "flood",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "toll",
+    "weight": 13,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "judicial",
+    "weight": 13,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "gogh",
+    "weight": 13,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "turkish",
+    "weight": 12,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "painting",
+    "weight": 12,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "flooding",
+    "weight": 12,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "nobel",
+    "weight": 12,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "war",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "joe",
+    "weight": 11,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "meet",
+    "weight": 11,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "art",
+    "weight": 11,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "acquitted",
+    "weight": 11,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "rescue",
+    "weight": 10,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "talks",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "devastating",
+    "weight": 10,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "cases",
+    "weight": 10,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "libyan",
+    "weight": 9,
+    "cluster": 14,
+    "action": "add-node"
+  },
+  {
+    "id": "rescued",
+    "weight": 9,
+    "cluster": 12,
+    "action": "add-node"
+  },
+  {
+    "id": "netanyahu",
+    "weight": 9,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "journalist",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "dutch",
+    "weight": 9,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "republican",
+    "weight": 9,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "philippine",
+    "weight": 9,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "sea",
+    "weight": 8,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "israel",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "israeli",
+    "weight": 8,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "inside",
+    "weight": 7,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "challenge",
+    "weight": 7,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "id": "republicans",
+    "weight": 7,
+    "cluster": 13,
+    "action": "add-node"
+  },
+  {
+    "id": "armoured",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "persecution",
+    "weight": 6,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "evasion",
+    "weight": 6,
+    "cluster": 17,
+    "action": "add-node"
+  },
+  {
+    "id": "bag",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "ikea",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "detective",
+    "weight": 5,
+    "cluster": 15,
+    "action": "add-node"
+  },
+  {
+    "id": "prosecution",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "bulletproof",
+    "weight": 5,
+    "cluster": 16,
+    "action": "add-node"
+  },
+  {
+    "id": "contentious",
+    "weight": 5,
+    "cluster": 11,
+    "action": "add-node"
+  },
+  {
+    "source": "kim",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "kim",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "putin",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "jong",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "impeachment",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "inquiry",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "inquiry",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "floods",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "thousands",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "dead",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "gogh",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "gogh",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "stolen",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "supreme",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "judicial",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "painting",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "painting",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "painting",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "ressa",
+    "action": "add-edge"
+  },
+  {
+    "source": "ressa",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "maria",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "ressa",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "ressa",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "north",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "korea",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "art",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "art",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "art",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "arrives",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "acquitted",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "nobel",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "train",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "missing",
+    "action": "add-edge"
+  },
+  {
+    "source": "inquiry",
+    "target": "mccarthy",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "arrives",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "painting",
+    "target": "art",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "netanyahu",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "ressa",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "war",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "meeting",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "death",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "turkish",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "rescued",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "toll",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "death",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "inquiry",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "ressa",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "republican",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "feared",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "armoured",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "armoured",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "armoured",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "devastating",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "devastating",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "israel",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "persecution",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "persecution",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "trump",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "art",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "israeli",
+    "action": "add-edge"
+  },
+  {
+    "source": "journalist",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "ressa",
+    "target": "evasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "tax",
+    "target": "evasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "maria",
+    "target": "evasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "oil",
+    "action": "add-edge"
+  },
+  {
+    "source": "russia",
+    "target": "ukraine",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "talks",
+    "action": "add-edge"
+  },
+  {
+    "source": "cave",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "turkish",
+    "target": "rescue",
+    "action": "add-edge"
+  },
+  {
+    "source": "floods",
+    "target": "libyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "missing",
+    "target": "libyan",
+    "action": "add-edge"
+  },
+  {
+    "source": "oil",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "sea",
+    "action": "add-edge"
+  },
+  {
+    "source": "libya",
+    "target": "flood",
+    "action": "add-edge"
+  },
+  {
+    "source": "thousands",
+    "target": "flood",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "ukraine",
+    "target": "russian",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "ikea",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "ikea",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "ikea",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "bag",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "bag",
+    "action": "add-edge"
+  },
+  {
+    "source": "bag",
+    "target": "ikea",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "bag",
+    "action": "add-edge"
+  },
+  {
+    "source": "gogh",
+    "target": "detective",
+    "action": "add-edge"
+  },
+  {
+    "source": "stolen",
+    "target": "detective",
+    "action": "add-edge"
+  },
+  {
+    "source": "art",
+    "target": "detective",
+    "action": "add-edge"
+  },
+  {
+    "source": "painting",
+    "target": "detective",
+    "action": "add-edge"
+  },
+  {
+    "source": "van",
+    "target": "detective",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "prosecution",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "prosecution",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "bulletproof",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "bulletproof",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "bulletproof",
+    "action": "add-edge"
+  },
+  {
+    "source": "kim",
+    "target": "inside",
+    "action": "add-edge"
+  },
+  {
+    "source": "train",
+    "target": "inside",
+    "action": "add-edge"
+  },
+  {
+    "source": "mccarthy",
+    "target": "joe",
+    "action": "add-edge"
+  },
+  {
+    "source": "jong",
+    "target": "inside",
+    "action": "add-edge"
+  },
+  {
+    "source": "korea",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "north",
+    "target": "meet",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "contentious",
+    "action": "add-edge"
+  },
+  {
+    "source": "supreme",
+    "target": "contentious",
+    "action": "add-edge"
+  },
+  {
+    "source": "judicial",
+    "target": "contentious",
+    "action": "add-edge"
+  },
+  {
+    "source": "dead",
+    "target": "flooding",
+    "action": "add-edge"
+  },
+  {
+    "source": "court",
+    "target": "contentious",
+    "action": "add-edge"
+  },
+  {
+    "source": "acquitted",
+    "target": "philippine",
+    "action": "add-edge"
+  },
+  {
+    "source": "acquitted",
+    "target": "journalist",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "evasion",
+    "action": "add-edge"
+  },
+  {
+    "source": "netanyahu",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "putin",
+    "target": "cases",
+    "action": "add-edge"
+  },
+  {
+    "source": "trump",
+    "target": "cases",
+    "action": "add-edge"
+  },
+  {
+    "source": "israeli",
+    "target": "challenge",
+    "action": "add-edge"
+  },
+  {
+    "source": "painting",
+    "target": "dutch",
+    "action": "add-edge"
+  },
+  {
+    "source": "biden",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "impeachment",
+    "target": "republicans",
+    "action": "add-edge"
+  },
+  {
+    "source": "nobel",
+    "target": "journalist",
+    "action": "add-edge"
+  }
+]
